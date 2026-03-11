@@ -1,0 +1,133 @@
+{
+  "guilds": {
+    "928983859222159390": {
+      "enabled": true,
+      "channels": {
+        "1459704202505879685": {
+          "pairs": [
+            "JA2EN",
+            "EN2KO",
+            "EN2JA",
+            "KO2EN",
+            "JA2KO",
+            "KO2JA"
+          ],
+          "relay_channel_id": null
+        },
+        "1460998279667126364": {
+          "pairs": [
+            "EN2KO",
+            "KO2EN"
+          ],
+          "relay_channel_id": null
+        },
+        "1459694234465468518": {
+          "pairs": [
+            "EN2KO",
+            "KO2EN"
+          ],
+          "relay_channel_id": null
+        },
+        "1459303281536012542": {
+          "pairs": [
+            "EN2KO",
+            "KO2EN"
+          ],
+          "relay_channel_id": null
+        },
+        "1461252807263781087": {
+          "pairs": [
+            "EN2KO",
+            "KO2EN"
+          ],
+          "relay_channel_id": null
+        },
+        "1462800330927636545": {
+          "pairs": [
+            "KO2JA",
+            "JA2KO"
+          ],
+          "relay_channel_id": null
+        },
+        "953668391909077002": {
+          "pairs": [
+            "EN2RU",
+            "RU2EN"
+          ],
+          "relay_channel_id": null
+        },
+        "1470252127526850600": {
+          "pairs": [
+            "EN2KO",
+            "KO2EN"
+          ],
+          "relay_channel_id": null
+        },
+        "1475790565110054953": {
+          "pairs": [
+            "EN2KO"
+          ],
+          "relay_channel_id": null
+        }
+      }
+    },
+    "1455655961078534298": {
+      "enabled": true,
+      "channels": {
+        "1459633419083579506": {
+          "pairs": [
+            "KO2EN",
+            "JA2EN"
+          ],
+          "relay_channel_id": null
+        },
+        "1459750748115177544": {
+          "pairs": [
+            "EN2KO",
+            "JA2KO"
+          ],
+          "relay_channel_id": null
+        },
+        "1459750859989848227": {
+          "pairs": [
+            "EN2JA",
+            "KO2JA"
+          ],
+          "relay_channel_id": null
+        },
+        "1459753150264119348": {
+          "pairs": [
+            "EN2KO",
+            "EN2JA",
+            "EN2RU",
+            "KO2EN",
+            "KO2JA",
+            "KO2RU",
+            "JA2KO",
+            "JA2EN",
+            "JA2RU",
+            "RU2KO",
+            "RU2EN",
+            "RU2JA"
+          ],
+          "relay_channel_id": null
+        },
+        "1465630086324555809": {
+          "pairs": [
+            "EN2RU",
+            "RU2EN"
+          ],
+          "relay_channel_id": null
+        }
+      }
+    },
+    "903957461910839306": {
+      "enabled": false,
+      "channels": {}
+    },
+    "1369351558302662821": {
+      "enabled": false,
+      "channels": {}
+    }
+  }
+}

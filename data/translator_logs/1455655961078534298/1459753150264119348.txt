@@ -1,0 +1,7079 @@
+
+======================================================================
+[2026-03-11 05:28:50 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Save these if you want them before they get pushed out of view. Pirates stronger together!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+시야에서 밀려나기 전에 원한다면 저장하세요. 함께하면 더 강한 해적!
+
+- 🇺🇸 EN → 🇯🇵 JP
+欲しいなら、視界から押し出される前に保存しておこう。海賊は団結すれば強い！
+
+- 🇺🇸 EN → 🇷🇺 RU
+Сохраните их, если хотите, пока они не исчезли из поля зрения. Пираты сильнее вместе!
+
+
+======================================================================
+[2026-03-10 22:50:17 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Oneg is now
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+Oneg는 이제
+
+- 🇺🇸 EN → 🇯🇵 JP
+オネグは今
+
+- 🇺🇸 EN → 🇷🇺 RU
+Онег сейчас
+
+
+======================================================================
+[2026-03-10 22:50:08 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+myb on Oneg
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+myb on One
+
+- 🇺🇸 EN → 🇯🇵 JP
+ミブ・オング
+
+- 🇺🇸 EN → 🇷🇺 RU
+myb on Oneg
+
+
+======================================================================
+[2026-03-10 22:48:48 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Hook are you sue Oneg and South Bastion are the same window?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+후크는 원과 사우스 바스티온이 같은 창문인가요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+フック......オネグとサウス・バスティオンは同じ窓なんですか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Хук, вы судитесь, что Онег и Южный Бастион - это одно и то же окно?
+
+
+======================================================================
+[2026-03-10 22:18:32 UTC]
+Author: bestkeptsecret (344718519927177226)
+Original:
+Yes! This was an awesome update! I use Discord for work, and it has been a timesaver!!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+예! 정말 멋진 업데이트였어요! 저는 업무용으로 디스코드를 사용하는데, 시간을 절약할 수 있게 되었어요!
+
+- 🇺🇸 EN → 🇯🇵 JP
+はい！これは素晴らしいアップデートだった！私は仕事でDiscordを使っているのですが、時間節約になりました!
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да! Это было потрясающее обновление! Я использую Discord для работы, и это было очень полезно!!!
+
+
+======================================================================
+[2026-03-10 22:16:35 UTC]
+Author: mikedz (173327548980264960)
+Original:
+"@ time " no space
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+"@ 시간" 공백 없음
+
+- 🇺🇸 EN → 🇯🇵 JP
+「スペースなし
+
+- 🇺🇸 EN → 🇷🇺 RU
+"@ время" без пробела
+
+
+======================================================================
+[2026-03-10 22:16:22 UTC]
+Author: mikedz (173327548980264960)
+Original:
+you can use @ time discord command and it'll auto adjust time for the users location, pro tip
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+시간 불협화음 명령을 사용하면 사용자 위치에 맞게 시간을 자동으로 조정할 수 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+を使えば、ユーザーの位置情報に合わせて時間を自動調整してくれるよ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Вы можете использовать команду @ time discord, и она автоматически подстроит время под местоположение пользователя, совет профессионала
+
+
+======================================================================
+[2026-03-10 21:44:09 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Possible Ports, EST time zone;
+**1900 (7pm) -**Charelston 
+
+**2000 (8pm) -** Oneg, West Bastion, South Bastion, Bord Radel, Fiji, 
+
+**2300 (11pm) -** Cursed City, San Cristobel, Nevis
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+가능한 항구, 동부 표준시 시간대;
+**1900 (오후 7시) -**채렐스톤
+
+**2000 (오후 8시) -** 오네그, 웨스트 바스티온, 사우스 바스티온, 보드라델, 피지,
+
+**2300 (오후 11시) -** 저주받은 도시, 산 크리스토벨, 네비스
+
+- 🇺🇸 EN → 🇯🇵 JP
+可能なポート、ESTタイムゾーン；
+**1900（午後7時）-**チャールストン
+
+**2000（20時）-**オネグ、ウェストバスティオン、サウスバスティオン、ボルドレーデル、フィジー、
+
+**2300（23時）-** Cursed City、サンクリストベル、ネイビス
+
+- 🇺🇸 EN → 🇷🇺 RU
+Возможные порты, часовой пояс EST;
+**1900 (7 вечера) -**Чарелстон
+
+**2000 (20:00) -**Онег, Западный Бастион, Южный Бастион, Борд Радель, Фиджи,
+
+**2300 (11 вечера) -** Проклятый город, Сан-Кристобель, Невис
+
+
+======================================================================
+[2026-03-10 07:19:14 UTC]
+Author: noob3rt (228351586303213569)
+Original:
+https://klipy.com/gifs/ill-be-there-i-will-be-there
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://klipy.com/gifs/ill-be-there-i-will-be-there
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://klipy.com/gifs/ill-be-there-i-will-be-there
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://klipy.com/gifs/ill-be-there-i-will-be-there
+
+
+======================================================================
+[2026-03-10 06:51:57 UTC]
+Author: xxthedarkwolfxx (307669438470029324)
+Original:
+i agree that we should cuddle all day
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+하루 종일 껴안고 있어야 한다는 데 동의합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+一日中抱き合っているべきだという意見に賛成だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я согласна, что мы должны обниматься весь день.
+
+
+======================================================================
+[2026-03-10 06:40:47 UTC]
+Author: .voarex (725508970151936052)
+Original:
+LIQ came out with 18k+ in Amber!!!! WE JUST KEEP GETTING MORE!
+
+Thank you to everyone!
+https://cdn.discordapp.com/attachments/1479353447806406768/1480817612505219143/image.png?ex=69b10e5f&is=69afbcdf&hm=a6fb6819f254e5e76f6adbca3bd9d14f90318a59b17e1459051a5c7e9cd297c2&
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+LIQ가 앰버에서 18k+로 출시되었습니다!!!! 계속 늘어나고 있습니다!
+
+모두에게 감사합니다!
+https://cdn.discordapp.com/attachments/1479353447806406768/1480817612505219143/image.png?ex=69b10e5f&is=69afbcdf&hm=a6fb6819f254e5e76f6adbca3bd9d14f90318a59b17e1459051a5c7e9cd297c2&
+
+- 🇺🇸 EN → 🇯🇵 JP
+LIQは琥珀色で18,000ドル以上を獲得した！さらに増え続けている！
+
+皆さんありがとうございました！
+https://cdn.discordapp.com/attachments/1479353447806406768/1480817612505219143/image.png?ex=69b10e5f&is=69afbcdf&hm=a6fb6819f254e5e76f6adbca3bd9d14f90318a59b17e1459051a5c7e9cd297c2&
+
+- 🇺🇸 EN → 🇷🇺 RU
+LIQ вышел с 18k+ в Amber!!!! МЫ ПРОДОЛЖАЕМ ПОЛУЧАТЬ БОЛЬШЕ!
+
+Спасибо всем!
+https://cdn.discordapp.com/attachments/1479353447806406768/1480817612505219143/image.png?ex=69b10e5f&is=69afbcdf&hm=a6fb6819f254e5e76f6adbca3bd9d14f90318a59b17e1459051a5c7e9cd297c2&
+
+
+======================================================================
+[2026-03-10 06:36:41 UTC]
+Author: nihada_the_kobold (745347693450100848)
+Original:
+i agree 120%
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+120% 동의합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+120％同意する
+
+- 🇺🇸 EN → 🇷🇺 RU
+согласен на 120%
+
+
+======================================================================
+[2026-03-10 06:35:36 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+My time zone is PST but this, MUST 100%, be defended.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+내 시간대는 태평양 표준시이지만 이것은 100% 방어해야 합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+私のタイムゾーンは太平洋標準時だが、これは100％守られなければならない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Мой часовой пояс - PST, но это, ДОЛЖНО быть 100%, быть защищено.
+
+
+======================================================================
+[2026-03-10 04:35:10 UTC]
+Author: xxthedarkwolfxx (307669438470029324)
+Original:
+theyre angry little children is all lol
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그들은 화난 어린 아이들이 전부입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+彼らは怒っている子供たちだ(笑)
+
+- 🇺🇸 EN → 🇷🇺 RU
+Они злые маленькие дети, вот и все.
+
+
+======================================================================
+[2026-03-10 04:34:51 UTC]
+Author: mikedz (173327548980264960)
+Original:
+they talk so much shit and do so many dumb things but if it wasn't for the pirates they would have no content in this game at all lol
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그들은 너무 많은 똥을 말하고 멍청한 일을 많이하지만 해적들이 아니었다면이 게임에는 콘텐츠가 전혀 없을 것입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+でも、もし海賊がいなかったら、このゲームには何のコンテンツもなかっただろうね(笑)
+
+- 🇺🇸 EN → 🇷🇺 RU
+Они говорят так много дерьма и делают так много глупых вещей, но если бы не пираты, у них бы вообще не было контента в этой игре lol
+
+
+======================================================================
+[2026-03-10 04:28:41 UTC]
+Author: xxthedarkwolfxx (307669438470029324)
+Original:
+to neutralize or take from pirates probably, they think they hurting us
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+해적들을 무력화시키거나 해적들로부터 빼앗기 위해
+
+- 🇺🇸 EN → 🇯🇵 JP
+おそらく海賊を無力化するか、海賊から奪い取るためだろう。
+
+- 🇺🇸 EN → 🇷🇺 RU
+чтобы нейтрализовать или отобрать у пиратов, возможно, они думают, что причиняют нам вред.
+
+
+======================================================================
+[2026-03-10 04:21:44 UTC]
+Author: mikedz (173327548980264960)
+Original:
+fucking... why
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+씨발... 왜
+
+- 🇺🇸 EN → 🇯🇵 JP
+クソ...なぜだ
+
+- 🇺🇸 EN → 🇷🇺 RU
+бля... почему
+
+
+======================================================================
+[2026-03-10 04:19:35 UTC]
+Author: xxthedarkwolfxx (307669438470029324)
+Original:
+WO are going for Northside
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+WO는 노스사이드로 간다
+
+- 🇺🇸 EN → 🇯🇵 JP
+WOはノーサイドを目指す
+
+- 🇺🇸 EN → 🇷🇺 RU
+WO едут в Нортсайд.
+
+
+======================================================================
+[2026-03-10 00:26:51 UTC]
+Author: demonsash (219380751618015242)
+Original:
+https://discord.gg/hMZHhexJ
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://discord.gg/hMZHhexJ
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://discord.gg/hMZHhexJ
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://discord.gg/hMZHhexJ
+
+
+======================================================================
+[2026-03-09 22:42:04 UTC]
+Author: tols89 (231200003073376256)
+Original:
+3.7 seconds, reward please
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+3.7초, 보상 주세요
+
+- 🇺🇸 EN → 🇯🇵 JP
+3.7秒、ご褒美をください
+
+- 🇺🇸 EN → 🇷🇺 RU
+3,7 секунды, награда, пожалуйста
+
+
+======================================================================
+[2026-03-09 22:26:57 UTC]
+Author: stealjacket (276894831597453312)
+Original:
+Interesting.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+흥미롭군요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+興味深い。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Интересно.
+
+
+======================================================================
+[2026-03-09 22:06:57 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+**QUEST:** *You sunk my battleship*
+
+>Submit your quickest time to kill a Huracan.<
+
+-In a 1v1 private match. 
+-The timer starts the moment you can move.
+-The timer ends at battle results screen displays.
+-Huracan will not fight back, drive directly to center of both starting positions and full stop.
+-Huracan will use defensive consumables used in normal PvP engagements. 
+-The winner must submit the ship, ammo, consumables, and replicate the kill time live.
+-The killing player can not use a Huracan.
+
+**REWARDS:**
+```
+Huracan player will get;
+-9 Blueprint Fragments 
+-9 Battle Marks
+-3 Voodoo Skulls
+
+Killing player will get;
+-9 Blueprint Fragments 
+-9 Battle Marks
+-3 Voodoo Skulls
+```
+
+Please submit your kill time, to Captain Hook, 24 hours of this message and be prepared to replicate the kill timer. Only the fastest time will be rewarded. Good Luck!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+**퀘스트:** *당신이 내 전함을 침몰시켰군요*
+
+>후라칸을 가장 빨리 처치한 시간을 제출하세요.<
+
+-1대1 비공개 매치에서.
+-이동 가능한 순간부터 타이머가 시작됩니다.
+-타이머는 전투 결과 화면이 표시되는 시점에 종료됩니다.
+-후라칸은 반격하지 않으며, 양쪽 시작 위치의 중앙으로 바로 이동하여 완전히 정지합니다.
+-후라칸은 일반 PvP 교전에서 사용되는 방어 소모품을 사용합니다.
+-승자는 함선, 탄약, 소모품을 제출하고 킬 타임을 실시간으로 재현해야 합니다.
+-죽인 플레이어는 후라칸을 사용할 수 없습니다.
+
+**보상: **보상
+```
+후라칸 플레이어가 획득합니다;
+-청사진 조각 9개
+전투 마크 -9
+부두교 해골 -3
+
+처치한 플레이어가 획득합니다;
+청사진 조각 -9
+전투 흔적 -9
+부두교 해골 -3
+```
+
+이 메시지를 받은 후 24시간 내에 후크 선장에게 처치 시간을 제출하고 처치 타이머를 복제할 준비를 하세요. 가장 빠른 시간만 보상을 받을 수 있습니다. 행운을 빕니다!
+
+- 🇺🇸 EN → 🇯🇵 JP
+**あなたは私の戦艦を沈めた。
+
+>フラカンを仕留める最速タイムを教えてください。
+
+-1対1のプライベートマッチの場合。
+-タイマーは動けるようになった瞬間から始まります。
+-戦闘結果画面が表示された時点で終了。
+-フラカンは反撃せず、両スタート位置の中央に直接走り、完全に停止する。
+-Huracanは通常のPvPで使用される防御用消耗品を使用する。
+-勝者は船、弾薬、消耗品を提出し、キルタイムをライブで再現しなければならない。
+-キルしたプレイヤーはフラカンを使用できない。
+
+** 報酬：***
+```
+Huracanプレイヤーは以下を得る；
+-9個の設計図の破片
+-9 バトルマーク
+-ブードゥー教の頭骨3個
+
+キリングプレイヤーは以下を手に入れる；
+-9個の設計図の破片
+-9 バトルマーク
+-3 ブードゥー教の頭骨
+```
+
+このメッセージから24時間以内に、あなたのキルタイムをキャプテン・フックに提出してください。最速タイムにのみ報酬が与えられる。幸運を祈る！
+
+- 🇺🇸 EN → 🇷🇺 RU
+**КВЕСТ:** *Вы потопили мой линкор*
+
+>Представьте ваше самое быстрое время убийства Huracan.<
+
+-В личном матче 1v1.
+-Таймер запускается в тот момент, когда вы можете двигаться.
+-Таймер заканчивается, когда на экране появляются результаты боя.
+-Huracan не будет сопротивляться, поедет прямо в центр обеих стартовых позиций и полностью остановится.
+-Huracan будет использовать оборонительные расходные материалы, используемые в обычных PvP-сражениях.
+-Победитель должен предоставить корабль, боеприпасы, расходные материалы и повторить время убийства в прямом эфире.
+-Убивающий игрок не может использовать Huracan.
+
+**ПРИЗЫ:**
+```
+Игрок на Huracan получит;
+-9 фрагментов чертежей
+-9 Боевых знаков
+-3 Черепа Вуду
+
+Убивая, игрок получит;
+-9 фрагментов чертежей
+-9 Боевых знаков
+-3 Черепа Вуду
+```
+
+Пожалуйста, сообщите время своего убийства капитану Хуку через 24 часа после этого сообщения и будьте готовы повторить таймер убийства. Только самое быстрое время будет вознаграждено. Удачи!
+
+
+======================================================================
+[2026-03-08 23:59:21 UTC]
+Author: rentzduemofo (339149621005778947)
+Original:
+Some guy named tacticalmon3y is mad salty..  make sure you bust his ass if you see him.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+tacticalmon3y라는 사람이 엄청 짠데요... 그 사람 보면 꼭 혼내주세요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+タクティカルモン3yという名前の男は、めちゃくちゃ塩辛いんだ...彼を見かけたら、ケツを叩いてやってくれ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Некий парень по имени tacticalmon3y безумно соленый. Убедитесь, что вы надрали ему задницу, если увидите его.
+
+
+======================================================================
+[2026-03-08 23:13:31 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Tonight's possible battles;
+
+South bastion and Thermo are able to be attacked in 45min
+ 
+Aruba in 4 hours from this message. 
+
+(pretention is advised if wanted)
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤의 가능한 전투;
+
+45분 안에 남쪽 요새와 열을 공격할 수 있습니다.
+ 
+이 메시지로부터 4시간 후 아루바를 공격할 수 있습니다.
+
+(원한다면 미리 공격하는 것이 좋습니다.)
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜の可能性のある戦い
+
+南堡塁とテルモは45分で攻撃可能
+ 
+アルバはこのメッセージから4時間後。
+
+(もし必要であれば、偽ることをお勧めする)
+
+- 🇺🇸 EN → 🇷🇺 RU
+Возможные сражения сегодняшнего вечера;
+
+Южный бастион и Термо могут быть атакованы за 45 минут
+ 
+Аруба через 4 часа после этого сообщения.
+
+(Притворство рекомендуется при желании)
+
+
+======================================================================
+[2026-03-08 22:29:04 UTC]
+Author: antigiggy (189004285634150400)
+Original:
+o7
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+o7
+
+- 🇺🇸 EN → 🇯🇵 JP
+o7
+
+- 🇺🇸 EN → 🇷🇺 RU
+o7
+
+
+======================================================================
+[2026-03-08 22:06:51 UTC]
+Author: herorages (516827080676081674)
+Original:
+https://tenor.com/view/sad-tearing-tearing-up-guy-meme-gif-18376284545860618849
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/sad-tearing-tearing-up-guy-meme-gif-18376284545860618849
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/sad-tearing-tearing-up-guy-meme-gif-18376284545860618849
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://tenor.com/view/sad-tearing-tearing-up-guy-meme-gif-18376284545860618849
+
+
+======================================================================
+[2026-03-08 22:05:49 UTC]
+Author: herorages (516827080676081674)
+Original:
+https://tenor.com/view/emotiguy-salute-joe-hi-emotiguy-joe-salute-gif-12916449566301630787
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/emotiguy-salute-joe-hi-emotiguy-joe-salute-gif-12916449566301630787
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/emotiguy-salute-joe-hi-emotiguy-joe-salute-gif-12916449566301630787
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://tenor.com/view/emotiguy-salute-joe-hi-emotiguy-joe-salute-gif-12916449566301630787
+
+
+======================================================================
+[2026-03-08 22:01:41 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Couldn't agree more hook. Keep on kicking ass pirate nation!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+이보다 더 좋을 수 없습니다. 해적의 나라에서 계속 활약하세요!
+
+- 🇺🇸 EN → 🇯🇵 JP
+フックに大賛成だ。海賊国家を蹴散らし続けてくれ！
+
+- 🇺🇸 EN → 🇷🇺 RU
+Не могу не согласиться с Хуком. Продолжайте надирать задницу пиратской нации!
+
+
+======================================================================
+[2026-03-08 21:58:27 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Crossed Blades: You came out swinging hard like always, you make Hook happy. I value our friendship. 
+
+BBC/BBc: You guys have grown so much since I remember you in Season One and I am proud of where you're at and heading. 
+
+SKT/SKt: Nothing but good comes from our friendship. I always feel safer having you around.
+
+CRY/DeD/UBG/PRV: You know what makes a good player, is you can form up and get shit done without ever having to be micromanaged. Keep on keeping on brothers.
+
+
+I want to thank you all for the long night we had yesterday and your dedication to your fleet, yourself, and the entire Pirate nation. Every single one of you matters and made a difference. Mistakes were made on Grey Island but it can be retaken in time. 
+
+I am going to be hosting some training sessions very very soon. We have to get creative to beat the massive force upon us. Let's do this together and create new metas that will bring us all more booty.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+교차된 칼날: 언제나처럼 열심히 스윙을 해줘서 후크를 기쁘게 해줬어요. 난 우리의 우정을 소중히 여깁니다.
+
+BBC/BBc: 시즌 1에서 여러분을 기억할 때보다 정말 많이 성장했고, 여러분이 지금 어디에 있고 어디로 향하고 있는지 자랑스럽습니다.
+
+SKT/SKt: 우리 우정에는 좋은 것만 있죠. 항상 곁에 있으면 더 안전하다고 느껴요.
+
+CRY/DeD/UBG/PRV: 좋은 선수의 조건은 마이크로 매니지먼트 없이도 팀을 구성하고 일을 해낼 수 있다는 거죠. 형님들, 계속하세요.
+
+
+어제 긴 밤을 보내며 함대와 자신, 그리고 전체 해적 국가를 위해 헌신해 주신 여러분 모두에게 감사드립니다. 여러분 한 명 한 명이 모두 소중하고 변화를 만들었습니다. 회색 섬에서 실수가 있었지만 시간이 지나면 다시 탈환할 수 있습니다.
+
+조만간 훈련 세션을 개최할 예정입니다. 우리에게 닥친 거대한 힘을 이겨내려면 창의력을 발휘해야 합니다. 함께 힘을 합쳐 더 많은 전리품을 가져다줄 새로운 메타를 만들어 봅시다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+クロスした刃：君はいつものように激しくスイングしてくれた。僕は僕らの友情を大切にするよ。
+
+BBC/BBc：シーズン1の頃を思い出すと、君たちはとても成長した。
+
+SKT/SKt私たちの友情からはいいことしか生まれない。君がいるといつも安心できる。
+
+CRY/DeD/UBG/PRV:いい選手というのは、マイクロマネジメントされることなく、チームをまとめ、やり遂げることができるものなんだ。その調子だ。
+
+
+昨日の長い夜、艦隊、自分自身、そして海賊国家全体への献身に感謝したい。君たち一人一人が重要であり、違いをもたらした。グレイ島で過ちを犯したが、いずれ奪還できる。
+
+近々、トレーニングセッションを開催する予定だ。私たちの前に立ちはだかる巨大な力に打ち勝つためには、クリエイティブにならなければならない。一緒にこれを行い、私たち全員にさらなる戦利品をもたらす新しいメタを作り出そう。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Скрещенные клинки: Ты, как всегда, вышел на сцену с сильным напором, и ты делаешь Хука счастливым. Я ценю нашу дружбу.
+
+BBC/BBc: Вы так выросли с тех пор, как я помню вас в первом сезоне, и я горжусь тем, на каком этапе вы находитесь и куда направляетесь.
+
+SKT/SKt: Наша дружба приносит только пользу. Я всегда чувствую себя в безопасности, когда ты рядом.
+
+CRY/DeD/UBG/PRV: Знаешь, что делает хорошего игрока хорошим, так это то, что ты можешь собраться и сделать все, что нужно, не нуждаясь в микроуправлении. Продолжайте в том же духе, братья.
+
+
+Я хочу поблагодарить вас всех за долгую ночь, которую мы провели вчера, и за вашу преданность своему флоту, себе и всей пиратской нации. Каждый из вас важен и имеет значение. На Сером острове были допущены ошибки, но со временем его можно вернуть.
+
+Очень скоро я проведу несколько тренировок. Мы должны проявить изобретательность, чтобы победить надвигающуюся на нас мощную силу. Давайте сделаем это вместе и создадим новые меты, которые принесут нам всем больше добычи.
+
+
+======================================================================
+[2026-03-08 05:29:00 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+2 and half hours from this message is Nisogora and a defense with CRY fleet. 
+
+TiF went into Gelbion PB, ty all who helped.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+이 메시지로부터 2시간 30분 거리에 니소고라가 있고, CRY 함대가 방어하고 있습니다.
+
+TiF는 겔비온 PB로 들어갔고, 도와주신 모든 분들께 감사드립니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+このメッセージから2時間半後、ニソゴラとCRY艦隊による防衛戦が行われる。
+
+TiFはGelbion PBに入った。
+
+- 🇺🇸 EN → 🇷🇺 RU
+В 2,5 часах от этого сообщения находится Нисогора и оборона с флотом CRY.
+
+TiF отправился в Gelbion PB, спасибо всем, кто помог.
+
+
+======================================================================
+[2026-03-08 04:58:31 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Sevro PB starting gg GL hf
+
+Cursed City looks safe.
+
+Assist Spain @ Gelbion
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+세브로 PB 시작 gg GL hf
+
+저주받은 도시는 안전해 보입니다.
+
+스페인 @ 겔비온 지원
+
+- 🇺🇸 EN → 🇯🇵 JP
+セブロ PB スタート gg GL hf
+
+カースド・シティは安全そうだ。
+
+アシストスペイン@ゲルビオン
+
+- 🇺🇸 EN → 🇷🇺 RU
+Sevro PB starting gg GL hf
+
+Проклятый город выглядит безопасным.
+
+Ассист Испании @ Гельбион
+
+
+======================================================================
+[2026-03-08 04:45:08 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Grey Island is starting the PB now, GL HF o7
+Do NOT join if u are not selcted for the PB
+
+BBC is at Sevro concurrent
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그레이 아일랜드가 지금 PB를 시작합니다, GL HF o7
+PB에 선정되지 않은 경우 가입하지 마세요.
+
+BBC가 세브로 동시 진행 중
+
+- 🇺🇸 EN → 🇯🇵 JP
+グレイアイランドがPBを開始。
+PBに選ばれていない人は参加しないでください。
+
+BBCはセブロ同時開催
+
+- 🇺🇸 EN → 🇷🇺 RU
+Серый остров начинает PB сейчас, GL HF o7
+НЕ присоединяйтесь, если вы не отобраны для PB
+
+BBC находится в Sevro одновременно
+
+
+======================================================================
+[2026-03-08 03:16:31 UTC]
+Author: asylumental (404520639366692867)
+Original:
+they call Gray their home, they have 22 members... theyre willing to donate their bodies to the cause
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그들은 그레이를 집이라고 부르며 22 명의 회원이 있습니다... 그들은 기꺼이 시신을 기증합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+グレイを "ホーム "と呼び、22人のメンバーがいる。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Они называют Грей своим домом, у них 22 члена... они готовы пожертвовать свои тела ради дела.
+
+
+======================================================================
+[2026-03-08 03:15:56 UTC]
+Author: asylumental (404520639366692867)
+Original:
+a new pirate guild WGS will be helping us fend off Gray, just to let people know
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+새로운 해적 길드 WGS가 그레이를 막는 데 도움을 줄 것입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+新しい海賊ギルドWGSがグレイを撃退するために協力してくれることになった。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Новая пиратская гильдия WGS будет помогать нам отбиваться от Грея, просто чтобы люди знали.
+
+
+======================================================================
+[2026-03-08 03:05:54 UTC]
+Author: blacktemplarsraptors (221171407080521729)
+Original:
+<@&1459620282154352802>  jump in coms please
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@&1459620282154352802> 댓글로 이동하세요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@&1459620282154352802> comsに飛び込んでください。
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@&1459620282154352802> прыгайте в комс, пожалуйста
+
+
+======================================================================
+[2026-03-08 02:51:33 UTC]
+Author: xxthedarkwolfxx (307669438470029324)
+Original:
+for right now its in collective
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+지금은 집단적으로
+
+- 🇺🇸 EN → 🇯🇵 JP
+今のところ、集団的
+
+- 🇺🇸 EN → 🇷🇺 RU
+на данный момент это коллективный
+
+
+======================================================================
+[2026-03-08 02:38:27 UTC]
+Author: jon69.420 (412329832047837214)
+Original:
+whats the chat for grey defense
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그레이 디펜스를 위한 채팅은 무엇인가요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+グレイ・ディフェンスのチャットは？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Какой чат для серой защиты
+
+
+======================================================================
+[2026-03-08 00:32:43 UTC]
+Author: stealjacket (276894831597453312)
+Original:
+For those that are coming to Grey's defense hit me up if your short guns. Ill see if I can get ypu out fitted. @everyone
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그레이를 변호하러 오시는 분들 중 단총이 있으면 저한테 연락주세요. 제가 장착할 수 있는지 알아보겠습니다. 모두
+
+- 🇺🇸 EN → 🇯🇵 JP
+グレイの防衛戦に来る人は、銃が足りないなら僕に連絡してくれ。もし銃が足りないなら連絡してくれ。みんな
+
+- 🇺🇸 EN → 🇷🇺 RU
+Для тех, кто собирается на защиту Грея, свяжитесь со мной, если у вас не хватает оружия. Посмотрим, смогу ли я вас вытащить. @everyone
+
+
+======================================================================
+[2026-03-07 23:23:31 UTC]
+Author: .voarex (725508970151936052)
+Original:
+LIQ is very sorry, we would make it to PvP's Port Timer but it conflicts with DED's port timer and thus we cannot 🙁
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+죄송합니다, PvP의 포트 타이머에 도달하고 싶지만 DED의 포트 타이머와 충돌하여 불가능합니다 🙁.
+
+- 🇺🇸 EN → 🇯🇵 JP
+LIQは大変申し訳なく思っています。PvPのポートタイマーにしたいのですが、DEDのポートタイマーと重なってしまい、できません。
+
+- 🇺🇸 EN → 🇷🇺 RU
+LIQ очень сожалеет, мы бы сделали это в PvP, но это конфликтует с таймером порта DED, поэтому мы не можем 🙁 .
+
+
+======================================================================
+[2026-03-07 23:08:48 UTC]
+Author: techniker (235871018823057408)
+Original:
+aka <t:1772942400:t> - <t:1772863200:t>
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+일명 <t:1772942400:t> - <t:1772863200:t>
+
+- 🇺🇸 EN → 🇯🇵 JP
+別名<t:1772942400:t> - <t:1772863200:t
+
+- 🇺🇸 EN → 🇷🇺 RU
+он же <t:1772942400:t> - <t:1772863200:t>
+
+
+======================================================================
+[2026-03-07 23:05:39 UTC]
+Author: nihada_the_kobold (745347693450100848)
+Original:
+11-1 est
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+11-1 EST
+
+- 🇺🇸 EN → 🇯🇵 JP
+11-1 est
+
+- 🇺🇸 EN → 🇷🇺 RU
+11-1 эст
+
+
+======================================================================
+[2026-03-07 22:59:48 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+When is the grey battle window tonight?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤 회색 전투 시간은 언제인가요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜のグレーの試合はいつですか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Когда сегодня будет окно серой битвы?
+
+
+======================================================================
+[2026-03-07 20:59:46 UTC]
+Author: dugprime (176848053410463745)
+Original:
+It is 15%, if you manage to get it down to 14% exactly u can pop protection.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+15%이며, 정확히 14%까지 낮추면 보호 기능을 터뜨릴 수 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+15%で、14%まで下げればプロテクションをかけることができる。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Она составляет 15%, если вам удастся снизить ее до 14%, то вы сможете установить защиту.
+
+
+======================================================================
+[2026-03-07 03:09:49 UTC]
+Author: blacktemplarsraptors (221171407080521729)
+Original:
+<@479172539277639707>  GRATZ ON THE HURRACAN!!!!!!!!!!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@479172539277639707> 후라칸에 그라츠!!!!!!!!!!
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@479172539277639707> ハラカンに感謝だ!!!!!!!!!!!!!
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@479172539277639707> СПАСИБО ЗА УРАГАНCOPY01
+
+
+======================================================================
+[2026-03-07 01:02:21 UTC]
+Author: mikedz (173327548980264960)
+Original:
+no one wants port battles
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+아무도 항구 전투를 원하지 않습니다
+
+- 🇺🇸 EN → 🇯🇵 JP
+港湾戦は誰も望んでいない
+
+- 🇺🇸 EN → 🇷🇺 RU
+Никому не нужны портовые сражения
+
+
+======================================================================
+[2026-03-07 01:01:38 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+ALL of tonights battles are safe now: We did not pretention and they were able to add protection.
+
+If you get I think it is 15% the port owner can not add protection, for future.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤의 모든 전투는 이제 안전합니다: 우리는 가식하지 않았고 그들은 보호를 추가 할 수있었습니다.
+
+포트 소유자가 보호를 추가 할 수없는 15 %라고 생각하면 미래를 위해.
+
+- 🇺🇸 EN → 🇯🇵 JP
+今晩の戦いはすべて安全だ：私たちは慢心しなかったし、彼らはプロテクションを追加することができた。
+
+もし15％だったら、港のオーナーはプロテクションを追加することができないと思う。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Все сегодняшние бои теперь в безопасности: Мы не стали притворяться, и они смогли добавить защиту.
+
+Если вы получите, я думаю, 15%, то владелец порта не сможет добавить защиту, на будущее.
+
+
+======================================================================
+[2026-03-06 21:09:45 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+The ports on the menu for tonight that I see are;
+
+Thermo and Fiji @ 8pm EST (2hour window)
+Aruba and Gelbion @ 11pm EST (2 hour window)
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤 메뉴에 표시된 포트는 다음과 같습니다;
+
+써모와 피지 오후 8시(2시간 간격)
+아루바 및 겔비온 오후 11시(2시간 간격)
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜のメニューにあるポートワインは、私が見たところ、以下の通りだ；
+
+テルモとフィジー @ 20pm EST (2時間のウィンドウ)
+アルバとゲルビオン @ 11pm EST (2時間のウィンドウ)
+
+- 🇺🇸 EN → 🇷🇺 RU
+В меню на сегодня есть следующие порты;
+
+Термо и Фиджи @ 8pm EST (2hour window)
+Аруба и Гельбион в 11 вечера по восточному времени (2-часовое окно)
+
+
+======================================================================
+[2026-03-06 04:12:06 UTC]
+Author: mikedz (173327548980264960)
+Original:
+don't make me cry
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+날 울리지 마세요
+
+- 🇺🇸 EN → 🇯🇵 JP
+泣かせるな
+
+- 🇺🇸 EN → 🇷🇺 RU
+Не заставляй меня плакать
+
+
+======================================================================
+[2026-03-06 04:10:42 UTC]
+Author: tols89 (231200003073376256)
+Original:
+everything is going off cooldown protection after the window tonight
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤 창문 이후 모든 것이 쿨다운 보호 기능을 해제합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜の試合終了後、すべての選手がクールダウンプロテクションを解除する。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Сегодня ночью после окна все будет отключено от защиты.
+
+
+======================================================================
+[2026-03-06 04:10:03 UTC]
+Author: mikedz (173327548980264960)
+Original:
+are there any supple and sweet ports open tonight? we have a nice group of people on
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤에 유연하고 달콤한 포트가 열려 있나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜はしなやかで甘いポートが空いているかな？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Есть ли сегодня открытые порты для supple and sweet? У нас есть хорошая группа людей на
+
+
+======================================================================
+[2026-03-06 04:09:14 UTC]
+Author: tols89 (231200003073376256)
+Original:
+st jean and nabaad just finished popping off
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+세인트 진과 나바드가 방금 팝업을 마쳤습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+セント・ジャンとナバドが飛び出したところ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Сен-Жан и Набад только что закончили выходить.
+
+
+======================================================================
+[2026-03-06 04:08:28 UTC]
+Author: xxthedarkwolfxx (307669438470029324)
+Original:
+https://tenor.com/view/war-never-changes-war-fallout-soldier-run-gif-16498934
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/war-never-changes-war-fallout-soldier-run-gif-16498934
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/war-never-changes-war-fallout-soldier-run-gif-16498934
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://tenor.com/view/war-never-changes-war-fallout-soldier-run-gif-16498934
+
+
+======================================================================
+[2026-03-06 04:00:44 UTC]
+Author: mikedz (173327548980264960)
+Original:
+what's going on tonight?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤 무슨 일이에요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜の予定は？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Что происходит сегодня вечером?
+
+
+======================================================================
+[2026-03-05 07:28:45 UTC]
+Author: noob3rt (228351586303213569)
+Original:
+Still going on?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+아직 진행 중이신가요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+まだ続くのか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Все еще продолжается?
+
+
+======================================================================
+[2026-03-05 06:55:31 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+tortuga big fight now
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+지금 토르투가 빅 파이트
+
+- 🇺🇸 EN → 🇯🇵 JP
+トルトゥーガの大一番
+
+- 🇺🇸 EN → 🇷🇺 RU
+Тортуга - большой бой
+
+
+======================================================================
+[2026-03-05 02:54:01 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+help help help
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+도움말 도움말 도움말
+
+- 🇺🇸 EN → 🇯🇵 JP
+ヘルプヘルプ
+
+- 🇺🇸 EN → 🇷🇺 RU
+помогите помогите помогите
+
+
+======================================================================
+[2026-03-05 02:53:44 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Surako all hands
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+수라코 올핸즈
+
+- 🇺🇸 EN → 🇯🇵 JP
+スラコ総員
+
+- 🇺🇸 EN → 🇷🇺 RU
+Сурако на все руки
+
+
+======================================================================
+[2026-03-05 00:02:04 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+DM with KAI is trying to take Charleston currently at 55% we need to stop this.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+현재 찰스턴을 55%에 인수하려는 KAI와 DM은 이를 막아야 합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+カイのDMは現在55％のチャールストンを奪おうとしている。
+
+- 🇺🇸 EN → 🇷🇺 RU
+DM с KAI пытаются взять Чарльстон, который в настоящее время составляет 55%, мы должны остановить это.
+
+
+======================================================================
+[2026-03-04 01:51:18 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Need help at Volcano, Antillia has big 30 man fleet
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+볼케이노에서 도움이 필요한 안틸리아는 30명의 대규모 함대를 보유하고 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ボルケーノで助けが必要、アンティリアには30人の大船団がいる
+
+- 🇺🇸 EN → 🇷🇺 RU
+Нужна помощь в Вулкане, у Антилии большой флот из 30 человек
+
+
+======================================================================
+[2026-03-03 13:56:42 UTC]
+Author: tols89 (231200003073376256)
+Original:
+https://tenor.com/view/look-holy-moly-omg-whoa-gif-22960590
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/look-holy-moly-omg-whoa-gif-22960590
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/look-holy-moly-omg-whoa-gif-22960590
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://tenor.com/view/look-holy-moly-omg-whoa-gif-22960590
+
+
+======================================================================
+[2026-03-03 13:50:38 UTC]
+Author: .merina (447238298319192065)
+Original:
+Not an offer, but the girth is noted.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+제안은 아니지만 둘레가 표시되어 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+オファーではないが、胴回りは注目。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Не предлагаю, но обхват отмечен.
+
+
+======================================================================
+[2026-03-03 07:50:39 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Be proud of tonight. It was busy and pirates stepped it up. From the swivel guns, to the mortar decks, and even the office quarters alike. Pirates strong together and every ship captain made an impact. Arrrg!! Impactful start to season three.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤을 자랑스러워하세요. 해적들은 바쁘게 움직였습니다. 회전식 함포부터 박격포 갑판, 심지어 사무실 구역까지 모두 공격했습니다. 해적들은 함께 힘을 모았고 모든 배의 선장들은 임팩트를 남겼습니다. 으악!! 시즌 3의 임팩트 있는 시작.
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜を誇りに思え。賑やかで、海賊たちはステップアップした。旋回砲から迫撃砲甲板、そして事務室も同様だった。海賊たちは一丸となり、すべての船長がインパクトを与えた。素晴らしい！インパクトのあるシーズン3のスタート。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Гордитесь сегодняшним вечером. Было многолюдно, и пираты активизировались. От вертлюжных пушек, до минометных палуб и даже служебных помещений. Пираты сплотились, и каждый капитан корабля добился успеха. Аррг!!! Впечатляющее начало третьего сезона.
+
+
+======================================================================
+[2026-03-03 07:18:27 UTC]
+Author: xxthedarkwolfxx (307669438470029324)
+Original:
+Sorry, my wood is promised to <@745347693450100848>
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+죄송합니다. 내 나무는 <@745347693450100848>로 약속되었습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+申し訳ないが、私の木材は<@745347693450100848>と約束している。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Извините, мои дрова обещаны на <@745347693450100848>.
+
+
+======================================================================
+[2026-03-03 07:15:27 UTC]
+Author: .merina (447238298319192065)
+Original:
+you have meet the wood requirement to join BBC.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+BBC에 가입하기 위한 나무 요건을 충족했습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+BBCに入会するには、木材の条件を満たしていなければならない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Чтобы присоединиться к BBC, вы должны соответствовать требованиям к древесине.
+
+
+======================================================================
+[2026-03-03 05:53:24 UTC]
+Author: astroglider (142470651951841282)
+Original:
+even more wood!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+더 많은 나무!
+
+- 🇺🇸 EN → 🇯🇵 JP
+さらに木材を増やす！
+
+- 🇺🇸 EN → 🇷🇺 RU
+еще больше дерева!
+
+
+======================================================================
+[2026-03-03 05:53:04 UTC]
+Author: xxthedarkwolfxx (307669438470029324)
+Original:
+:p
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+:p
+
+- 🇺🇸 EN → 🇯🇵 JP
+:p
+
+- 🇺🇸 EN → 🇷🇺 RU
+:p
+
+
+======================================================================
+[2026-03-03 05:52:21 UTC]
+Author: astroglider (142470651951841282)
+Original:
+I got the wood
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+나무를 구했습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+木材を手に入れた
+
+- 🇺🇸 EN → 🇷🇺 RU
+У меня есть дерево.
+
+
+======================================================================
+[2026-03-03 05:35:39 UTC]
+Author: fabionuno. (236650239832883221)
+Original:
+well i gtg have a good ngiht was fun:)
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+글쎄, 나는 좋은 ngiht가 재미 있었다 :)
+
+- 🇺🇸 EN → 🇯🇵 JP
+楽しかった。）
+
+- 🇺🇸 EN → 🇷🇺 RU
+Ну, у меня был хороший день, было весело:)
+
+
+======================================================================
+[2026-03-03 05:27:05 UTC]
+Author: .voarex (725508970151936052)
+Original:
+Yes! Great Job to everyone! LIQ wishes we could have shown up to all port battles, but could only make it to 2! Much ❤️
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+예! 모두 수고하셨습니다! LIQ는 모든 항구 전투에 참가했으면 좋았겠지만, 2번만 참가할 수 있었습니다! 많이 ❤️
+
+- 🇺🇸 EN → 🇯🇵 JP
+はい！みんなよくやった！LIQは全てのポートバトルに顔を出したかったが、2回しか行けなかった！❤️
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да! Отличная работа для всех! LIQ жалеет, что не смог прийти на все портовые бои, но смог прийти только на 2! Много ❤️
+
+
+======================================================================
+[2026-03-03 05:26:17 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Great job everyone, pirates won the night and are off to the races for S3! @everyone
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+모두 수고하셨습니다, 해적들이 밤에 승리하여 S3를 위한 레이스를 시작합니다! @everyone
+
+- 🇺🇸 EN → 🇯🇵 JP
+みんなよくやった！パイレーツは一夜を制し、S3へ向けて出発だ！みんな
+
+- 🇺🇸 EN → 🇷🇺 RU
+Отличная работа, пираты выиграли эту ночь и отправляются на скачки в S3! @everyone
+
+
+======================================================================
+[2026-03-03 05:00:28 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+help help
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+도움말 도움말
+
+- 🇺🇸 EN → 🇯🇵 JP
+ヘルプ
+
+- 🇺🇸 EN → 🇷🇺 RU
+помощь
+
+
+======================================================================
+[2026-03-03 05:00:22 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Tortuga big fight
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+토르투가 큰 싸움
+
+- 🇺🇸 EN → 🇯🇵 JP
+トルトゥーガのビッグファイト
+
+- 🇺🇸 EN → 🇷🇺 RU
+Большой бой Тортуги
+
+
+======================================================================
+[2026-03-02 06:19:50 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+running to north light house, need help vs 20
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+노스 라이트 하우스로 달려가, 도움이 필요해 대 20
+
+- 🇺🇸 EN → 🇯🇵 JP
+北ライトハウスまで走行中、対20で助けが必要
+
+- 🇺🇸 EN → 🇷🇺 RU
+Бегу к северному светлому дому, нужна помощь vs 20
+
+
+======================================================================
+[2026-03-02 06:19:04 UTC]
+Author: nihada_the_kobold (745347693450100848)
+Original:
+not the john
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+존이 아닌
+
+- 🇺🇸 EN → 🇯🇵 JP
+ジョンではない
+
+- 🇺🇸 EN → 🇷🇺 RU
+не Джон
+
+
+======================================================================
+[2026-03-02 06:17:44 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+help me St John
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+세인트 존을 도와주세요
+
+- 🇺🇸 EN → 🇯🇵 JP
+聖ヨハネ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Помоги мне, святой Иоанн.
+
+
+======================================================================
+[2026-03-01 14:29:55 UTC]
+Author: tols89 (231200003073376256)
+Original:
+We'll need to try to coordinate whose going for what since if a guild gets the tension, it'll be an erasy capture
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+길드가 긴장을 풀면 쉽게 점령할 수 있기 때문에 누가 무엇을 할 것인지 조율해야 합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ギルドが緊張感を持てば、簡単に捕獲されてしまうからだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Мы должны постараться согласовать, кто за чем идет, так как если гильдия получит напряжение, это будет легким захватом.
+
+
+======================================================================
+[2026-03-01 14:29:32 UTC]
+Author: tols89 (231200003073376256)
+Original:
+and the port battle windows are the same as they were previously
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+포트 전투 창은 이전과 동일합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+港湾戦のウィンドウは以前と同じだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+и окна боя портов остались прежними.
+
+
+======================================================================
+[2026-03-01 14:29:21 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Looks like everything comes off protection after tonight's window
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤이 지나면 모든 보호 기능이 해제되는 것 같습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜のウィンドウの後、すべてのプロテクションが外れるようだ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Похоже, что после сегодняшнего окна все снимается с защиты.
+
+
+======================================================================
+[2026-03-01 05:45:21 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+stjohn kickn off agagin
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+세인트존이 다시 시작하다
+
+- 🇺🇸 EN → 🇯🇵 JP
+アガギンを蹴り飛ばすストジョン
+
+- 🇺🇸 EN → 🇷🇺 RU
+Стжон отбивается от Агагина
+
+
+======================================================================
+[2026-03-01 05:45:06 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+round 2
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+2라운드
+
+- 🇺🇸 EN → 🇯🇵 JP
+第2ラウンド
+
+- 🇺🇸 EN → 🇷🇺 RU
+раунд 2
+
+
+======================================================================
+[2026-03-01 05:45:05 UTC]
+Author: steinaar. (304493277443391489)
+Original:
+Stjohn again
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+Stjohn 다시 보기
+
+- 🇺🇸 EN → 🇯🇵 JP
+再びStjohn
+
+- 🇺🇸 EN → 🇷🇺 RU
+Снова Стжон
+
+
+======================================================================
+[2026-02-26 06:47:22 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+https://www.youtube.com/shorts/ReeX8xVlpXc
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://www.youtube.com/shorts/ReeX8xVlpXc
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://www.youtube.com/shorts/ReeX8xVlpXc
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://www.youtube.com/shorts/ReeX8xVlpXc
+
+
+======================================================================
+[2026-02-24 16:14:11 UTC]
+Author: tols89 (231200003073376256)
+Original:
+If you get the numbers to do a PB we will assist in screening
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+PB를 할 수 있는 번호를 받으면 심사를 도와드립니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+PBを行うための人数が集まれば、我々はスクリーニングをサポートする
+
+- 🇺🇸 EN → 🇷🇺 RU
+Если вы получите номера для проведения PB, мы поможем вам с отбором.
+
+
+======================================================================
+[2026-02-24 15:11:03 UTC]
+Author: instructor_eduard (782118134924050463)
+Original:
+Можно попробовать атаковать порт Масадора. Что думаете?
+
+Translations:
+- 🇷🇺 RU → 🇰🇷 KO
+마사도르 항구를 공격해볼 수 있습니다. 어떻게 생각하세요?
+
+- 🇷🇺 RU → 🇺🇸 EN
+We could try attacking the port of Masador. What do you think?
+
+- 🇷🇺 RU → 🇯🇵 JP
+マサドールの港を攻撃してみるか。どう思う？
+
+
+======================================================================
+[2026-02-24 02:53:46 UTC]
+Author: tols89 (231200003073376256)
+Original:
+What's the deal with DED?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+DED란 무엇인가요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+DEDとの契約は？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Как обстоят дела с DED?
+
+
+======================================================================
+[2026-02-22 03:24:27 UTC]
+Author: paukenist (134833808708075521)
+Original:
+<@150038027241127937> no more BBC alliance?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@150038027241127937> 더 이상 BBC 제휴가 없나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@150038027241127937> BBCとの提携はなくなった？
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@150038027241127937> Больше нет альянса BBC?
+
+
+======================================================================
+[2026-02-21 20:38:09 UTC]
+Author: paukenist (134833808708075521)
+Original:
+Red arrows make me irrationally angry in my conny
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+빨간 화살표는 내 코니에서 비이성적으로 화를 내게 만듭니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+赤い矢印は、私のコンニチワに理不尽な怒りを抱かせる
+
+- 🇺🇸 EN → 🇷🇺 RU
+Красные стрелки вызывают у меня иррациональную злость.
+
+
+======================================================================
+[2026-02-21 02:02:16 UTC]
+Author: arevets (193729841441406977)
+Original:
+need 1 more for rate 1 to 3 modes
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+요금 1~3 모드의 경우 1개 더 필요합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+レート1～3モード用にもう1台必要
+
+- 🇺🇸 EN → 🇷🇺 RU
+нужен еще 1 для режимов от 1 до 3
+
+
+======================================================================
+[2026-02-21 00:16:08 UTC]
+Author: .voarex (725508970151936052)
+Original:
+10-4, we will be there.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+10-4, 저희가 가겠습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+10-4時、我々はそこにいる。
+
+- 🇺🇸 EN → 🇷🇺 RU
+С 10 до 4, мы будем там.
+
+
+======================================================================
+[2026-02-21 00:04:21 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+Oneg tonight would be great
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤 원은 좋을 것 같습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜のオネグは最高だ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Сегодня вечером было бы здорово
+
+
+======================================================================
+[2026-02-20 15:26:10 UTC]
+Author: paukenist (134833808708075521)
+Original:
+They went back in and changed why i was muted overnight lolol
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그들은 다시 들어가서 내가 밤새 음소거 된 이유를 바꿨습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+一晩でミュートされた理由を変えてくれたんだ(笑)
+
+- 🇺🇸 EN → 🇷🇺 RU
+Они вернулись и изменили причину, по которой я был отключен на ночь lolol
+
+
+======================================================================
+[2026-02-20 09:48:18 UTC]
+Author: .voarex (725508970151936052)
+Original:
+If PRV/PvP or other NAP Pirates need LIQ to screen for them, just let us know. We are happy to help you guys like we did when we showed up to Oneg for BBC. Just holler at LIQ to help and we can get some dudes up there as well as restock the deficit. 
+We be rolling in items. So we can help fill those deficits if you need.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+PRV/PvP 또는 기타 NAP 해적에게 LIQ 검열이 필요한 경우 알려주세요. BBC를 위해 원에 나타났을 때처럼 기꺼이 도와드리겠습니다. LIQ에 도움을 요청하시면 부족한 물품을 보충해드릴 수 있습니다.
+물건을 계속 들여올 겁니다. 필요하시면 저희가 부족한 부분을 채워드릴 수 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+PRV/PvPや他のNAP海賊団がLIQにスクリーニングを依頼する必要があれば、言ってくれ。BBCのオネグに参加した時のように、喜んで君たちを助けるよ。LIQに助けを求めてくれれば、何人かの仲間を集めることができるし、不足分を補充することもできる。
+僕らも物資を集めている。もし必要なら、不足分を補充することもできる。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Если PRV/PvP или другим пиратам NAP понадобится, чтобы LIQ проверил их, просто дайте нам знать. Мы будем рады помочь вам, ребята, как мы сделали это, когда появились на Онеге для BBC. Просто позвоните в LIQ, чтобы помочь, и мы сможем доставить туда несколько чуваков, а также пополнить запасы дефицита.
+Мы будем поставлять товары. Так что мы можем помочь восполнить дефицит, если вам нужно.
+
+
+======================================================================
+[2026-02-20 03:30:42 UTC]
+Author: instructor_eduard (782118134924050463)
+Original:
+Надо делать общий сбор и начинать поднимать напряжение
+
+Translations:
+- 🇷🇺 RU → 🇰🇷 KO
+총회를 열고 긴장감을 높여야 합니다.
+
+- 🇷🇺 RU → 🇺🇸 EN
+We need to do a general assembly and start raising the tension
+
+- 🇷🇺 RU → 🇯🇵 JP
+総会を開き、緊張感を高める必要がある
+
+
+======================================================================
+[2026-02-20 03:19:14 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+<@&1459615375745487068> <@&1455655961456017645> do we still want to attempt a PB tonight? not seeing many bodies online tonight
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@&1459615375745487068> <@&1455655961456017645> 오늘 밤에도 PB를 시도할까요? 오늘 밤 온라인에 많은 시체가 보이지 않습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@&1459615375745487068> <@&1455655961456017645> 今夜もPBに挑戦するか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@&1459615375745487068> <@&1455655961456017645> мы все еще хотим попробовать PB сегодня вечером? Не вижу много тел онлайн сегодня вечером
+
+
+======================================================================
+[2026-02-20 03:18:04 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+I’ve been sick the last two days, haven’t had a chance to plan anything. I’ll see if people are interested in hitting it two pronged with oneg
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+지난 이틀 동안 아파서 아무것도 계획할 기회가 없었습니다. 사람들이 1g으로 두 갈래로 치는 데 관심이 있는지 알아볼게요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+この2日間体調を崩していて、何も計画するチャンスがなかったんだ。オネグとの2本立てに興味がある人がいるかどうか見てみるよ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я болел последние два дня, не было возможности что-то планировать. Посмотрим, будут ли люди заинтересованы в том, чтобы устроить онег в двух экземплярах.
+
+
+======================================================================
+[2026-02-20 02:51:27 UTC]
+Author: instructor_eduard (782118134924050463)
+Original:
+Всем привет. На Порт  Масадора не будем нападать?
+
+Translations:
+- 🇷🇺 RU → 🇰🇷 KO
+안녕하세요, 여러분. 마사도르 항구를 공격하지 않는다고요?
+
+- 🇷🇺 RU → 🇺🇸 EN
+Hey, everybody. We're not going to attack Port Masador?
+
+- 🇷🇺 RU → 🇯🇵 JP
+皆さん、こんにちは。私たちはポート・マサドールを攻撃しないのですか？
+
+
+======================================================================
+[2026-02-19 00:14:51 UTC]
+Author: techniker (235871018823057408)
+Original:
+when I do stream/record, typically just port battles to be able to go retro after, I use obs and typically both record to my NAS and stream unlisted to youtube so I can share it around after. its pretty easy to setup
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+스트리밍/녹화를 할 때는 보통 나중에 복고풍으로 돌아갈 수 있도록 포트 배틀만 하고, 관찰을 사용하며 일반적으로 NAS에 녹화하고 나중에 공유할 수 있도록 유투브로 비목록으로 스트리밍합니다. 설정이 매우 쉽습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ストリーミング/レコーディングをするときは、通常、レトロに戻れるようにポートバトルをする。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Когда я делаю потоковую передачу/запись, обычно просто переношу битвы, чтобы потом иметь возможность зайти в ретро, я использую obs и обычно записываю на NAS и передаю на youtube без списка, чтобы потом поделиться. это довольно просто настроить.
+
+
+======================================================================
+[2026-02-18 23:30:30 UTC]
+Author: yarrickau (190791533761527808)
+Original:
+I just use steam to record
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+저는 그냥 스팀으로 녹음합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+録画にはスチームを使っている
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я просто использую steam для записи.
+
+
+======================================================================
+[2026-02-18 16:14:45 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Does anyone record WOSB when they're playing? If so, what're you using?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+플레이할 때 WOSB를 녹음하는 사람이 있나요? 그렇다면 어떤 것을 사용하시나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+演奏中にWOSBを録音している人はいますか？もしそうなら、何を使っていますか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Записывает ли кто-нибудь WOSB во время игры? Если да, то чем вы пользуетесь?
+
+
+======================================================================
+[2026-02-18 08:08:19 UTC]
+Author: .voarex (725508970151936052)
+Original:
+WE SUCCESSFULLY TOOK SHARHAT WITH 12,472! THANK YOU TO EVERYONE WHO HELPED US! ❤️
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+12,472명과 함께 성공적으로 쉐어햇을 진행했습니다! 도와주신 모든 분들께 감사드립니다! ❤️
+
+- 🇺🇸 EN → 🇯🇵 JP
+我々は12,472でシャルハットを奪うことに成功した！ご協力いただいた皆様、ありがとうございました！❤️
+
+- 🇺🇸 EN → 🇷🇺 RU
+МЫ УСПЕШНО ВЗЯЛИ ШАРХАТ С РЕЗУЛЬТАТОМ 12 472! СПАСИБО ВСЕМ, КТО ПОМОГАЛ НАМ! ❤️
+
+
+======================================================================
+[2026-02-17 22:20:27 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Too bad they didn’t get the tension last night 😂
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+어젯밤에 긴장감을 못 느껴서 아쉽네요 😂
+
+- 🇺🇸 EN → 🇯🇵 JP
+昨夜はテンションが上がらなかったのが残念😂。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Жаль, что они не смогли снять напряжение прошлой ночью 😂.
+
+
+======================================================================
+[2026-02-17 22:20:16 UTC]
+Author: tols89 (231200003073376256)
+Original:
+I’ve seen the messages but never seen one up close
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+메시지를 본 적은 있지만 가까이서 본 적은 없습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+メッセージは見たことがあるが、近くで見たことはない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я видел сообщения, но никогда не видел его вблизи.
+
+
+======================================================================
+[2026-02-17 22:05:51 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+wtf? ive literally never see nthat
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+wtf? 난 말 그대로 그런 걸 본 적이 없어요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+そんなもの見たこともない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Что? Я буквально никогда не видел этого.
+
+
+======================================================================
+[2026-02-17 22:04:44 UTC]
+Author: bestkeptsecret (344718519927177226)
+Original:
+Empire assault
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+제국 공격
+
+- 🇺🇸 EN → 🇯🇵 JP
+エンパイア・アサルト
+
+- 🇺🇸 EN → 🇷🇺 RU
+Штурм империи
+
+
+======================================================================
+[2026-02-17 21:47:12 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+That's a good question, what IS that?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+좋은 질문이네요, 그게 뭔가요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+それはいい質問だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Хороший вопрос, что это такое?
+
+
+======================================================================
+[2026-02-17 03:00:53 UTC]
+Author: tols89 (231200003073376256)
+Original:
+What is this?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+이게 뭐죠?
+
+- 🇺🇸 EN → 🇯🇵 JP
+これは何だ？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Что это?
+
+
+======================================================================
+[2026-02-17 02:10:44 UTC]
+Author: paukenist (134833808708075521)
+Original:
+Big Fight up at Oneg right now FYI
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+참고로 지금 원에서 빅 파이트가 진행 중입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+オネグでビッグ・ファイトが起きている。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Большая драка в Онеге прямо сейчас, к твоему сведению.
+
+
+======================================================================
+[2026-02-17 00:52:43 UTC]
+Author: blacktemplarsraptors (221171407080521729)
+Original:
+Yeah this was be will be a test run, I’ll be hopefully reaching out to a few guild near future to see if they want to do the same, then everyone wins in a way as we get content and practice for port battles and if someone wishes to learn to call the lower rank ones are best place to learn
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+네, 이것은 테스트 실행이 될 것입니다, 나는 그들이 같은 일을하고 싶어하는지 확인하기 위해 가까운 장래에 몇 개의 길드에 연락 할 것입니다, 그러면 우리가 항구 전투에 대한 콘텐츠와 연습을 얻을 때 모두가 승리하고 누군가가 낮은 계급을 부르는 법을 배우고 싶다면 배우기에 가장 좋은 곳입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+近い将来、いくつかのギルドに声をかけて、彼らが同じことをしたいかどうか確認するつもりだ。そうすれば、港湾戦のためのコンテンツや練習を得ることができるし、もし誰かがコールを学びたいのであれば、低ランクのギルドは学ぶのに最適な場所だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да, это был пробный запуск, я надеюсь, что в ближайшем будущем я свяжусь с несколькими гильдиями, чтобы узнать, хотят ли они сделать то же самое, тогда все выиграют в некотором смысле, так как мы получим контент и практику для портовых сражений, и если кто-то хочет научиться призывать, то нижние ранги - лучшее место для обучения.
+
+
+======================================================================
+[2026-02-16 21:49:20 UTC]
+Author: mikedz (173327548980264960)
+Original:
+it asked if we were keen
+
+i am keen, but im unavailable
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+우리가 열심인지 물었습니다.
+
+관심은 있지만 부재중입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+と聞かれた。
+
+熱望しています。
+
+- 🇺🇸 EN → 🇷🇺 RU
+он спросил, хотим ли мы
+
+Я хочу, но не могу.
+
+
+======================================================================
+[2026-02-16 21:48:52 UTC]
+Author: blacktemplarsraptors (221171407080521729)
+Original:
+Yeah that’s what I assumed, I’m not looking interest wise I’d like to know numbers for MiT sake
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+네, 그게 제가 생각한 것입니다. 나는 관심을 갖고 있지 않습니다. 나는 MiT를 위해 숫자를 알고 싶습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+興味本位ではなく、MiTのために数字が知りたいんだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да, я так и предполагал, я не ищу интерес, я хотел бы знать цифры для MiT.
+
+
+======================================================================
+[2026-02-16 19:21:21 UTC]
+Author: mikedz (173327548980264960)
+Original:
+<@221171407080521729> my X on your post doesn't signify lack of interest, its just that im unavailable. good luck
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@221171407080521729> 게시물에 표시된 내 X는 관심 부족을 의미하는 것이 아니라 부재중임을 의미합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@221171407080521729> あなたの投稿に×をつけたのは、興味がないという意味ではなく、ただ手が離せないということです。
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@221171407080521729> мой X на вашем сообщении не означает отсутствие интереса, просто я недоступен. удачи
+
+
+======================================================================
+[2026-02-16 00:09:13 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+Nothing on my end, got an exam tomorrow, so can’t be up late
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+내일 시험이 있어서 늦으면 안 돼요
+
+- 🇺🇸 EN → 🇯🇵 JP
+明日は試験だから夜更かしできないんだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+У меня ничего не получается, завтра экзамен, поэтому не могу засиживаться допоздна.
+
+
+======================================================================
+[2026-02-16 00:01:04 UTC]
+Author: paukenist (134833808708075521)
+Original:
+Anything scheduled tonight?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤에 예정된 일정이 있나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜の予定は？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Что-нибудь запланировано на вечер?
+
+
+======================================================================
+[2026-02-15 00:23:12 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+3 hours and 38 minutes
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+3시간 38분
+
+- 🇺🇸 EN → 🇯🇵 JP
+3時間38分
+
+- 🇺🇸 EN → 🇷🇺 RU
+3 часа 38 минут
+
+
+======================================================================
+[2026-02-14 23:56:53 UTC]
+Author: techniker (235871018823057408)
+Original:
+<@213754835260932107> what time?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@213754835260932107> 몇 시?
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@213754835260932107> 何時ですか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@213754835260932107> в какое время?
+
+
+======================================================================
+[2026-02-14 23:56:40 UTC]
+Author: lunitick87_66275 (1323775382721400923)
+Original:
+I’m at dinner with the wife but will beg me in a bit t help with gray
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+나는 아내와 저녁 식사를하고 있지만 회색으로 나를 조금 도와달라고 애원 할 것입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+奥さんと食事中だけど、グレーの手伝いを頼むよ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я сейчас на ужине с женой, но скоро я попрошу помочь мне с серым.
+
+
+======================================================================
+[2026-02-13 18:43:12 UTC]
+Author: tols89 (231200003073376256)
+Original:
+You already are 😎
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+당신은 이미 😎
+
+- 🇺🇸 EN → 🇯🇵 JP
+あなたはすでにᘎです。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Ты уже есть 😎
+
+
+======================================================================
+[2026-02-13 17:31:34 UTC]
+Author: .merina (447238298319192065)
+Original:
+Does anyone know their intentions tonight? BBC interested in supporting. Please send me DMs.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤 그들의 의도를 아는 사람이 있나요? BBC에서 지원에 관심이 있습니다. DM을 보내주세요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜の彼らの意向を知っている人はいるだろうか？BBCのサポートに興味がある。DMを送ってください。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Кто-нибудь знает об их намерениях на сегодняшний вечер? BBC заинтересованы в поддержке. Пожалуйста, присылайте мне сообщения.
+
+
+======================================================================
+[2026-02-13 17:31:01 UTC]
+Author: .merina (447238298319192065)
+Original:
+so happy for you
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+정말 축하합니다
+
+- 🇺🇸 EN → 🇯🇵 JP
+お幸せに
+
+- 🇺🇸 EN → 🇷🇺 RU
+очень рада за вас
+
+
+======================================================================
+[2026-02-13 16:54:45 UTC]
+Author: paukenist (134833808708075521)
+Original:
+Cross swords currently being menaces
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+현재 위협이 되는 크로스 소드
+
+- 🇺🇸 EN → 🇯🇵 JP
+クロスソードが威嚇中
+
+- 🇺🇸 EN → 🇷🇺 RU
+Скрестить мечи, которые в данный момент представляют угрозу
+
+
+======================================================================
+[2026-02-13 12:04:18 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Time to be annoying!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+짜증날 시간입니다!
+
+- 🇺🇸 EN → 🇯🇵 JP
+イライラする時間だ！
+
+- 🇺🇸 EN → 🇷🇺 RU
+Время раздражаться!
+
+
+======================================================================
+[2026-02-13 00:25:18 UTC]
+Author: noob3rt (228351586303213569)
+Original:
+Just a heads up, bunch of WO camping Surako. No idea if there is a Port Battle or anything in the future.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+미리 알려드립니다, 수라코에 캠핑 중인 월드 오브 워크래프트 팬 여러분. 앞으로 항구 전투가 있을지는 모르겠네요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+WOのキャンプ地、須良港。今後、港湾戦があるかどうかは分からない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Просто предупреждаю, куча WO в походе на Сурако. Неизвестно, будет ли в будущем битва за порт или что-то еще.
+
+
+======================================================================
+[2026-02-12 21:57:01 UTC]
+Author: delsrun (198616878011252736)
+Original:
+Not anymore
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+더 이상은 아닙니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+もう違う
+
+- 🇺🇸 EN → 🇷🇺 RU
+Больше нет
+
+
+======================================================================
+[2026-02-12 21:56:20 UTC]
+Author: paukenist (134833808708075521)
+Original:
+Checking if we can hit UBG or not? Getting mixed responses
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+UBG를 칠 수 있는지 아닌지 확인 중인가요? 엇갈린 응답 받기
+
+- 🇺🇸 EN → 🇯🇵 JP
+UBGを打てるかどうかのチェック？さまざまな反応
+
+- 🇺🇸 EN → 🇷🇺 RU
+Проверяем, сможем ли мы попасть в UBG или нет? Получаю неоднозначные ответы
+
+
+======================================================================
+[2026-02-12 01:06:23 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Can I just say I’m a man, and I fully support and gender giving me free stuff
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+저는 남자이고, 전적으로 지지하고 성별에 관계없이 공짜로 물건을 주는 것을
+
+- 🇺🇸 EN → 🇯🇵 JP
+僕は男だし、タダで物をくれる男女を全面的に支持する。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Могу ли я просто сказать, что я мужчина и полностью поддерживаю то, что пол дает мне бесплатные вещи.
+
+
+======================================================================
+[2026-02-12 00:46:01 UTC]
+Author: bestkeptsecret (344718519927177226)
+Original:
+https://klipy.com/gifs/npc-behavior-be-like
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://klipy.com/gifs/npc-behavior-be-like
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://klipy.com/gifs/npc-behavior-be-like
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://klipy.com/gifs/npc-behavior-be-like
+
+
+======================================================================
+[2026-02-12 00:45:47 UTC]
+Author: bestkeptsecret (344718519927177226)
+Original:
+Do you even play anymore?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+더 이상 게임을 하긴 하나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+もうプレーしていないのですか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Вы вообще играете?
+
+
+======================================================================
+[2026-02-12 00:43:46 UTC]
+Author: nihada_the_kobold (745347693450100848)
+Original:
+im with dug. give us free stuff
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+DUG와 함께합니다. 공짜 물건을 주세요
+
+- 🇺🇸 EN → 🇯🇵 JP
+ダグに賛成だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я с Дагом. Дайте нам бесплатные вещи.
+
+
+======================================================================
+[2026-02-12 00:43:08 UTC]
+Author: dugprime (176848053410463745)
+Original:
+Give me free shit
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+공짜로 줘
+
+- 🇺🇸 EN → 🇯🇵 JP
+タダでくれ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Дайте мне бесплатное дерьмо
+
+
+======================================================================
+[2026-02-12 00:42:44 UTC]
+Author: bestkeptsecret (344718519927177226)
+Original:
+Arevets, I do not support people assuming that you were given free items just because you are a man.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+아레베츠, 저는 단지 남자라는 이유만으로 공짜 아이템을 받았다고 생각하는 사람들을 지지하지 않습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+アレベッツ、私は、あなたが男性だからといってタダでもらったと決めつける人々を支持しない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Аревец, я не поддерживаю предположения людей, что вам дали бесплатные вещи только потому, что вы мужчина.
+
+
+======================================================================
+[2026-02-12 00:28:54 UTC]
+Author: bestkeptsecret (344718519927177226)
+Original:
+Get Arevets a white knight!!!!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+아레베츠에게 백기사 받기!!!!
+
+- 🇺🇸 EN → 🇯🇵 JP
+アレヴェッツに白馬の騎士を!!!
+
+- 🇺🇸 EN → 🇷🇺 RU
+Найдите Аревцу белого рыцаря!!!!
+
+
+======================================================================
+[2026-02-12 00:28:15 UTC]
+Author: arevets (193729841441406977)
+Original:
+even a blind squirrel finds a nut every now and then 🙂
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+눈먼 다람쥐도 때때로 견과류를 찾습니다 🙂.
+
+- 🇺🇸 EN → 🇯🇵 JP
+盲目のリスも、たまには木の実を見つけるんだᙂ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Даже слепая белка время от времени находит орех 🙂 .
+
+
+======================================================================
+[2026-02-12 00:27:47 UTC]
+Author: arevets (193729841441406977)
+Original:
+how did you know?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+어떻게 알았나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+なぜそれを？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Как вы узнали?
+
+
+======================================================================
+[2026-02-12 00:20:55 UTC]
+Author: tols89 (231200003073376256)
+Original:
+https://tenor.com/view/ryan-gosling-funny-chuckle-gif-14439668
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/ryan-gosling-funny-chuckle-gif-14439668
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/ryan-gosling-funny-chuckle-gif-14439668
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://tenor.com/view/ryan-gosling-funny-chuckle-gif-14439668
+
+
+======================================================================
+[2026-02-12 00:20:42 UTC]
+Author: fyyrefox (624015659860361257)
+Original:
+https://tenor.com/view/spit-take-drink-laugh-funny-thats-gif-11859512
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/spit-take-drink-laugh-funny-thats-gif-11859512
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/spit-take-drink-laugh-funny-thats-gif-11859512
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://tenor.com/view/spit-take-drink-laugh-funny-thats-gif-11859512
+
+
+======================================================================
+[2026-02-12 00:09:13 UTC]
+Author: nihada_the_kobold (745347693450100848)
+Original:
+i believe it
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+나는 그것을 믿는다
+
+- 🇺🇸 EN → 🇯🇵 JP
+私は信じる
+
+- 🇺🇸 EN → 🇷🇺 RU
+я верю
+
+
+======================================================================
+[2026-02-12 00:08:50 UTC]
+Author: tols89 (231200003073376256)
+Original:
+I bet he had a bunch of keys donated to him by a bunch of girls because he’s a guy
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+남자라서 여자애들한테서 열쇠를 많이 받았을 거야
+
+- 🇺🇸 EN → 🇯🇵 JP
+彼は男だから、女の子たちからたくさんの鍵を寄贈されたに違いない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Наверняка ему подарили связку ключей несколько девушек, потому что он парень.
+
+
+======================================================================
+[2026-02-12 00:08:05 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Oh damn
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오 젠장
+
+- 🇺🇸 EN → 🇯🇵 JP
+なんてこった
+
+- 🇺🇸 EN → 🇷🇺 RU
+О, черт.
+
+
+======================================================================
+[2026-02-11 22:21:56 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Yeah sorry I always speak in east coast. I’ll def be home way before that to help defend.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+네, 항상 동쪽 해안에서 말해서 미안해요. 그 전에 집에 가서 수비를 도울게요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+そうだね。その前に家に戻って守備を手伝うよ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да, простите, я всегда говорю на восточном побережье. Я буду дома гораздо раньше, чтобы помочь с защитой.
+
+
+======================================================================
+[2026-02-11 22:19:47 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+Depends on your time zone, for me, central time it’s 9-11 if you’re east coast then yes 10-12
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+시간대에 따라 다르지만, 제 경우 동부 표준시 기준 9~11시, 중부 표준시 기준 10~12시입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+タイムゾーンにもよるが、私の場合は中部時間で9-11時、東海岸なら10-12時だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Зависит от вашего часового пояса, для меня, центрального времени, это 9-11, если вы на восточном побережье, то да, 10-12.
+
+
+======================================================================
+[2026-02-11 22:19:12 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Copy im guessing the window is 10-12?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+10~12시간 정도인 것 같은데?
+
+- 🇺🇸 EN → 🇯🇵 JP
+了解です。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Принято считать, что окно 10-12?
+
+
+======================================================================
+[2026-02-11 22:17:33 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+<t:1770870036:F>
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<t:1770870036:F>
+
+- 🇺🇸 EN → 🇯🇵 JP
+<t:1770870036:F>。
+
+- 🇺🇸 EN → 🇷🇺 RU
+<t:1770870036:F>
+
+
+======================================================================
+[2026-02-11 22:17:30 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+About here I think. Not at home so can’t make triple sure
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+여기쯤인 것 같아요. 집이 아니라서 세 번 확인할 수 없습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+この辺りだと思う。家にいないので確かではないが
+
+- 🇺🇸 EN → 🇷🇺 RU
+Думаю, примерно здесь. Я не дома, поэтому не могу быть полностью уверен.
+
+
+======================================================================
+[2026-02-11 21:46:56 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Oh really? I thought the protect ran through the end of the window. What time does the protection come off?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+정말요? 보호막이 창문 끝까지 이어진 줄 알았는데요. 보호막은 몇 시에 벗겨지나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+そうなんですか。プロテクトは窓の端を通っていると思ってた。プロテクトは何時に外れるんですか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Правда? Я думала, что защита проходит по торцу окна. В какое время снимается защита?
+
+
+======================================================================
+[2026-02-11 21:44:56 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+We are possibly defending masadora tonight, protection falls off in last 45 minutes of window
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤 마사도라를 수비할 가능성이 있는데, 마지막 45분 동안 보호막이 벗겨집니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜はマサドーラを守るかもしれない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Возможно, сегодня мы будем защищать Масадору, защита отпадает в последние 45 минут окна
+
+
+======================================================================
+[2026-02-11 21:40:35 UTC]
+Author: nihada_the_kobold (745347693450100848)
+Original:
+im pretty sure we are goin for west bastion again
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+서쪽 요새로 다시 갈 거라고 확신해
+
+- 🇺🇸 EN → 🇯🇵 JP
+また西の砦を目指すのは間違いない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я почти уверен, что мы снова пойдем на Вест Бастион.
+
+
+======================================================================
+[2026-02-11 21:39:16 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Are there any port events on the horizon tonight?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤에 예정된 항구 이벤트가 있나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜の港湾イベントはあるのか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Есть ли сегодня на горизонте какие-нибудь события в порту?
+
+
+======================================================================
+[2026-02-11 03:55:11 UTC]
+Author: paukenist (134833808708075521)
+Original:
+SME and UBG fighting outside Tortuga for anyone who wants some free kills
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+무료 킬을 원하는 플레이어를 위해 토르투가 외곽에서 싸우는 SME와 UBG
+
+- 🇺🇸 EN → 🇯🇵 JP
+SMEとUBGがトルトゥーガの外で戦っている。
+
+- 🇺🇸 EN → 🇷🇺 RU
+SME и UBG сражаются возле Тортуги для тех, кто хочет получить несколько бесплатных убийств
+
+
+======================================================================
+[2026-02-10 04:40:15 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+https://tenor.com/view/blow-kiss-kissing-muah-mwah-hand-kiss-gif-20874183
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/blow-kiss-kissing-muah-mwah-hand-kiss-gif-20874183
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/blow-kiss-kissing-muah-mwah-hand-kiss-gif-20874183
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://tenor.com/view/blow-kiss-kissing-muah-mwah-hand-kiss-gif-20874183
+
+
+======================================================================
+[2026-02-10 04:37:29 UTC]
+Author: tuarok (397730684535439361)
+Original:
+https://tenor.com/view/band-of-brothers-gif-27205452
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/band-of-brothers-gif-27205452
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/band-of-brothers-gif-27205452
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://tenor.com/view/band-of-brothers-gif-27205452
+
+
+======================================================================
+[2026-02-10 04:28:25 UTC]
+Author: herorages (516827080676081674)
+Original:
+thx for the help at oneg all
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+원그에서 도움을 주셔서 감사합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+オネグでお世話になりました。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Спасибо за помощь в Онеге.
+
+
+======================================================================
+[2026-02-10 01:50:09 UTC]
+Author: paukenist (134833808708075521)
+Original:
+Just finished work will be on to terrorize some red soon
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+이제 막 끝난 작업이 곧 빨간색을 공포에 떨게 할 것입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ちょうど仕事が終わったところだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Только что закончил работу и скоро начнет терроризировать некоторых красных.
+
+
+======================================================================
+[2026-02-10 01:28:01 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+where's everyone at?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+모두 어디 있나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+みんなどこにいるんだ？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Где все?
+
+
+======================================================================
+[2026-02-10 01:19:26 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+also isnt that now the tension fight
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+또한 지금은 긴장 싸움이 아닌
+
+- 🇺🇸 EN → 🇯🇵 JP
+これもまた、緊張感のある戦いではないだろうか。
+
+- 🇺🇸 EN → 🇷🇺 RU
+А разве сейчас не идет борьба с напряжением?
+
+
+======================================================================
+[2026-02-10 01:19:19 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+<@213754835260932107> Thermo just went protection
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@213754835260932107> 열이 방금 보호되었습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@213754835260932107> サーモがプロテクションに入った
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@213754835260932107> Термо только что перешел на защиту
+
+
+======================================================================
+[2026-02-09 20:40:53 UTC]
+Author: beck19 (184685547418157056)
+Original:
+Removed everyone perms on it
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+모든 파마 제거
+
+- 🇺🇸 EN → 🇯🇵 JP
+全員のパーマを除去
+
+- 🇺🇸 EN → 🇷🇺 RU
+Удалил все пермы на нем
+
+
+======================================================================
+[2026-02-09 19:24:18 UTC]
+Author: asylumental (404520639366692867)
+Original:
+Do we maybe want to put a lock on the port battle build channel? Or nah?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+포트 배틀 빌드 채널에 잠금을 설정할 수 있을까요? 아니면 안 할까요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+港湾戦のビルド・チャンネルにロックをかけるか？それともしない？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Может быть, мы хотим поставить блокировку на канал сборки портовых боев? Или нет?
+
+
+======================================================================
+[2026-02-09 08:22:52 UTC]
+Author: bestkeptsecret (344718519927177226)
+Original:
+3.7kg to lb
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+3.7kg~1파운드
+
+- 🇺🇸 EN → 🇯🇵 JP
+3.7kgからポンド
+
+- 🇺🇸 EN → 🇷🇺 RU
+3,7 кг до фунта
+
+
+======================================================================
+[2026-02-09 07:06:30 UTC]
+Author: __m1rage_ (334610907638267904)
+Original:
+Don't be upset, there are no victories without defeats, a little practice, and everything will work out
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+화 내지 마세요, 패배 없이는 승리가없고 약간의 연습 만하면 모든 것이 잘 될 것입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+慌てることはない。敗北なくして勝利はない。少し練習すれば、すべてはうまくいく
+
+- 🇺🇸 EN → 🇷🇺 RU
+Не расстраивайтесь, не бывает побед без поражений, немного практики, и все получится
+
+
+======================================================================
+[2026-02-09 02:45:00 UTC]
+Author: techniker (235871018823057408)
+Original:
+Whats the timing for this?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+타이밍은 언제인가요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+このタイミングは？
+
+- 🇺🇸 EN → 🇷🇺 RU
+В какие сроки это произойдет?
+
+
+======================================================================
+[2026-02-08 23:40:47 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+remember to sign up for the port battle tonight in announcements only 3 people signed up so far
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤 공지사항에서 포트 배틀에 등록하는 것을 잊지 마세요. 지금까지 단 3명만 등록했습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜の港湾戦に申し込むのを忘れないように。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Не забудьте записаться на битву в порту сегодня вечером в анонсах пока только 3 человека записались
+
+
+======================================================================
+[2026-02-08 17:06:29 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Sound like a personal problem
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+개인적인 문제처럼 들립니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+個人的な問題のように聞こえる
+
+- 🇺🇸 EN → 🇷🇺 RU
+Похоже на личную проблему
+
+
+======================================================================
+[2026-02-08 16:28:50 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+At the end ATK Delmark rolled up behind me and starts flame shotting me, I was so confused
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+마지막에 ATK 델마크가 제 뒤로 다가와서 화염을 쏘기 시작해서 너무 혼란스러웠습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+最後にはATKデルマークが後ろから追いついてきて、火炎放射を始めたんだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+В конце ATK Delmark подкатил ко мне сзади и начал бить огнем, я был так растерян.
+
+
+======================================================================
+[2026-02-08 16:27:49 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+It too me like 10 minutes after the Bridgetown fight to realize I had 'No Flags' on
+
+ATK and CB were just seeing "12 Apostolov"
+
+I got so lucky they didn't sink me lmao
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+저도 브리지타운 싸움이 끝나고 10분 후에야 '깃발 없음'을 켜고 있었다는 걸 깨달았습니다.
+
+ATK와 CB는 방금 "12 아포스톨로프"를 보고 있었습니다.
+
+나는 그들이 나를 가라 앉히지 않아서 너무 운이 좋았습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ブリッジタウン戦の後、"No Flags "をオンにしていたことに気づくのに10分くらいかかったよ。
+
+ATKとCBは "12アポストロフ "を見ていただけだった。
+
+撃沈されなかったのは本当にラッキーだった。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я только через 10 минут после боя в Бриджтауне понял, что у меня включен режим "Без флагов".
+
+ATK и CB просто видели "12 Апостолов".
+
+Мне так повезло, что они не потопили меня lmao
+
+
+======================================================================
+[2026-02-08 08:53:20 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Thank you to everyone who helped with the amber event, be it with amber or gunpowder! Once again a resounding sucess, and this time we finally got WO. involved! Lots of pvp for all. See you all again in ten days.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+앰버 이벤트에 도움을 주신 모든 분들께 감사드립니다! 다시 한 번 큰 성공을 거두었고, 이번에는 드디어 월드 오브 워크래프트도 참여하게 되었습니다! 모두를 위한 많은 PVP. 열흘 후에 다시 뵙겠습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+琥珀のイベントを手伝ってくれた皆さん、琥珀であれ火薬であれ、ありがとうございました！今回も大成功で、ついにWO.を巻き込むことができました！今回はついにWO.も参加しました！みんなにとってたくさんのPvPがありました。また10日後にお会いしましょう。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Спасибо всем, кто помогал в проведении янтарного мероприятия, будь то янтарь или порох! И снова оглушительный успех, и на этот раз мы наконец-то привлекли WO. Много пвп для всех. Увидимся снова через десять дней.
+
+
+======================================================================
+[2026-02-08 03:21:58 UTC]
+Author: asylumental (404520639366692867)
+Original:
+VLK amber convoy moving east from devios
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+데비오스에서 동쪽으로 이동하는 VLK 호박색 호송대
+
+- 🇺🇸 EN → 🇯🇵 JP
+デビオスから東へ移動するVLKアンバー車列
+
+- 🇺🇸 EN → 🇷🇺 RU
+Янтарный конвой ВЛК движется на восток от Девиоса
+
+
+======================================================================
+[2026-02-07 17:47:24 UTC]
+Author: tols89 (231200003073376256)
+Original:
+12:47 and no ones been on all morning, truly tragic
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+12시 47분, 아침 내내 아무도 없었어요, 정말 비극적이네요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+12:47、朝から誰も出ていない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+12:47, и никого не было с самого утра, действительно трагедия.
+
+
+======================================================================
+[2026-02-07 06:46:48 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+Any day I get to frag WO is a good day
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+WO를 프래그하는 날은 언제나 좋은 날입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+WOのフラグを立てられる日はいつでもいい日だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Любой день, когда мне удается разбить WO на фрагменты, - это хороший день.
+
+
+======================================================================
+[2026-02-07 06:45:35 UTC]
+Author: blacktemplarsraptors (221171407080521729)
+Original:
+going off the new years eve attack id say yes
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+새해 전야 공격 ID가 '예'라고 응답합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+大晦日の襲撃から逃れるために、私はイエスと言う。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Если судить по нападению в канун Нового года, то да.
+
+
+======================================================================
+[2026-02-07 06:25:49 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Understood. Thank you. I'm not surprised tbh
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+알겠습니다. 고맙습니다. 놀랍지도 않네요
+
+- 🇺🇸 EN → 🇯🇵 JP
+わかりました。ありがとう。正直、驚かないよ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Понятно. Спасибо. Я не удивлен.
+
+
+======================================================================
+[2026-02-07 06:24:52 UTC]
+Author: fiesty7512 (203911058610454528)
+Original:
+They skipped new years to attack CFS.
+
+WO will always play IRL meta to win.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그들은 새해를 건너뛰고 CFS를 공격했습니다.
+
+WO는 항상 IRL 메타로 승리할 것입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+彼らは新年をスキップしてCFSを攻撃した。
+
+WOは常に勝つためにIRLメタをプレーする。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Они пропустили Новый год, чтобы атаковать CFS.
+
+WO всегда будет играть в мету IRL, чтобы победить.
+
+
+======================================================================
+[2026-02-07 06:19:36 UTC]
+Author: nihada_the_kobold (745347693450100848)
+Original:
+i dont think many of them would watch the superbowl, at least with my experience from being around WO
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+적어도 내 경험상 슈퍼볼을 시청할 사람은 많지 않을 것 같다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+少なくとも、WOの周りにいた私の経験では、彼らの多くがスーパーボールを見るとは思えない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я не думаю, что многие из них будут смотреть Супербоул, по крайней мере, по моему опыту общения с WO.
+
+
+======================================================================
+[2026-02-07 06:17:38 UTC]
+Author: asylumental (404520639366692867)
+Original:
+https://tenor.com/view/foosball-is-the-devil-the-waterboy-angry-gif-11096231
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/foosball-is-the-devil-the-waterboy-angry-gif-11096231
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/foosball-is-the-devil-the-waterboy-angry-gif-11096231
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://tenor.com/view/foosball-is-the-devil-the-waterboy-angry-gif-11096231
+
+
+======================================================================
+[2026-02-07 06:14:23 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+basically we can set our sunday defense timer to any time for massadora, we're debating based on our own availability, but we also know the enemy might also watch the big game. A lot of non-us people here, but I know at least King of Crowns is us north american isn't he?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+기본적으로 일요일 방어 타이머를 마사도라를 위해 아무 때나 설정할 수 있고, 저희의 가용성에 따라 논의 중이지만 적도 큰 경기를 볼 수 있다는 것도 알고 있습니다. 여기에는 우리 말고도 많은 사람들이 있지만 적어도 킹 오브 크라운은 우리 북아메리카 사람이잖아요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+基本的には、マサドーラのために日曜日の防衛タイマーをいつでも設定できる。我々は自分たちの都合に基づいて議論しているが、敵もビッグゲームを見るかもしれないことも知っている。ここにはアメリカ人じゃない人が多いけど、少なくともキング・オブ・クラウズは北アメリカ人だよね？
+
+- 🇺🇸 EN → 🇷🇺 RU
+В принципе, мы можем установить таймер защиты в воскресенье на любое время для Массадоры, мы обсуждаем, основываясь на нашей собственной доступности, но мы также знаем, что враг может также смотреть большую игру. Здесь много не наших людей, но я знаю, что по крайней мере King of Crowns - наш североамериканец, не так ли?
+
+
+======================================================================
+[2026-02-07 06:13:09 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+<@&1459615375745487068> those of you who have personal knowledge of/history with WO. want to tell me what you think the odds are some of their leadership will skip a port battle to watch the superbowl?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@&1459615375745487068> 월드 오브 워크래프트에 대해 개인적으로 알고 있거나 역사를 알고 계신 분들 중 일부 지도부가 슈퍼볼을 보기 위해 항구 전투를 건너뛸 확률이 얼마나 된다고 생각하시나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@&1459615375745487068> WO.について個人的な知識がある方、またはWO.との歴史がある方は、指導者の何人かがスーパーボールを見るために港湾戦をスキップする確率はどれくらいだと思いますか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@&1459615375745487068> Те из вас, кто лично знаком с WO. или имеет с ней дело, не подскажете, какова вероятность того, что кто-то из их руководства пропустит бой в порту, чтобы посмотреть Супербоул?
+
+
+======================================================================
+[2026-02-07 03:42:14 UTC]
+Author: tols89 (231200003073376256)
+Original:
+outside tortuha
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+외부 토르투하
+
+- 🇺🇸 EN → 🇯🇵 JP
+アウトサイド・トルータ
+
+- 🇺🇸 EN → 🇷🇺 RU
+за пределами Тортухи
+
+
+======================================================================
+[2026-02-07 01:55:22 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Wouldn’t want to oversleep
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+늦잠 자고 싶지 않음
+
+- 🇺🇸 EN → 🇯🇵 JP
+寝坊しないように
+
+- 🇺🇸 EN → 🇷🇺 RU
+Не хотелось бы проспать.
+
+
+======================================================================
+[2026-02-07 01:55:16 UTC]
+Author: tols89 (231200003073376256)
+Original:
+I’ll set my alarm
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+알람을 설정하겠습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+目覚ましをセットする
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я поставлю будильник.
+
+
+======================================================================
+[2026-02-07 01:17:19 UTC]
+Author: bestkeptsecret (344718519927177226)
+Original:
+<@222262457379323906> Your muster is 5hr before the port battle. Surely that is a bit of an early tension?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@222262457379323906> 소집은 항구 전투 5시간 전입니다. 너무 이른 긴장감이 느껴지지 않나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@222262457379323906>あなたの招集は港湾戦の5時間前です。確かにそれは少し早い緊張感ですね。
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@222262457379323906> Ваш сбор за 5 часов до битвы в порту. Это, конечно, слишком рано?
+
+
+======================================================================
+[2026-02-07 00:02:35 UTC]
+Author: tols89 (231200003073376256)
+Original:
+<@134833808708075521> people are on
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@134833808708075521> 사람들이 켜져 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@134833808708075521>の人々はオンになっている。
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@134833808708075521> люди находятся на
+
+
+======================================================================
+[2026-02-06 23:31:20 UTC]
+Author: paukenist (134833808708075521)
+Original:
+sadly i was there for about 4 hours lol
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+슬프게도 나는 약 4 시간 동안 거기에있었습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+悲しいことに、私は4時間ほどそこにいた(笑)
+
+- 🇺🇸 EN → 🇷🇺 RU
+К сожалению, я пробыл там около 4 часов.
+
+
+======================================================================
+[2026-02-06 22:32:19 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+Typically if you get into comms someone will show up. A lot of times no one wants to be the first one in
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+보통 커뮤니케이션에 들어가면 누군가 나타나게 마련입니다. 많은 경우, 누구도 가장 먼저
+
+- 🇺🇸 EN → 🇯🇵 JP
+通常、通信に入れば誰かが現れる。多くの場合、誰も最初の一人になりたがらない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Как правило, если вы выйдете на связь, кто-нибудь обязательно появится. Часто никто не хочет быть первым в
+
+
+======================================================================
+[2026-02-06 22:14:42 UTC]
+Author: tols89 (231200003073376256)
+Original:
+It is the middle of a work day my dude
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+업무 중입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+今日は仕事の真っ最中だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Сейчас середина рабочего дня, чувак.
+
+
+======================================================================
+[2026-02-06 22:09:17 UTC]
+Author: paukenist (134833808708075521)
+Original:
+5pm and no ones been on all day, truly tragic
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오후 5시인데 하루 종일 아무도 없네요, 정말 비극적이에요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+午後5時になっても一日中誰も出ていない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+5 часов вечера, а никто не выходит на связь весь день, настоящая трагедия.
+
+
+======================================================================
+[2026-02-06 18:42:23 UTC]
+Author: paukenist (134833808708075521)
+Original:
+5 WO around tortuga in rate 1s
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+속도 1초의 토르투가 주변 5WO
+
+- 🇺🇸 EN → 🇯🇵 JP
+レート1sでトルトゥガを5周WO
+
+- 🇺🇸 EN → 🇷🇺 RU
+5 WO вокруг Тортуги в темпе 1 с
+
+
+======================================================================
+[2026-02-06 17:25:13 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Each guild only has 4 trusted guild slots, after that it starts to get confusing with too many yellows/reds we're unsure about
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+각 길드에는 신뢰할 수있는 길드 슬롯이 4 개 뿐이며 그 이후에는 노란색 / 빨간색이 너무 많아서 혼란스러워지기 시작합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+各ギルドの信頼できるギルド枠は4つだけで、それ以降は、よくわからない黄色や赤が多すぎて混乱し始める。
+
+- 🇺🇸 EN → 🇷🇺 RU
+У каждой гильдии есть только 4 слота для доверенных гильдий, после чего все начинает путаться из-за большого количества желтых/красных, в которых мы не уверены.
+
+
+======================================================================
+[2026-02-06 17:12:42 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+Strong arguments for them joining after they go pirate too, so we will just see
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+해적이 된 후에도 합류해야한다는 강력한 주장이 있으므로 다음을 지켜 보겠습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+彼らが海賊になった後に加入することにも強い説得力がある。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Сильные аргументы в пользу того, что они присоединятся и после того, как станут пиратами, так что посмотрим.
+
+
+======================================================================
+[2026-02-06 16:59:49 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+I understand wanting their own guild for their friend group, but that just doesn't really work well with the game's mechanics. 
+
+They can still play as a group under the benefit of PvP tags.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+친구 그룹을 위해 자신만의 길드를 만들고 싶은 마음은 이해하지만, 게임 메커니즘과 잘 맞지 않습니다.
+
+친구들은 여전히 PvP 태그의 혜택을 받으며 그룹으로 플레이할 수 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+フレンドグループのために自分だけのギルドを作りたいのはわかるが、それはゲームの仕組み上、うまく機能しない。
+
+PvPタグの恩恵の下で、彼らはまだグループとしてプレーすることができる。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я понимаю желание иметь собственную гильдию для своей группы друзей, но это просто не очень хорошо сочетается с механикой игры.
+
+Они все равно могут играть группой, пользуясь PvP-метками.
+
+
+======================================================================
+[2026-02-06 16:59:47 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+Leadership is discussing the options, looks like it’s leaning towards a flat no to them joining, but encouraging them to merge. It looks like they have no desire to merge at all though, but we will see
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+경영진은 옵션을 논의하고 있으며, 합병을 반대하는 쪽으로 기울고 있지만 합병을 장려하는 것처럼 보입니다. 하지만 합병에 대한 의지가 전혀 없는 것처럼 보이지는 않습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+首脳陣が選択肢について話し合っているが、彼らの加入には全面的にノーだが、合併は奨励するという方向に傾いているようだ。しかし、彼らは合併する気はないようだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Руководство обсуждает варианты, похоже, что оно склоняется к категорическому "нет" их присоединению, но поощряет их к слиянию. Похоже, что у них вообще нет желания объединяться, но посмотрим.
+
+
+======================================================================
+[2026-02-06 16:57:47 UTC]
+Author: juk1mo (167436326742917120)
+Original:
+They can always merge their players into pvp just like ZRO is merging into PRV
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+ZRO가 PRV로 병합하는 것처럼 플레이어를 언제든지 PVP로 병합할 수 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ZROがPRVと合併するように、彼らはいつでもプレーヤーをpvpに合併することができる。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Они всегда могут объединить своих игроков в пвп, как ZRO объединяется с PRV.
+
+
+======================================================================
+[2026-02-06 16:56:34 UTC]
+Author: juk1mo (167436326742917120)
+Original:
+Yeah I mean they openly say they will attack us etc. seems like this is major benefit to them only lol. Their members don’t have adequate ships for screening and without being n alliance, towers etc will be hostile and can’t participate in pbs so not sure how it would benefit alliance
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+네, 그들은 공개적으로 우리를 공격하겠다고 말하는 등 이것이 그들에게만 큰 이익 인 것 같습니다. 그들의 회원들은 심사를위한 적절한 선박이없고 동맹이되지 않으면 타워 등이 적대적이며 pbs에 참여할 수 없으므로 동맹에 어떻게 도움이 될지 확신 할 수 없습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ああ、彼らは公然と我々を攻撃する等と言っているが、これは彼らだけに大きなメリットがあるように思える(笑)。彼らのメンバーはスクリーニングのための十分な船を持っていないし、アライアンスでなければ、タワーなどは敵対的でpbsに参加できない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да, я имею в виду, что они открыто говорят, что будут нападать на нас и т.д. Похоже, что это выгодно только им. У их членов нет достаточного количества кораблей для проверки, а без альянса башни и т.д. будут враждебными и не смогут участвовать в pbs, так что не уверен, как это может быть выгодно альянсу.
+
+
+======================================================================
+[2026-02-06 16:51:48 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+You're definitely not alone there Jukimo
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+주키모는 혼자가 아닙니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ジュキモは間違いなく一人じゃない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Вы определенно не одиноки, Джукимо.
+
+
+======================================================================
+[2026-02-06 16:21:05 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+Thanks!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+고마워요!
+
+- 🇺🇸 EN → 🇯🇵 JP
+ありがとう！
+
+- 🇺🇸 EN → 🇷🇺 RU
+Спасибо!
+
+
+======================================================================
+[2026-02-06 16:17:08 UTC]
+Author: juk1mo (167436326742917120)
+Original:
+I mean we were farming them last night like 40-5 or so. Don’t really care either way.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+어젯밤에 40-5개 정도 파밍을 했어요. 어느 쪽이든 상관없어요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+昨夜は40-5とかで試合をしたんだ。どっちでもいいよ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я имею в виду, что вчера вечером мы разгромили их со счетом 40-5 или около того. Мне все равно.
+
+
+======================================================================
+[2026-02-06 16:15:38 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+Oh, yeah that is what’s being discussed, thought maybe you had a specific reason other than that
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오, 네, 그게 논의되고있는 것입니다. 아마도 그 이외의 특별한 이유가있을 것이라고 생각했습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ああ、それが話題になっていることなんだ。もしかしたら、それ以外の具体的な理由があるのかと思ったんだ
+
+- 🇺🇸 EN → 🇷🇺 RU
+О, да, именно это и обсуждается, я думал, что у вас есть какая-то другая причина.
+
+
+======================================================================
+[2026-02-06 16:14:54 UTC]
+Author: juk1mo (167436326742917120)
+Original:
+I mean we gonna be full trusted guilds plus they are flotilla, not even pirates
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+우리는 완전히 신뢰할 수있는 길드가 될 것이고 그들은 해적이 아닌 소 함대입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+つまり、我々は完全に信頼できるギルドであり、彼らは船団であって、海賊ですらない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я имею в виду, что мы будем полностью доверенными гильдиями, к тому же это флотилия, а не пираты.
+
+
+======================================================================
+[2026-02-06 16:13:11 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+<@167436326742917120> why do you recommend again UBG members?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@167436326742917120> UBG 회원을 다시 추천하는 이유는 무엇인가요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@167436326742917120>なぜまたUBGメンバーを推薦するのですか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@167436326742917120> почему вы снова рекомендуете членов UBG?
+
+
+======================================================================
+[2026-02-06 15:49:31 UTC]
+Author: tols89 (231200003073376256)
+Original:
+What a bunch of friendless losers
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+친구 없는 루저들
+
+- 🇺🇸 EN → 🇯🇵 JP
+友情のない負け犬たち
+
+- 🇺🇸 EN → 🇷🇺 RU
+Что за кучка безвольных неудачников.
+
+
+======================================================================
+[2026-02-05 15:19:50 UTC]
+Author: tols89 (231200003073376256)
+Original:
+need some help
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+도움이 필요하세요
+
+- 🇺🇸 EN → 🇯🇵 JP
+助けが必要
+
+- 🇺🇸 EN → 🇷🇺 RU
+нужна помощь
+
+
+======================================================================
+[2026-02-05 15:18:44 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Dragon outside tort if anyone is on
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+드래곤 외부 불법 행위가 있는 경우
+
+- 🇺🇸 EN → 🇯🇵 JP
+ドラゴンの外側の不法行為
+
+- 🇺🇸 EN → 🇷🇺 RU
+Дракон снаружи пытает, если кто-то
+
+
+======================================================================
+[2026-02-05 13:47:17 UTC]
+Author: tols89 (231200003073376256)
+Original:
+We coming for gray island next
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+다음은 회색 섬을 찾아갑니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+次はグレーの島を目指す
+
+- 🇺🇸 EN → 🇷🇺 RU
+Мы идем на Серый остров.
+
+
+======================================================================
+[2026-02-05 13:46:50 UTC]
+Author: tols89 (231200003073376256)
+Original:
+https://tenor.com/view/tickets-to-the-spongebob-movie-spongebob-spongebob-movie-pirate-pirates-gif-15779495585732901246
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/tickets-to-the-spongebob-movie-spongebob-spongebob-movie-pirate-pirates-gif-15779495585732901246
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/tickets-to-the-spongebob-movie-spongebob-spongebob-movie-pirate-pirates-gif-15779495585732901246
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://tenor.com/view/tickets-to-the-spongebob-movie-spongebob-spongebob-movie-pirate-pirates-gif-15779495585732901246
+
+
+======================================================================
+[2026-02-05 13:46:41 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Pirate together, strong!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+함께 해적, 강해져라!
+
+- 🇺🇸 EN → 🇯🇵 JP
+一緒に海賊、強い！
+
+- 🇺🇸 EN → 🇷🇺 RU
+Пираты вместе, сильные!
+
+
+======================================================================
+[2026-02-05 05:05:29 UTC]
+Author: .merina (447238298319192065)
+Original:
+CONGRATS GUYS!
+
+An amazing pirate victory!!! I'm so happy for you.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+축하합니다!
+
+놀라운 해적의 승리!!! 정말 기뻐요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+おめでとう、みんな！
+
+素晴らしい海賊の勝利だ!本当におめでとう
+
+- 🇺🇸 EN → 🇷🇺 RU
+ПОЗДРАВЛЯЕМ РЕБЯТ!
+
+Потрясающая пиратская победа!!! Я так рад за вас.
+
+
+======================================================================
+[2026-02-05 03:45:53 UTC]
+Author: paukenist (134833808708075521)
+Original:
+I guess the other option is spend the same for some ships
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+다른 옵션은 일부 선박에 대해 동일한 비용을 지출하는 것입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+もう一つの選択肢は、いくつかの船で同じように使うことだと思う。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Другой вариант - потратить столько же на несколько кораблей.
+
+
+======================================================================
+[2026-02-05 02:31:02 UTC]
+Author: tols89 (231200003073376256)
+Original:
+They could decide at anytime to take it off but who knows
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+언제든 벗을 수 있지만 누가 알겠습니까?
+
+- 🇺🇸 EN → 🇯🇵 JP
+彼らはいつでもそれを外すことを決めることができる。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Они могут в любой момент решить снять его, но кто знает.
+
+
+======================================================================
+[2026-02-05 02:30:30 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Rumor was they were taking it off around Xmas but it never left so your guess is as good as mine
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+크리스마스 즈음에 벗는다는 소문이 있었지만, 결국 벗지 않았으니 여러분도 저처럼 추측해보세요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+噂ではXmasの頃に外される予定だったようだが、結局外されなかった。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Ходили слухи, что они снимают его около Рождества, но он так и не вышел, так что ваше предположение не хуже моего.
+
+
+======================================================================
+[2026-02-05 02:21:04 UTC]
+Author: paukenist (134833808708075521)
+Original:
+do we know when its gonna be taken off the storm?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+언제 폭풍에서 벗어날지 알 수 있나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+いつ嵐から外されるのか分かっているのか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Мы знаем, когда его снимут со штурма?
+
+
+======================================================================
+[2026-02-05 02:16:32 UTC]
+Author: tols89 (231200003073376256)
+Original:
+If you’re playing and farming a lot, it’s well worth it
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+플레이와 파밍을 많이 한다면 그만한 가치가 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+たくさんプレーしたり、農業をしたりするのであれば、その価値は十分にある
+
+- 🇺🇸 EN → 🇷🇺 RU
+Если вы много играете и занимаетесь сельским хозяйством, оно того стоит.
+
+
+======================================================================
+[2026-02-05 02:09:57 UTC]
+Author: paukenist (134833808708075521)
+Original:
+Is perm captain seal worth it?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+펌 캡틴 씰은 그만한 가치가 있나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+パーマネント・キャプテン・シールにその価値はあるのか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Стоит ли печать капитана Перми?
+
+
+======================================================================
+[2026-02-04 08:45:52 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+Private or commercial
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+개인 또는 상업용
+
+- 🇺🇸 EN → 🇯🇵 JP
+個人または商用
+
+- 🇺🇸 EN → 🇷🇺 RU
+Частные или коммерческие
+
+
+======================================================================
+[2026-02-04 08:45:42 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+Well if u ever bend metal or break people for ANY reason it’s an instant drug test.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+어떤 이유로든 금속을 구부리거나 사람을 부러뜨리면 즉시 약물 검사에 들어갑니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+どんな理由であれ、金属を曲げたり、人を壊したりすれば、即座に薬物検査だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Если вы когда-нибудь гнете металл или ломаете людей по любой причине, это сразу же становится тестом на наркотики.
+
+
+======================================================================
+[2026-02-04 08:44:51 UTC]
+Author: asylumental (404520639366692867)
+Original:
+its a dream id definitely like to accomplish, at whatever point in life
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+인생의 어느 시점에서든 꼭 이루고 싶은 꿈입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+人生のどの時点であれ、絶対に成し遂げたい夢だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Это мечта, которую я хотел бы осуществить в любой момент жизни.
+
+
+======================================================================
+[2026-02-04 08:44:08 UTC]
+Author: asylumental (404520639366692867)
+Original:
+some day ill do the whole pilot thing, but im not gonna stop smoking weed lol. so i guess i will never fly commercial or military, but thats okay
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+언젠가 나는 전체 파일럿 일을 할 것이지만 대마초를 피우는 것을 멈추지 않을 것입니다. 그래서 나는 결코 상업용이나 군용 비행기를 타지 않을 것 같지만 괜찮습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+いつかはパイロットになるつもりだが、マリファナは止められない(笑)。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Когда-нибудь я стану пилотом, но я не собираюсь бросать курить траву, так что, думаю, я никогда не буду летать на коммерческих или военных самолетах, но это нормально.
+
+
+======================================================================
+[2026-02-04 08:43:20 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Yeah no its super smart of ya
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+네, 정말 똑똑하시네요
+
+- 🇺🇸 EN → 🇯🇵 JP
+いやいや、とても賢いね
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да, нет, это очень умно с твоей стороны.
+
+
+======================================================================
+[2026-02-04 08:43:07 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+We are a community no? And I know a bunch of yall partake so I tapped  into group knowledge
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+우리는 커뮤니티잖아요? 그리고 저는 많은 사람들이 참여한다는 것을 알고 있으므로 그룹 지식을 활용했습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+私たちはコミュニティでしょ？それに、多くの人が参加しているのを知っているから、グループの知識を利用したんだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Мы - сообщество, не так ли? И я знаю, что многие из вас участвуют, так что я воспользовался групповым знанием.
+
+
+======================================================================
+[2026-02-04 08:42:53 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+"can't google this ask room full of lots of people" is pretty smart actually XD
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+"많은 사람들로 가득 찬 이 질문방을 구글에서 검색할 수 없다"는 말은 사실 꽤 똑똑합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+"大勢の人がいる部屋でググることはできない "というのは、実際にはかなり賢いXDだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+"не могу загуглить эту просьбу в комнате, полной людей" - это довольно умно на самом деле XD
+
+
+======================================================================
+[2026-02-04 08:42:30 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Of course. So this is for a hypothetical you're discussing with someone? Because thats a very interesting use of pirate alliance chat, and wierdly effective
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+물론이죠. 누군가와 가상의 대화를 나누기 위해 이 기능을 사용한다고요? 해적 동맹 채팅을 매우 흥미롭게 사용하고 있고, 이상하게도 효과적이니까요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+もちろんだ。では、これは誰かと議論している仮定のためですか？それは海賊同盟チャットの非常に興味深い使い方であり、奇妙なほど効果的だからだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Конечно. Так это для гипотезы, которую вы обсуждаете с кем-то? Потому что это очень интересное использование чата пиратского альянса, и странно эффективное.
+
+
+======================================================================
+[2026-02-04 08:41:41 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+Pilots license and job > any drug/recreational product
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+조종사 면허 및 직업 > 모든 약물/레크리에이션 제품
+
+- 🇺🇸 EN → 🇯🇵 JP
+パイロット免許と仕事 > あらゆる薬物／娯楽品
+
+- 🇺🇸 EN → 🇷🇺 RU
+Лицензия пилота и работа > любой наркотик/рекреационный продукт
+
+
+======================================================================
+[2026-02-04 08:40:50 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+I’m definitely not buying
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+절대 구매하지 않습니다
+
+- 🇺🇸 EN → 🇯🇵 JP
+私は絶対に買わない
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я точно не куплю
+
+
+======================================================================
+[2026-02-04 08:37:29 UTC]
+Author: asylumental (404520639366692867)
+Original:
+and if youre buying a pound you should definitely go in pretending like you already got a good deal somewhere else, so you can get a good price instead of getting hosed
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그리고 파운드를 사는 경우 다른 곳에서 이미 좋은 거래를 한 것처럼 가장하여 들어가야 바가지 대신 좋은 가격을받을 수 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ポンドを買うのなら、どこかですでにいい買い物をしたようなふりをして行くべきだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+И если вы покупаете фунт, то вам обязательно нужно притвориться, будто вы уже получили выгодную сделку в другом месте, чтобы получить хорошую цену, а не получить нагоняй.
+
+
+======================================================================
+[2026-02-04 08:37:08 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+I was talking average consumer. I still know about some grows, I'm a native
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+저는 일반 소비자에 대해 이야기하고 있었습니다. 저는 여전히 일부 성장에 대해 알고 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+私は一般消費者の話をしたんだ。私はまだいくつかの栽培について知っている。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я говорил о среднем потребителе. Я все еще знаю о некоторых видах выращивания, я местный житель
+
+
+======================================================================
+[2026-02-04 08:36:47 UTC]
+Author: asylumental (404520639366692867)
+Original:
+but i buy from the growers
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+하지만 저는 재배자에게서 구매합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+しかし、私は生産者から買う
+
+- 🇺🇸 EN → 🇷🇺 RU
+но я покупаю у производителей.
+
+
+======================================================================
+[2026-02-04 08:36:42 UTC]
+Author: asylumental (404520639366692867)
+Original:
+maybe for the average consumer
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+일반 소비자에게는
+
+- 🇺🇸 EN → 🇯🇵 JP
+一般消費者向けかもしれない
+
+- 🇺🇸 EN → 🇷🇺 RU
+возможно, для среднего потребителя
+
+
+======================================================================
+[2026-02-04 08:36:36 UTC]
+Author: asylumental (404520639366692867)
+Original:
+lol
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+lol
+
+- 🇺🇸 EN → 🇯🇵 JP
+笑
+
+- 🇺🇸 EN → 🇷🇺 RU
+lol
+
+
+======================================================================
+[2026-02-04 08:36:26 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+600-1.5 seems like a reasonable range american or canadian. 600 here would be skunk weed for sure
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+600-1.5는 미국이나 캐나다의 합리적인 범위처럼 보입니다. 여기서 600은 확실히 스컹크 잡초 일 것입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+600-1.5というのは、アメリカでもカナダでも妥当な範囲だと思う。ここでの600は間違いなくスカンクの葉っぱだろう。
+
+- 🇺🇸 EN → 🇷🇺 RU
+600-1,5 кажется разумным диапазоном для американцев или канадцев. 600 здесь точно будет травой для скунса.
+
+
+======================================================================
+[2026-02-04 08:35:50 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+Preciate it
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+예쁘게 꾸미기
+
+- 🇺🇸 EN → 🇯🇵 JP
+ありがとう
+
+- 🇺🇸 EN → 🇷🇺 RU
+Цените это
+
+
+======================================================================
+[2026-02-04 08:35:47 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+Conversation isn’t into it that deep. Just a general price.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+대화는 그다지 깊지 않습니다. 그냥 일반적인 가격입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+会話はそこまで深くはない。ただ、一般的な価格だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Разговор не настолько глубокий. Просто общая цена.
+
+
+======================================================================
+[2026-02-04 08:35:45 UTC]
+Author: asylumental (404520639366692867)
+Original:
+xD
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+xD
+
+- 🇺🇸 EN → 🇯🇵 JP
+xD
+
+- 🇺🇸 EN → 🇷🇺 RU
+xD
+
+
+======================================================================
+[2026-02-04 08:35:41 UTC]
+Author: asylumental (404520639366692867)
+Original:
+but you know...
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+하지만 아시다시피...
+
+- 🇺🇸 EN → 🇯🇵 JP
+でもね...
+
+- 🇺🇸 EN → 🇷🇺 RU
+но знаете...
+
+
+======================================================================
+[2026-02-04 08:35:37 UTC]
+Author: asylumental (404520639366692867)
+Original:
+well i buy AAAA for the prices i said
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+내가 말한 가격으로 AAAA를 구입합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+僕はAAAAを買うよ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Ну, я покупаю AAAA по тем ценам, о которых я говорил.
+
+
+======================================================================
+[2026-02-04 08:35:32 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Colorado a lbs probably 600-1.5k depending on a ton of factors
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+콜로라도는 여러 요인에 따라 600-1.5 파운드 정도입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+コロラド州は、様々な要因によって600～150万ポンドになるだろう。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Колорадо фунтов, вероятно, 600-1,5 тыс. в зависимости от множества факторов
+
+
+======================================================================
+[2026-02-04 08:35:13 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+also like, quality/ strain
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+또한, 품질 / 변형
+
+- 🇺🇸 EN → 🇯🇵 JP
+また、品質や系統も気に入っている。
+
+- 🇺🇸 EN → 🇷🇺 RU
+также нравится, качество/сорт
+
+
+======================================================================
+[2026-02-04 08:35:07 UTC]
+Author: asylumental (404520639366692867)
+Original:
+its legal here so prices are low
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+이곳은 합법적이므로 가격이 저렴합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ここでは合法なので価格は安い
+
+- 🇺🇸 EN → 🇷🇺 RU
+Здесь все легально, поэтому цены низкие.
+
+
+======================================================================
+[2026-02-04 08:35:06 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+It can vary wildly
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+매우 다양할 수 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+大きく変わることもある
+
+- 🇺🇸 EN → 🇷🇺 RU
+Она может быть самой разной
+
+
+======================================================================
+[2026-02-04 08:34:55 UTC]
+Author: asylumental (404520639366692867)
+Original:
+prices could be comparable to that depending on the state, some other states probably more pricey
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+주에 따라 가격이 비슷할 수 있으며 일부 다른 주에서는 더 비쌀 수 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+州によっては、それに匹敵する価格になることもある。
+
+- 🇺🇸 EN → 🇷🇺 RU
+цены могут быть сопоставимы с этими в зависимости от штата, в некоторых других штатах, возможно, дороже
+
+
+======================================================================
+[2026-02-04 08:34:33 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+Ty.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+Ty.
+
+- 🇺🇸 EN → 🇯🇵 JP
+タイ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Тай.
+
+
+======================================================================
+[2026-02-04 08:33:54 UTC]
+Author: asylumental (404520639366692867)
+Original:
+$1000cad decent deal
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+1000캐드 괜찮은 거래
+
+- 🇺🇸 EN → 🇯🇵 JP
+1000ドル
+
+- 🇺🇸 EN → 🇷🇺 RU
+$1000cad достойная сделка
+
+
+======================================================================
+[2026-02-04 08:33:38 UTC]
+Author: asylumental (404520639366692867)
+Original:
+like 600-800cad for a good deal
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+좋은 거래에 600-800캐드처럼
+
+- 🇺🇸 EN → 🇯🇵 JP
+600～800カナダドルくらいがいい。
+
+- 🇺🇸 EN → 🇷🇺 RU
+около 600-800кад за хорошую сделку
+
+
+======================================================================
+[2026-02-04 08:33:30 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+uhh
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+어
+
+- 🇺🇸 EN → 🇯🇵 JP
+えー
+
+- 🇺🇸 EN → 🇷🇺 RU
+ухх
+
+
+======================================================================
+[2026-02-04 08:33:17 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+America. I don’t know. Just want a ball park price
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+미국 모르겠어요. 그냥 대략적인 가격만 알고 싶어요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+アメリカだ。私は知らない。ただ、だいたいの値段が知りたいだけなんだ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Америка. Я не знаю. Просто хочу знать примерную цену.
+
+
+======================================================================
+[2026-02-04 08:33:02 UTC]
+Author: asylumental (404520639366692867)
+Original:
+where?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+어디로?
+
+- 🇺🇸 EN → 🇯🇵 JP
+どこで？
+
+- 🇺🇸 EN → 🇷🇺 RU
+где?
+
+
+======================================================================
+[2026-02-04 08:32:54 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+Ya
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+Ya
+
+- 🇺🇸 EN → 🇯🇵 JP
+ヤー
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я
+
+
+======================================================================
+[2026-02-04 08:32:44 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+A POUND? lol
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+1파운드? ㅋㅋ
+
+- 🇺🇸 EN → 🇯🇵 JP
+ポンド？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Фунт?
+
+
+======================================================================
+[2026-02-04 08:32:27 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+I don’t smoke so I have zero clue. Having a discussion with a friend about it
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+저는 담배를 피우지 않아서 전혀 모릅니다. 친구와 흡연에 대해 논의 중
+
+- 🇺🇸 EN → 🇯🇵 JP
+私はタバコを吸わないので、まったくわかりません。友人と議論中
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я не курю, поэтому не имею ни малейшего представления. Обсуждаю это с другом.
+
+
+======================================================================
+[2026-02-04 08:32:05 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+What does a pound of weed. Cost generally.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+1파운드의 잡초. 일반적으로 비용입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+マリファナ1ポンドの値段は？一般的にはいくら。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Сколько стоит фунт травы. Стоимость в целом.
+
+
+======================================================================
+[2026-02-04 05:43:51 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Hell yeah brother.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+당연하죠.
+
+- 🇺🇸 EN → 🇯🇵 JP
+そうだね。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да, брат.
+
+
+======================================================================
+[2026-02-04 05:43:31 UTC]
+Author: herorages (516827080676081674)
+Original:
+thank you all for the help
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+도와주신 모든 분들께 감사드립니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ありがとうございました。
+
+- 🇺🇸 EN → 🇷🇺 RU
+спасибо всем за помощь
+
+
+======================================================================
+[2026-02-04 05:22:22 UTC]
+Author: bestkeptsecret (344718519927177226)
+Original:
+https://klipy.com/gifs/commercial-snickers
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://klipy.com/gifs/commercial-snickers
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://klipy.com/gifs/commercial-snickers
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://klipy.com/gifs/commercial-snickers
+
+
+======================================================================
+[2026-02-04 04:55:42 UTC]
+Author: tuarok (397730684535439361)
+Original:
+https://tenor.com/view/druski-rage-angry-annoyed-whatever-gif-5126333390325209476
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/druski-rage-angry-annoyed-whatever-gif-5126333390325209476
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/druski-rage-angry-annoyed-whatever-gif-5126333390325209476
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://tenor.com/view/druski-rage-angry-annoyed-whatever-gif-5126333390325209476
+
+
+======================================================================
+[2026-02-04 01:43:19 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Damn they removed an EU guild the game for Duping
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+젠장, 듀핑을 이유로 EU 길드를 게임에서 삭제했습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+くそっ、EUのギルドをダピングで削除しやがった。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Проклятье, они удалили гильдию ЕС из игры за дублирование
+
+
+======================================================================
+[2026-02-04 01:01:44 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+https://wosb-battle-planner.web.app/b/LUC3oXsT68PHxB8zDN6q
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://wosb-battle-planner.web.app/b/LUC3oXsT68PHxB8zDN6q
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://wosb-battle-planner.web.app/b/LUC3oXsT68PHxB8zDN6q
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://wosb-battle-planner.web.app/b/LUC3oXsT68PHxB8zDN6q
+
+
+======================================================================
+[2026-02-03 16:05:45 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Imp legend outside Tortuga if anyone is around
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+토르투가 외곽의 임프 전설이 주변에 있다면
+
+- 🇺🇸 EN → 🇯🇵 JP
+トルトゥーガの外にインプの伝説がある。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Легенда об импах возле Тортуги, если кто-то будет рядом.
+
+
+======================================================================
+[2026-02-03 03:17:37 UTC]
+Author: mikedz (173327548980264960)
+Original:
+<@150038027241127937> taking another run at SB w/ bbc
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@150038027241127937> bbc와 함께 SB에서 다시 뛰기
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@150038027241127937> SBにbbcで再挑戦
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@150038027241127937> еще один заход на SB w/ bbc
+
+
+======================================================================
+[2026-02-03 02:52:58 UTC]
+Author: .merina (447238298319192065)
+Original:
+and we def. not about to kill allies... so SUCKS TO SUCK TODAY SWG.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그리고 우리는 아군을 죽일 생각이 없으니... 오늘 SWG를 엿먹여주세요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+だから、今日のSWGは最悪だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+И мы точно не собираемся убивать союзников... так что, нехрен тут разгребать SWG.
+
+
+======================================================================
+[2026-02-03 02:50:43 UTC]
+Author: .merina (447238298319192065)
+Original:
+if kai is gonna we gotta kill someone.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+카이가 누군가를 죽여야 한다면..
+
+- 🇺🇸 EN → 🇯🇵 JP
+カイがそうするなら、誰かを殺さなければならない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Если Кай собирается, мы должны кого-то убить.
+
+
+======================================================================
+[2026-02-03 02:50:38 UTC]
+Author: .merina (447238298319192065)
+Original:
+thats funny bc we came to kill kai
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+재밌네, 우리가 카이 죽이러 왔으니까
+
+- 🇺🇸 EN → 🇯🇵 JP
+おかしいな、カイを殺しに来たのに
+
+- 🇺🇸 EN → 🇷🇺 RU
+Это смешно, потому что мы пришли убить Кая.
+
+
+======================================================================
+[2026-02-03 02:48:06 UTC]
+Author: paukenist (134833808708075521)
+Original:
+@hereTensioning South Bastion for content
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+콘텐츠에 대한 긴장감 넘치는 남쪽 바스티온
+
+- 🇺🇸 EN → 🇯🇵 JP
+コンテンツは@hereTensioningサウスバスティオン
+
+- 🇺🇸 EN → 🇷🇺 RU
+@hereTensioning Южный бастион за содержание
+
+
+======================================================================
+[2026-02-03 01:13:21 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+@here If you can be on in 45 mins for South Bastion attack that would be great! ❤️
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+여기 45분 안에 사우스 바스티온 공격에 참여해주신다면 정말 감사하겠습니다! ❤️
+
+- 🇺🇸 EN → 🇯🇵 JP
+もし45分後にサウス・バスティオンの攻撃に出られるなら、それは素晴らしいことだ！❤️
+
+- 🇺🇸 EN → 🇷🇺 RU
+@here Если вы можете быть в 45 минутах для атаки Южного Бастиона, это было бы здорово! ❤️
+
+
+======================================================================
+[2026-02-02 05:54:15 UTC]
+Author: mikedz (173327548980264960)
+Original:
+both of my deaths were from teammates! the eagle is unrivaled!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+두 번 다 팀원들이 죽였어요! 독수리는 타의 추종을 불허합니다!
+
+- 🇺🇸 EN → 🇯🇵 JP
+私の死は2人ともチームメイトによるものだった！ イーグルは他の追随を許さない！
+
+- 🇺🇸 EN → 🇷🇺 RU
+Обе мои смерти были от рук товарищей по команде! Орлу нет равных!
+
+
+======================================================================
+[2026-02-01 20:17:56 UTC]
+Author: tols89 (231200003073376256)
+Original:
+@here nunch of neutrals outside tortuga pvp
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+토르투가 PVP 외부에 중립이 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+トルトゥーガのPvPの外で、中立のナンチがここにいる
+
+- 🇺🇸 EN → 🇷🇺 RU
+@здесь нунция нейтралов возле пвп Тортуги
+
+
+======================================================================
+[2026-02-01 01:09:12 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+https://streamable.com/8b5976
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://streamable.com/8b5976
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://streamable.com/8b5976
+
+- 🇺🇸 EN → 🇷🇺 RU
+https://streamable.com/8b5976
+
+
+======================================================================
+[2026-01-31 23:32:04 UTC]
+Author: .merina (447238298319192065)
+Original:
+definitely heard rt. Never trust WO.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+확실히 들었습니다. WO를 절대 믿지 마세요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+間違いなくRTを聞いた。WOを信用してはいけない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+определенно слышал РТ. Никогда не доверяйте WO.
+
+
+======================================================================
+[2026-01-31 23:30:39 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Guess what? If you support your own team and don't make deals with the enemy behind each other's backs, this kind of thing is less likely to happen! Stupid ass Spain
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그거 아세요? 자신의 팀을 지원하고 서로의 등 뒤에서 적과 거래를 하지 않으면 이런 일이 일어날 가능성이 줄어듭니다! 멍청한 스페인
+
+- 🇺🇸 EN → 🇯🇵 JP
+何だと思う？自国のチームを応援し、敵国と裏で取引しなければ、このようなことは起こりにくい！バカ野郎スペイン
+
+- 🇺🇸 EN → 🇷🇺 RU
+Угадайте, что? Если вы поддерживаете свою команду и не заключаете сделки с врагом за спиной друг у друга, то подобное случается реже! Глупая задница Испания
+
+
+======================================================================
+[2026-01-31 23:29:01 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Yo, fuck WO. But also: new Spain gotta be feeling thr squeeze after backstabbing their allies ans each other. Again.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+WO는 엿 먹어라. 하지만 새로운 스페인은 동맹국을 배신한 후 압박감을 느끼고 있을 겁니다. 또다시.
+
+- 🇺🇸 EN → 🇯🇵 JP
+WOなんてクソくらえだ。だが、同時に、新生スペインは同盟国同士を裏切り合い、逼迫を感じているはずだ。もう一度言う。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Йоу, нахер WO. Но также: новая Испания, должно быть, чувствует себя поджатой после предательства своих союзников друг другом. Опять же.
+
+
+======================================================================
+[2026-01-31 22:35:47 UTC]
+Author: tols89 (231200003073376256)
+Original:
+WO is already tensioning san martinas
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+WO는 이미 산 마르티나스를 긴장시키고 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+WOはすでにサンマルティーナに張力をかけている
+
+- 🇺🇸 EN → 🇷🇺 RU
+WO уже натягивает Сан-Мартинас
+
+
+======================================================================
+[2026-01-30 21:49:41 UTC]
+Author: tols89 (231200003073376256)
+Original:
+The curse of Yuki, the clan killer!!!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+클랜 킬러 유키의 저주!!!
+
+- 🇺🇸 EN → 🇯🇵 JP
+一族殺しの結城の呪い!
+
+- 🇺🇸 EN → 🇷🇺 RU
+Проклятие Юки, убийцы клана!!!
+
+
+======================================================================
+[2026-01-30 21:36:26 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+Blackhand, more like paperhand
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+블랙핸드, 페이퍼핸드에 가깝게
+
+- 🇺🇸 EN → 🇯🇵 JP
+ブラックハンド、ペーパーハンドに近い
+
+- 🇺🇸 EN → 🇷🇺 RU
+Черная рука, скорее бумажная рука
+
+
+======================================================================
+[2026-01-30 21:30:41 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+Or maybe not
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+아니면 아닐 수도 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+そうでないかもしれない
+
+- 🇺🇸 EN → 🇷🇺 RU
+А может, и нет
+
+
+======================================================================
+[2026-01-30 21:29:08 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+40 minutes left, Idk what the tickets are, but looking good for atk
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+40분 남았어, 티켓이 뭔지는 모르겠지만 잉크는 괜찮아 보인다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+残り40分、チケットの値段はわからないが、atkは良さそうだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Осталось 40 минут, я не знаю, сколько стоят билеты, но для Atk они выглядят неплохо.
+
+
+======================================================================
+[2026-01-30 02:16:53 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Yeah the hard
+Part is now tensioning that 60 man zerg to even get a battle lol
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+네 어려운
+이제 60인 저그가 전투를 벌이기 위해 긴장하고 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ああ、難しいのは
+60人のザーグと戦うために緊張を強いられることだ(笑)
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да, самое сложное
+Теперь придется напрячься, чтобы получить 60 человек зергов, чтобы даже получить битву lol
+
+
+======================================================================
+[2026-01-30 01:59:07 UTC]
+Author: mikedz (173327548980264960)
+Original:
+that's why 10v10 is the best, 20 is a close second. yeah fuck it, go ahead and tension it with your 60 man zerg, our 10 will beat your 10 simple as
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그래서 10 대 10이 최고이고 20이 근소한 차이입니다. 그래, 젠장, 60 인 저그와 긴장해봐, 우리 10이 당신의 10을 간단하게 이길 것입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+だから10対10がベストで、20対10はその次なんだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Вот почему 10v10 - лучшая игра, 20 - на втором месте. Да ну нафиг, идите и напрягайтесь со своим зергом из 60 человек, наши 10 победят ваши 10, просто.
+
+
+======================================================================
+[2026-01-29 21:37:33 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Availability and numbers is trumping all rn
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+가용성과 숫자가 모든 rn보다 우선합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+可用性と数字がすべてに勝る。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Доступность и количество превыше всего.
+
+
+======================================================================
+[2026-01-29 21:37:25 UTC]
+Author: tols89 (231200003073376256)
+Original:
+The game is coming down to who has the active members as opposed to who has the best quality
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+누가 더 많은 회원을 확보하느냐가 아니라 누가 더 많은 회원을 확보하느냐에 따라 승부가 결정됩니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+試合は、誰が最高のクオリティーを持っているかということとは対照的に、誰がアクティブなメンバーを持っているかということになってきている
+
+- 🇺🇸 EN → 🇷🇺 RU
+Игра сводится к тому, у кого больше активных членов, а не к тому, у кого лучшее качество.
+
+
+======================================================================
+[2026-01-29 21:35:52 UTC]
+Author: dugprime (176848053410463745)
+Original:
+bro their SPIRIT lived in that port too.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그들의 영혼도 그 항구에서 살았습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+その港にも彼らの魂が宿っていた。
+
+- 🇺🇸 EN → 🇷🇺 RU
+брат, их ДУХ жил и в этом порту.
+
+
+======================================================================
+[2026-01-29 21:35:28 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Joins CFS, most of the clan goes inactive. Joins backhand, bam next day lose your main port
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+CFS에 가입하면 대부분의 클랜이 비활성 상태가 됩니다. 백핸드에 가입하면 다음날 메인 포트를 잃습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+CFSに加入、ほとんどのクランが活動休止。バックハンドに参加し、翌日メインポートを失う。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Вступает в CFS, большая часть клана становится неактивной. Вступает в клан, на следующий день теряет свой основной порт.
+
+
+======================================================================
+[2026-01-29 21:35:02 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Starting to build a track record
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+실적 쌓기 시작하기
+
+- 🇺🇸 EN → 🇯🇵 JP
+実績を作り始める
+
+- 🇺🇸 EN → 🇷🇺 RU
+Начинаем нарабатывать послужной список
+
+
+======================================================================
+[2026-01-29 21:34:37 UTC]
+Author: dugprime (176848053410463745)
+Original:
+I had the "what if" thought.  Yuki might just be bad luck lol.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+"만약에"라는 생각이 들었습니다.  유키가 운이 나빴을 수도 있죠.
+
+- 🇺🇸 EN → 🇯🇵 JP
+もしや」と思った。  ユキは運が悪いだけかもしれない(笑)。
+
+- 🇺🇸 EN → 🇷🇺 RU
+У меня была мысль "а что если".  Юки может просто не повезти.
+
+
+======================================================================
+[2026-01-29 21:33:03 UTC]
+Author: tols89 (231200003073376256)
+Original:
+<@176848053410463745> also, oooof. Imagine being Yuki, joining blackhand, and immediately losing your port? Doesn’t look good for him, probably all his fault 🤣
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@176848053410463745> 또한, 오우. 유키가 되어 블랙핸드에 합류했다가 바로 포트를 잃는다고 상상해 보세요. 안 좋아 보이겠죠, 아마 전부 유키의 잘못일 겁니다 🤣.
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@176848053410463745> また、ウーン。ユキがブラックハンドに参加して、すぐに港を失うことを想像してみて？彼のために良いように見えません、おそらくすべての彼のせい🤣。
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@176848053410463745> А еще, оооо. Представьте, что вы Юки, присоединяетесь к блэкхэнду и тут же теряете порт? Это не очень хорошо для него, возможно, это все его вина 🤣.
+
+
+======================================================================
+[2026-01-29 21:10:09 UTC]
+Author: techniker (235871018823057408)
+Original:
+Monk was complaining about the arrows in general for a while yesterday too thats great
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+스님도 어제 한동안 화살에 대해 전반적으로 불평했습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+モンクは昨日もしばらくの間、矢全般について不満を漏らしていた。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Монк вчера долго жаловался на стрелы в целом, и это здорово.
+
+
+======================================================================
+[2026-01-29 21:10:00 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+Ahahahaha
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+아하하하
+
+- 🇺🇸 EN → 🇯🇵 JP
+アハハハハ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Ахахахахаха
+
+
+======================================================================
+[2026-01-29 21:07:01 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+WO are actually secure enough to mock themselves
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+WO는 실제로 스스로를 조롱할 만큼 충분히 안전합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+WOは実際、自嘲するのに十分安全である
+
+- 🇺🇸 EN → 🇷🇺 RU
+WO действительно достаточно безопасны, чтобы насмехаться над собой
+
+
+======================================================================
+[2026-01-29 21:06:45 UTC]
+Author: dugprime (176848053410463745)
+Original:
+Zro wouldve dc'd their two best players or blamed WAR .
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+Zro는 최고의 두 선수를 디스하거나 WAR 을 비난했습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+Zroは彼らの最高の選手2人をDCにするか、WARを非難しただろう。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Зро бы убрал двух своих лучших игроков или обвинил бы WAR.
+
+
+======================================================================
+[2026-01-29 21:05:34 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+Surprised Kai took it well at nisa tbh
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+놀랍게도 카이는 니사 티비에이치에서 잘 받아들였습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+甲斐がニーサで良いプレーを見せたのは驚きだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Удивительно, что Кай хорошо воспринял это в Нисе.
+
+
+======================================================================
+[2026-01-29 21:04:09 UTC]
+Author: dugprime (176848053410463745)
+Original:
+He agreed with me last night when I said spain and kai both zergs at least kai dont act like victims when they lose
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그는 어젯밤 스페인과 카이 모두 저그가 졌을 때 적어도 카이는 피해자처럼 행동하지 않는다고 말했을 때 동의했습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+昨夜、私がスペインとカイはどちらもザーグだと言ったとき、彼は私に同意した。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Он согласился со мной прошлой ночью, когда я сказал, что Испания и Кай - оба зерги, но Кай хотя бы не ведет себя как жертва, когда проигрывает.
+
+
+======================================================================
+[2026-01-29 21:03:26 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+Aww I thought he became cool
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+아, 멋있어졌다고 생각했는데
+
+- 🇺🇸 EN → 🇯🇵 JP
+彼はクールになったと思った
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я думала, он стал крутым.
+
+
+======================================================================
+[2026-01-29 21:03:05 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+Nah it's his screenshot but he's not my source, that dude has a hate boner for us
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+아니, 그 사람 스크린샷인데 내 정보원이 아니야, 그 사람은 우릴 증오해
+
+- 🇺🇸 EN → 🇯🇵 JP
+いや、それは彼のスクリーンショットだが、彼は僕のソースじゃない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Не, это его скриншот, но он не мой источник, у этого чувака к нам ненависть.
+
+
+======================================================================
+[2026-01-29 20:56:54 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+SPAIN lost to KAI, KAI lost to Pirates. PIRATES ON TOP
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+스페인이 카이에게 패하고, 카이도 해적에게 패했습니다. 정상에 오른 해적
+
+- 🇺🇸 EN → 🇯🇵 JP
+スペインはカイに敗れ、カイはパイレーツに敗れた。パイレーツ・オン・トップ
+
+- 🇺🇸 EN → 🇷🇺 RU
+ИСПАНИЯ проиграла КАИ, КАИ проиграла ПИРАТАМ. ПИРАТЫ НА ВЕРШИНЕ
+
+
+======================================================================
+[2026-01-29 20:54:42 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+They set it even earlier I think to dodge
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그들은 피하기 위해 더 일찍 설정했다고 생각합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+それをかわすために、もっと早く設定したのだと思う。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Они установили его еще раньше, я думаю, чтобы уклониться
+
+
+======================================================================
+[2026-01-29 20:54:24 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+You don’t have to protect KOC
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+KOC를 보호할 필요가 없습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+KOCを守る必要はない
+
+- 🇺🇸 EN → 🇷🇺 RU
+Вы не обязаны защищать КОК
+
+
+======================================================================
+[2026-01-29 20:53:57 UTC]
+Author: dugprime (176848053410463745)
+Original:
+Isn't it too early for their port window? I thought it was like 4-6 my time and shits gone already
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+항구 창문은 너무 이르지 않나요? 4-6시쯤인 줄 알았는데 벌써 똥이 나갔어요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+港の窓口としては早すぎないか？4-6年前だと思ってたのに、もう終わっちゃったよ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Не слишком ли рано для их портового окна? Я думал, что сейчас 4-6 часов, а оно уже прошло.
+
+
+======================================================================
+[2026-01-29 20:53:29 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+Brown hand in shambles
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+혼란에 빠진 갈색 손
+
+- 🇺🇸 EN → 🇯🇵 JP
+褐色の手
+
+- 🇺🇸 EN → 🇷🇺 RU
+Коричневая рука в смятении
+
+
+======================================================================
+[2026-01-29 20:53:18 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+LOLLL
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+LOLLL
+
+- 🇺🇸 EN → 🇯🇵 JP
+笑
+
+- 🇺🇸 EN → 🇷🇺 RU
+LOLLL
+
+
+======================================================================
+[2026-01-29 20:46:54 UTC]
+Author: tols89 (231200003073376256)
+Original:
+They should make it easier to join a faction as well, the rep grind for a faction is a bit pointless or mundane to do
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+진영에 가입하는 것도 더 쉬워야 합니다. 진영에 대한 대표 연마는 다소 무의미하거나 평범합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+派閥に入るのももっと簡単にすべきだ。派閥のためのリップ・グリンドは少し無意味というか、やることが平凡だ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Им также следует упростить вступление во фракцию, так как гриндинг репы для фракции немного бессмысленный и рутинный.
+
+
+======================================================================
+[2026-01-29 20:46:13 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Yeah tension does make it hard for anyone not a Zerg to get a battle in
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+긴장감 때문에 저그가 아닌 사람은 전투에 참여하기 어렵습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+そうだね、緊張感があると、ザーグでない人は戦闘に参加しづらくなるね。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да, напряженность мешает всем, кто не является зергом, участвовать в сражениях.
+
+
+======================================================================
+[2026-01-29 20:45:37 UTC]
+Author: dugprime (176848053410463745)
+Original:
+Like, some people have never seen a port battle and would like to but can't even access that part of the game because they don't have 50 friends to help them kill patrols
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+예를 들어, 어떤 사람들은 항구 전투를 본 적이 없고 하고 싶지만 순찰대를 처치하는 데 도움을 줄 친구가 50명이 없어서 그 부분에 액세스조차 할 수 없습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+港での戦闘を見たことがなく、やってみたいと思っても、パトロールを退治するのを手伝ってくれる友達が50人もいないため、ゲームのその部分にアクセスすることさえできない人もいるようなものだ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Например, некоторые люди никогда не видели портовых сражений и хотели бы их увидеть, но не могут даже получить доступ к этой части игры, потому что у них нет 50 друзей, которые помогут им убивать патрули.
+
+
+======================================================================
+[2026-01-29 20:45:15 UTC]
+Author: tols89 (231200003073376256)
+Original:
+This is true
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+사실입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+これは事実だ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Это правда
+
+
+======================================================================
+[2026-01-29 20:44:47 UTC]
+Author: tols89 (231200003073376256)
+Original:
+There should be a downside to having multiple ports
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+포트가 여러 개 있으면 단점이 있을 수 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+複数のポートを持つことにはデメリットがあるはずだ
+
+- 🇺🇸 EN → 🇷🇺 RU
+У наличия нескольких портов должна быть обратная сторона
+
+
+======================================================================
+[2026-01-29 20:44:42 UTC]
+Author: dugprime (176848053410463745)
+Original:
+It encourages zerging, spain was built on zerging and having weird windows.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+저징을 장려하고, 스페인은 저징과 이상한 창을 기반으로 만들어졌습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+スペインは "ザーギング "と "変な窓 "で成り立っている。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Это поощряет зёрна, Испания была построена на зёрнах и странных окнах.
+
+
+======================================================================
+[2026-01-29 20:44:40 UTC]
+Author: tols89 (231200003073376256)
+Original:
+But if you own a port, all your ports maybe should have the same window and you can’t put that protection in
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그러나 포트를 소유한 경우 모든 포트에 동일한 창을 가져야 할 수 있으며 해당 보호 기능을 넣을 수 없습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+しかし、もしあなたがポートを所有しているのであれば、すべてのポートが同じウィンドウを持つべきであり、そのようなプロテクションを入れることはできない。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Но если вы владеете портом, все ваши порты, возможно, должны иметь одинаковое окно, и вы не можете установить эту защиту.
+
+
+======================================================================
+[2026-01-29 20:44:13 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Tension isn’t a bad mechanic
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+긴장은 나쁜 메커니즘이 아닙니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+緊張は悪いメカニズムではない
+
+- 🇺🇸 EN → 🇷🇺 RU
+Напряжение - неплохая механика
+
+
+======================================================================
+[2026-01-29 20:43:45 UTC]
+Author: dugprime (176848053410463745)
+Original:
+I mean I think the game wants the community to balance that - it is difficult to have SO many defense windows - but I agree, I think they should do away with tensioning altogether and have a 24 hour readiness window for all ports.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+너무 많은 방어 창을 두는 것은 어렵기 때문에 커뮤니티가 균형을 맞추기를 원한다고 생각하지만, 저는 긴장감을 완전히 없애고 모든 포트에 24시간 준비 창을 두는 것이 좋다고 생각합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+しかし、私は、緊張を完全に排除し、すべてのポートに24時間の準備ウィンドウを設けるべきだと思う。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я имею в виду, что игра хочет, чтобы сообщество сбалансировало это - трудно иметь столько окон защиты - но я согласен, я думаю, что они должны отказаться от натяжения вообще и иметь 24-часовое окно готовности для всех портов.
+
+
+======================================================================
+[2026-01-29 20:25:45 UTC]
+Author: tols89 (231200003073376256)
+Original:
+They still need to rework the port battle system, it should be way harder for any guild that already owns a port to keep taking ports
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+항구 전투 시스템을 재 작업해야하며 이미 항구를 소유 한 길드가 항구를 계속 점령하기가 훨씬 더 어려워 야합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+すでに港を所有しているギルドが港を取り続けるのはもっと難しいはずだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Им все еще нужно переделать систему сражений в портах, чтобы любой гильдии, которая уже владеет портом, было гораздо сложнее продолжать захватывать порты.
+
+
+======================================================================
+[2026-01-29 20:25:05 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Yeah looks like some came in late as well
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+네, 몇 명은 늦게 들어온 것 같네요
+
+- 🇺🇸 EN → 🇯🇵 JP
+そうだね、何人かは遅刻してきたようだ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да, похоже, что некоторые пришли с опозданием.
+
+
+======================================================================
+[2026-01-29 20:19:33 UTC]
+Author: mikedz (173327548980264960)
+Original:
+realistically speaking, there are days you cant plan for like this, and things happen. but you can't be upset with your own guys and blaming them in world chat, not taking ownership of it, and just being super ungraceful. im actually surprised they managed to field 16, although looking at the leaderboard... looks like a 10v20 lololol
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+현실적으로 말하자면, 이런 계획에 없던 일들이 일어나고, 이런 일들이 일어날 수 있습니다. 하지만 자신의 팀원들에게 화를 내고 월드 채팅에서 그들을 비난하고 주인의식을 갖지 않고 매우 우아하지 않을 수 없습니다. 순위표를 보면 10 대 20처럼 보이지만 실제로 16 명을 출전시킨 것에 놀랐습니다 ㅋㅋ.
+
+- 🇺🇸 EN → 🇯🇵 JP
+現実的に言えば、このように計画できない日もあるし、いろいろなことが起こる。しかし、自分の仲間に腹を立てたり、ワールドチャットで非難したり、主体性を持たず、ただ超不潔にすることはできない。リーダーボードを見ると...10対20のように見えるが、実際には16人を出場させることができたことに驚いている(笑)
+
+- 🇺🇸 EN → 🇷🇺 RU
+Реально говоря, бывают дни, которые невозможно спланировать, и все случается. но нельзя обижаться на своих же ребят и обвинять их в мировом чате, не брать на себя ответственность за случившееся и просто вести себя некрасиво. я вообще удивлен, что они смогли выставить 16 человек, хотя если посмотреть на таблицу лидеров... похоже на 10v20 lolololol.
+
+
+======================================================================
+[2026-01-29 20:17:08 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Yeah 100%, still their screw up if they set a timer they couldn’t defend
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+네, 100 %, 여전히 그들이 방어 할 수없는 타이머를 설정하면 여전히 망칩니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ああ、100％だ。それでも、タイマーをセットして守れなかったのなら、彼らのヘマだ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да, 100%, все равно они облажались, если установили таймер, который не смогли защитить.
+
+
+======================================================================
+[2026-01-29 20:16:47 UTC]
+Author: mikedz (173327548980264960)
+Original:
+yes, yuut is just blaming his guys about it
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+네, 유트는 부하들을 탓하고 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+そうだ、ユウトはこの件について部下を非難しているだけだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Да, Юут просто обвиняет своих парней в этом.
+
+
+======================================================================
+[2026-01-29 20:16:30 UTC]
+Author: tols89 (231200003073376256)
+Original:
+I mean, they set the port defend window no?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+포트 방어 창을 '아니오'로 설정했나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+つまり、彼らは港の防御ウィンドウを設定したんだよね？
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я имею в виду, что они устанавливают окно защиты порта?
+
+
+======================================================================
+[2026-01-29 20:12:36 UTC]
+Author: mikedz (173327548980264960)
+Original:
+yuut is... what a bad look, man.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+윷놀이는... 정말 안 좋은 표정입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+なんて格好悪いんだ。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Ют... какой плохой вид, чувак.
+
+
+======================================================================
+[2026-01-29 20:10:48 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+Got someone at wo to send me this
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+회사에서 이걸 보내달라는 사람이 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+Woの誰かにこれを送ってもらった。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Кто-то из сотрудников Уо прислал мне это.
+
+
+======================================================================
+[2026-01-29 15:04:29 UTC]
+Author: tols89 (231200003073376256)
+Original:
+<@222262457379323906> <@176848053410463745>  Whoever's in charge of it, can you assist in moving roles from CFS to PvP?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@222262457379323906> <@176848053410463745> 담당자가 누구든 CFS에서 PvP로 역할을 옮기는 데 도움을 주실 수 있나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@222262457379323906> <@176848053410463745> 責任者が誰であれ、CFSからPvPへの役割の移動に協力してくれますか？
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@222262457379323906> <@176848053410463745> Кто бы ни был ответственным за это, можете ли вы помочь в переносе ролей из CFS в PvP?
+
+
+======================================================================
+[2026-01-29 08:25:49 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Thank you everyone who helped achieve our ABSOLUTE DECIMATING smash victory in the amber event!  Lots of traders and russians very angry at us!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+앰버 이벤트에서 절대적인 스매시 승리를 달성할 수 있도록 도와주신 모든 분들께 감사드립니다!  많은 트레이더와 러시아인들이 우리에게 매우 화를 냈습니다!
+
+- 🇺🇸 EN → 🇯🇵 JP
+琥珀のイベントにおいて、私たちの絶対的な破壊的大勝利を達成するために協力してくれた皆さん、ありがとうございました！  多くのトレーダーとロシア人が私たちに怒っていた！
+
+- 🇺🇸 EN → 🇷🇺 RU
+Спасибо всем, кто помог нам одержать АБСОЛЮТНО ДЕЦИМАТИВНУЮ победу в янтарном событии!  Многие трейдеры и россияне очень злы на нас!
+
+
+======================================================================
+[2026-01-28 16:45:44 UTC]
+Author: ayphis (134675238213386241)
+Original:
+the day I'm not farming imperials
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+제국 농사를 짓지 않는 날에는
+
+- 🇺🇸 EN → 🇯🇵 JP
+私が帝国農業をやらない日
+
+- 🇺🇸 EN → 🇷🇺 RU
+в тот день, когда я не буду выращивать имперцев.
+
+
+======================================================================
+[2026-01-28 16:33:48 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+AAT and allies
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+AAT 및 동맹국
+
+- 🇺🇸 EN → 🇯🇵 JP
+AATと同盟国
+
+- 🇺🇸 EN → 🇷🇺 RU
+AAT и союзники
+
+
+======================================================================
+[2026-01-28 16:33:40 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+8 of them
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그 중 8개
+
+- 🇺🇸 EN → 🇯🇵 JP
+うち8人
+
+- 🇺🇸 EN → 🇷🇺 RU
+8 из них
+
+
+======================================================================
+[2026-01-28 16:33:39 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+<@447238298319192065> east lighthouse of sharhat
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@447238298319192065> 샤하트 동쪽 등대
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@447238298319192065> シャラハット東灯台
+
+- 🇺🇸 EN → 🇷🇺 RU
+<@447238298319192065> Восточный маяк Шархата
+
+
+======================================================================
+[2026-01-28 09:01:01 UTC]
+Author: bestkeptsecret (344718519927177226)
+Original:
+I think <@115687499241750531> is bragging about growing his moustache out. He is so proud of it.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@115687499241750531>이 콧수염을 기른 것을 자랑하고 있는 것 같아요. 정말 자랑스러워하네요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@115687499241750531>は口ひげを伸ばしたことを自慢しているのだと思う。彼はそれをとても誇りに思っている。
+
+- 🇺🇸 EN → 🇷🇺 RU
+Я думаю, <@115687499241750531> хвастается тем, что отрастил усы. Он так этим гордится.
+
+
+======================================================================
+[2026-01-28 07:53:59 UTC]
+Author: blacktemplarsraptors (221171407080521729)
+Original:
+context please
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+컨텍스트 제발
+
+- 🇺🇸 EN → 🇯🇵 JP
+脈絡をお願いします
+
+- 🇺🇸 EN → 🇷🇺 RU
+контекст, пожалуйста
+
+
+======================================================================
+[2026-01-27 19:56:38 UTC]
+Author: mikedz (173327548980264960)
+Original:
+niceee!!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+멋지다!!
+
+- 🇺🇸 EN → 🇯🇵 JP
+いいねー！
+
+- 🇺🇸 EN → 🇷🇺 RU
+здорово!!!
+
+
+======================================================================
+[2026-01-27 17:33:25 UTC]
+Author: l3g1t (115687499241750531)
+Original:
+russian! yay!!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+러시아어! 예이!!
+
+- 🇺🇸 EN → 🇯🇵 JP
+ロシア語！イェーイ
+
+- 🇺🇸 EN → 🇷🇺 RU
+Русский! Ура!!!
+
+
+======================================================================
+[2026-01-27 08:58:26 UTC]
+Author: delsrun (198616878011252736)
+Original:
+Test
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+테스트
+
+- 🇺🇸 EN → 🇯🇵 JP
+テスト
+
+- 🇺🇸 EN → 🇷🇺 RU
+Тест
+
+
+======================================================================
+[2026-01-27 08:56:46 UTC]
+Author: delsrun (198616878011252736)
+Original:
+Test
+
+Translations:
+- 🇺🇸 EN → 🇷🇺 RU
+Тест
+
+
+======================================================================
+[2026-01-27 08:55:13 UTC]
+Author: delsrun (198616878011252736)
+Original:
+Test test
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+테스트 테스트
+
+- 🇺🇸 EN → 🇯🇵 JP
+テストテスト
+
+
+======================================================================
+[2026-01-27 08:53:44 UTC]
+Author: delsrun (198616878011252736)
+Original:
+Test test
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+테스트 테스트
+
+- 🇺🇸 EN → 🇯🇵 JP
+テストテスト
+
+
+======================================================================
+[2026-01-26 15:12:07 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+Arenas are some of the best ways to practice and earn battlemarks/pirate tokens. 
+
+We now have some of the best arena players in the game who are happy to teach builds and strategy. 
+
+If you felt you could have done better in the port battle, come play some arenas with us in the afternoons. We can queue together in mass battle, give tips, and help get your dailies done.  
+
+Next season, i want to get to 8000+ rating
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+투기장은 배틀마크/해적 토큰을 연습하고 획득할 수 있는 가장 좋은 방법 중 하나입니다.
+
+이제 게임 내 최고의 아레나 플레이어들이 빌드와 전략을 기꺼이 가르쳐줄 것입니다.
+
+항구 전투에서 더 잘할 수 있었다면 오후에 저희와 함께 아레나를 플레이해 보세요. 대규모 전투에서 함께 줄을 서고, 팁을 주고, 여러분의 일상을 도와드릴 수 있습니다.  
+
+다음 시즌에는 평점 8000점 이상을 달성하고 싶습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+アリーナは練習やバトルマーク／海賊トークンを獲得するための最良の方法だ。
+
+現在、ゲーム内で最高のアリーナプレイヤーがビルドや戦略を教えてくれます。
+
+ポートバトルでもっとうまくやれたと感じたなら、午後に一緒にアリーナをプレイしよう。マスバトルで一緒にキューに入ったり、ヒントをあげたり、デイリーを終わらせるのを手伝ったりできるよ。  
+
+来シーズンはレーティング8000以上を目指したい。
+
+
+======================================================================
+[2026-01-25 22:39:20 UTC]
+Author: caudex444 (260996394318299138)
+Original:
+Yarr wqe taking everston tonight?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤 에버스턴에 갈 건가요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+ヤー、今夜はエバートンを連れて行くのか？
+
+
+======================================================================
+[2026-01-25 13:43:55 UTC]
+Author: 42moistgrandmas (236361641191538688)
+Original:
+anyone messed around with the adventure? some weird euros are claiming it's one of the best open water ships
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+모험을 해본 사람? 어떤 이상한 유로들은 이것이 최고의 오픈 워터 배 중 하나라고 주장합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+誰かアドベンチャーをいじった人はいるかい？変なユーロ人が、あれは最高のオープンウォーター船のひとつだと言っているんだ
+
+
+======================================================================
+[2026-01-25 07:11:19 UTC]
+Author: property_of_the_feds (744428474399326280)
+Original:
+which cannons are the absolute best in the game
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+게임에서 어떤 대포가 가장 좋은지 알아보세요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+どの大砲が絶対的に優れているか
+
+
+======================================================================
+[2026-01-24 03:24:46 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+https://tenor.com/view/bert-kreischer-i-am-the-machine-im-the-man-gif-16355416
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/bert-kreischer-i-am-the-machine-im-the-man-gif-16355416
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/bert-kreischer-i-am-the-machine-im-the-man-gif-16355416
+
+
+======================================================================
+[2026-01-24 03:24:39 UTC]
+Author: jackalgrim (222262457379323906)
+Original:
+Vivi is a machine
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+Vivi는 기계입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ヴィヴィはマシン
+
+
+======================================================================
+[2026-01-24 03:12:00 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+much better idea ViVi lol
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+훨씬 더 좋은 아이디어 ViVi ㅋㅋ
+
+- 🇺🇸 EN → 🇯🇵 JP
+ViViの方がずっといいアイデアだ(笑)
+
+
+======================================================================
+[2026-01-24 03:09:01 UTC]
+Author: __m1rage_ (334610907638267904)
+Original:
+<@213754835260932107> I'll send you a private message, and then you can show it in your discord
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@213754835260932107> 비공개 메시지를 보내드릴 테니, 디스코드에서 보여주세요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@213754835260932107> プライベート・メッセージを送るから、ディスコードで見せてくれ。
+
+
+======================================================================
+[2026-01-24 03:03:49 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+in the meantime if you wouldn't mind posting the build that you used ViVi ?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그동안 ViVi를 사용하신 빌드를 게시해 주시면 안 될까요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+もしよろしければ、ViViを使ったビルドを載せていただけませんか？
+
+
+======================================================================
+[2026-01-24 02:57:18 UTC]
+Author: delsrun (198616878011252736)
+Original:
+Lol, good work everyone. I hope everyone had fun.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+모두 수고하셨습니다. 모두 즐거웠기를 바랍니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+笑）みんなお疲れ様。みんな楽しんでくれたかな？
+
+
+======================================================================
+[2026-01-24 02:57:11 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+tell them to kick rocks
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+돌을 차라고 하세요
+
+- 🇺🇸 EN → 🇯🇵 JP
+石を蹴るように言う
+
+
+======================================================================
+[2026-01-24 02:56:47 UTC]
+Author: __m1rage_ (334610907638267904)
+Original:
+I won't confess to them😀
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+고백하지 않을게요😀
+
+- 🇺🇸 EN → 🇯🇵 JP
+告白はしない😀。
+
+
+======================================================================
+[2026-01-24 02:56:13 UTC]
+Author: __m1rage_ (334610907638267904)
+Original:
+DVS  demanding  I have to tell them what consumables and upgrades I used😀
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+어떤 소모품과 업그레이드를 사용했는지 알려달라고 요구하는 DVS😀
+
+- 🇺🇸 EN → 🇯🇵 JP
+DVSが要求してきたのは、消耗品とアップグレードの種類だった😀。
+
+
+======================================================================
+[2026-01-24 02:31:50 UTC]
+Author: chief_mcqueef (150038027241127937)
+Original:
+Damn vivi CARRIED
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+댐 비비 캐리
+
+- 🇺🇸 EN → 🇯🇵 JP
+クソヴィヴィ CARRIED
+
+
+======================================================================
+[2026-01-24 02:31:14 UTC]
+Author: primarch.rogal.dorn (1098491634951393391)
+Original:
+Vivi Chan no.1 in my heart!❤️
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+내 마음 속 비비짱 1위!❤️
+
+- 🇺🇸 EN → 🇯🇵 JP
+私の心の中のヴィヴィちゃんNo.1！❤️
+
+
+======================================================================
+[2026-01-23 07:05:47 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+game my buddy's been working on
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+내 친구가 작업 중인 게임
+
+- 🇺🇸 EN → 🇯🇵 JP
+仲間が取り組んでいるゲーム
+
+
+======================================================================
+[2026-01-23 07:05:38 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+https://cyclesofaylorea.com/
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://cyclesofaylorea.com/
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://cyclesofaylorea.com/
+
+
+======================================================================
+[2026-01-23 02:30:04 UTC]
+Author: tols89 (231200003073376256)
+Original:
+They had a nice lead with tickets and plenty of time, came back they were down bad
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그들은 티켓과 충분한 시간으로 좋은 선두를 달렸고, 돌아와서 나쁘게 떨어졌습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+彼らはチケットと十分な時間でリードしていた。
+
+
+======================================================================
+[2026-01-23 02:29:49 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Looks like Spain threw
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+스페인은
+
+- 🇺🇸 EN → 🇯🇵 JP
+スペインが投げたようだ
+
+
+======================================================================
+[2026-01-23 01:48:25 UTC]
+Author: trdtyuki (1022300007136776252)
+Original:
+https://www.twitch.tv/malthuras
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://www.twitch.tv/malthuras
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://www.twitch.tv/malthuras
+
+
+======================================================================
+[2026-01-22 13:16:51 UTC]
+Author: tols89 (231200003073376256)
+Original:
+I agree, all four idiots we hate the most on one team 🤣🤣🤣
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+우리가 가장 싫어하는 멍청이 4명이 한 팀에 있네요 🤣🤣🤣 동의합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+そうだね、僕らが一番嫌いな4人のバカが1つのチームにいるんだから🤣🤣🤣。
+
+
+======================================================================
+[2026-01-22 05:21:12 UTC]
+Author: trdtyuki (1022300007136776252)
+Original:
+every idiot we hate the most in one team
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+한 팀에서 가장 싫어하는 모든 멍청이들
+
+- 🇺🇸 EN → 🇯🇵 JP
+私たちが最も嫌いなすべてのバカが1つのチームに
+
+
+======================================================================
+[2026-01-22 05:21:08 UTC]
+Author: trdtyuki (1022300007136776252)
+Original:
+holy fuck LMFAO
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+빌어먹을 LMFAO
+
+- 🇺🇸 EN → 🇯🇵 JP
+ホーリーファックLMFAO
+
+
+======================================================================
+[2026-01-22 05:20:09 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+bruh this arena team...
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+브루 이 아레나 팀...
+
+- 🇺🇸 EN → 🇯🇵 JP
+このアリーナチームは...
+
+
+======================================================================
+[2026-01-22 01:40:38 UTC]
+Author: tols89 (231200003073376256)
+Original:
+But the real question is, where will you be?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+하지만 진짜 질문은 어디로 가실 건가요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+しかし、本当の問題は、どこに行くのか、ということだ。
+
+
+======================================================================
+[2026-01-22 01:40:18 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Off work at 10 then I’ll be on
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+10시에 퇴근한 다음에는
+
+- 🇺🇸 EN → 🇯🇵 JP
+10時に仕事を終えて、それから行くよ。
+
+
+======================================================================
+[2026-01-22 01:10:05 UTC]
+Author: rambo5117 (213754835260932107)
+Original:
+where's everyone at tonight?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤 다들 어디 있죠?
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜はみんなどこにいるんだ？
+
+
+======================================================================
+[2026-01-21 09:40:06 UTC]
+Author: primarch.rogal.dorn (1098491634951393391)
+Original:
+lol red arrow ram ftw
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+ㅋㅋ 빨간 화살표 램 FTW
+
+- 🇺🇸 EN → 🇯🇵 JP
+笑
+
+
+======================================================================
+[2026-01-20 05:33:15 UTC]
+Author: bestkeptsecret (344718519927177226)
+Original:
+https://www.twitch.tv/oneacejoe/clip/MagnificentBlazingPelicanCmonBruh--4cB1a5nI8y1jB0_ 
+
+<@397730684535439361> <@213754835260932107>
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://www.twitch.tv/oneacejoe/clip/MagnificentBlazingPelicanCmonBruh--4cB1a5nI8y1jB0_
+
+<@397730684535439361> <@213754835260932107>
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://www.twitch.tv/oneacejoe/clip/MagnificentBlazingPelicanCmonBruh--4cB1a5nI8y1jB0_
+
+<@397730684535439361> <@213754835260932107>
+
+
+======================================================================
+[2026-01-20 04:50:06 UTC]
+Author: primarch.rogal.dorn (1098491634951393391)
+Original:
+Great job everyone tonight was juicey pvp
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+오늘 밤 모두 수고 많으셨습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+今夜はジューシーなPvPだった。
+
+
+======================================================================
+[2026-01-20 04:06:51 UTC]
+Author: dugprime (176848053410463745)
+Original:
+Upset yip folk
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+업셋 이프 포크
+
+- 🇺🇸 EN → 🇯🇵 JP
+動揺するイップ族
+
+
+======================================================================
+[2026-01-20 04:06:33 UTC]
+Author: dugprime (176848053410463745)
+Original:
+FYI dvs and Kai did not pay us shit to go fuck with San martinas a couple people messaged me and I was just trolling general chat lol
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+참고로 dvs와 카이는 산 마르티나를 엿 먹으러 가라고 돈을 준 게 아니라 몇 명이 저에게 메시지를 보냈고 저는 그냥 일반 채팅을 트롤링하고 있었어요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+参考までに、dvsとカイはサンマルチーナとやるために俺たちに金を払ったわけじゃない。
+
+
+======================================================================
+[2026-01-19 21:25:26 UTC]
+Author: josephares (79736186242863104)
+Original:
+Please give me warning of who I should be nice to so I don’t make a war almost like last time lmfao 
+
+Gonna go be a shit disturber
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+지난번처럼 전쟁을 일으키지 않도록 누구에게 잘 대해야 하는지 알려주세요.
+
+가서 똥 방해꾼이 될거야.
+
+- 🇺🇸 EN → 🇯🇵 JP
+前回のような戦争にならないよう、誰に親切にすべきかを警告してほしい。
+
+クソ野郎になる
+
+
+======================================================================
+[2026-01-19 21:24:27 UTC]
+Author: trdtyuki (1022300007136776252)
+Original:
+WO are going for charlestown, looks like the spain vs kai battle is really picking up heat
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+WO가 찰스타운으로 향하고, 스페인 대 카이 전투가 정말 뜨거워지고 있는 것 같습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+WOはチャールスタウンを目指す。スペイン対カイの戦いは本当に熱を帯びてきているようだ。
+
+
+======================================================================
+[2026-01-19 15:18:42 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Dumb question, a firestorm with Jericho’s shooting the front/side of a hurracan. Would Saxon be better to use then heavy?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+멍청한 질문, 제리코가 후라칸의 앞/옆을 쏘는 불폭풍이 있습니다. 헤비보다 색슨을 사용하는 것이 더 나을까요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+馬鹿な質問ですが、ジェリコのファイアーストームがフラカンの前面/側面を撃ちます。ヘビーよりサクソンの方がいいのでしょうか？
+
+
+======================================================================
+[2026-01-18 20:47:16 UTC]
+Author: .voarex (725508970151936052)
+Original:
+LIQ will be setting up a buy order in Tortuga at 399 per Amber so you know that it's us.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+LIQ가 토르투가에서 앰버당 399원에 매수 주문을 설정할 것이므로 저희라는 것을 아실 수 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+LIQがトルトゥーガの買い注文をアンバーあたり399で出すので、私たちだとわかってほしい。
+
+
+======================================================================
+[2026-01-18 19:56:45 UTC]
+Author: .voarex (725508970151936052)
+Original:
+Hello everyone, today is Amber event.  LIQ is willing to buy out Amber at max price obviously, but we could really use the help in taking an Arabian port for Vizier. Anything will help! Just message me or <@222262457379323906> if they are online and we can workout something for it! 
+
+Thank you ❤️
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+안녕하세요, 오늘은 앰버 이벤트입니다.  LIQ는 당연히 앰버를 최고가에 매입할 의향이 있지만, 비지에를 위해 아라비아 항구를 점령하는 데 도움이 절실합니다. 무엇이든 도움이 될 것입니다! 온라인 상태라면 저나 <@222262457379323906>로 메시지를 보내주시면 해결책을 찾아보겠습니다!
+
+감사합니다 ❤️
+
+- 🇺🇸 EN → 🇯🇵 JP
+皆さんこんにちは。  LIQは琥珀を最高値で買い取るつもりですが、宰相のためにアラビアの港を取るのに本当に助けが必要です。何でも構いません！もし彼らがオンラインであれば、私か<@222262457379323906>にメッセージをください！
+
+ありがとう ❤️
+
+
+======================================================================
+[2026-01-17 01:57:05 UTC]
+Author: herorages (516827080676081674)
+Original:
+we are helping spain
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+우리는 스페인을 돕고 있습니다
+
+- 🇺🇸 EN → 🇯🇵 JP
+私たちはスペインを支援しています
+
+
+======================================================================
+[2026-01-17 01:56:55 UTC]
+Author: herorages (516827080676081674)
+Original:
+kai pvp at gelbion
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+젤비온의 카이 PVP
+
+- 🇺🇸 EN → 🇯🇵 JP
+ゲルビオンでカイPvP
+
+
+======================================================================
+[2026-01-16 03:13:40 UTC]
+Author: macfearless (307621827319169026)
+Original:
+WO fleet at Tortuga looking to farm - about 15 or so of them
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+토르투가에서 농사를 지으려는 WO 함대 - 약 15척 정도
+
+- 🇺🇸 EN → 🇯🇵 JP
+トルトゥーガのWO船団、15隻ほどが農場を探している
+
+
+======================================================================
+[2026-01-15 00:52:37 UTC]
+Author: macfearless (307621827319169026)
+Original:
+Congratulations on another successful port victory!  Thanks to everyone who came!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+또 한 번의 성공적인 포트 승리를 축하합니다!  와주신 모든 분들께 감사드립니다!
+
+- 🇺🇸 EN → 🇯🇵 JP
+今年も港湾での勝利、おめでとう！  来てくれたみんな、ありがとう！
+
+
+======================================================================
+[2026-01-14 21:46:32 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Omg 40% battlemarks to make phosphorus? I'm in heaven
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+인을 만들기 위해 40%의 배틀마크를 사용한다고요? 천국에 왔어
+
+- 🇺🇸 EN → 🇯🇵 JP
+40％のバトルマークでリンを作る？私は天国にいる
+
+
+======================================================================
+[2026-01-14 03:24:21 UTC]
+Author: focopang (329597905063247873)
+Original:
+와우 엄청나게 몰려왔네요
+
+Translations:
+- 🇰🇷 KO → 🇺🇸 EN
+Wow, that's a lot of people
+
+- 🇰🇷 KO → 🇯🇵 JP
+うわー、すごい人が集まってきましたね
+
+
+======================================================================
+[2026-01-14 03:15:14 UTC]
+Author: macfearless (307621827319169026)
+Original:
+Get into Tortuga - full assault, nee more pirates!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+토르투가에 들어가세요 - 해적은 더 이상 필요 없습니다!
+
+- 🇺🇸 EN → 🇯🇵 JP
+トルトゥーガに乗り込む！
+
+
+======================================================================
+[2026-01-14 02:29:47 UTC]
+Author: tols89 (231200003073376256)
+Original:
+“Swallows all” 👀
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+"모두 삼키다" 👀
+
+- 🇺🇸 EN → 🇯🇵 JP
+「スワローズ・オール
+
+
+======================================================================
+[2026-01-14 01:02:30 UTC]
+Author: .voarex (725508970151936052)
+Original:
+PEAK
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+PEAK
+
+- 🇺🇸 EN → 🇯🇵 JP
+ピーク
+
+
+======================================================================
+[2026-01-13 23:35:54 UTC]
+Author: macfearless (307621827319169026)
+Original:
+love that shit
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그 똥을 사랑해
+
+- 🇺🇸 EN → 🇯🇵 JP
+大好き
+
+
+======================================================================
+[2026-01-13 23:35:53 UTC]
+Author: macfearless (307621827319169026)
+Original:
+lmfao, carebear
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+LMFAO, 케어베어
+
+- 🇺🇸 EN → 🇯🇵 JP
+ケアベア
+
+
+======================================================================
+[2026-01-13 23:16:03 UTC]
+Author: primarch.rogal.dorn (1098491634951393391)
+Original:
+Yea gimme a bit and I will
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+네, 조금만 기다려주세요.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ああ、少し待ってくれ。
+
+
+======================================================================
+[2026-01-13 22:16:23 UTC]
+Author: .voarex (725508970151936052)
+Original:
+<@1098491634951393391> can you do an AI poster for Liquidators Trade Guild? Carebear AI poster! XD
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+<@1098491634951393391> 청산인 무역 길드의 AI 포스터를 제작할 수 있나요? 케어베어 AI 포스터! XD
+
+- 🇺🇸 EN → 🇯🇵 JP
+<@1098491634951393391>リクイデーターズ・トレード・ギルドのAIポスターをお願いできますか？ケアベアのAIポスター！XD
+
+
+======================================================================
+[2026-01-13 21:15:28 UTC]
+Author: macfearless (307621827319169026)
+Original:
+Profile pic updated, Queen of Tortuga checking in
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+프로필 사진 업데이트, 토르투가의 여왕 체크인
+
+- 🇺🇸 EN → 🇯🇵 JP
+プロフィール写真更新、トルトゥーガの女王がチェックイン
+
+
+======================================================================
+[2026-01-13 20:48:40 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Taurok the bold next
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+다음 굵은 글씨로 표시
+
+- 🇺🇸 EN → 🇯🇵 JP
+次は大胆なタウロク
+
+
+======================================================================
+[2026-01-13 20:33:28 UTC]
+Author: macfearless (307621827319169026)
+Original:
+Almost got his abs correct
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+복근을 거의 다 맞췄어요
+
+- 🇺🇸 EN → 🇯🇵 JP
+腹筋はほぼ正解
+
+
+======================================================================
+[2026-01-13 20:33:13 UTC]
+Author: macfearless (307621827319169026)
+Original:
+Never mind, found it
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+괜찮아, 찾았어
+
+- 🇺🇸 EN → 🇯🇵 JP
+気にしないで、見つけた
+
+
+======================================================================
+[2026-01-13 14:59:16 UTC]
+Author: tols89 (231200003073376256)
+Original:
+you can buy crazy amounts of material for gold off the now
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+지금 금으로 엄청난 양의 재료를 구매할 수 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+今なら、金でとんでもない量の材料が買える。
+
+
+======================================================================
+[2026-01-13 14:56:48 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Dikd they update merchants at sea?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+해상에서 판매자를 업데이트하나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+海上の商人は更新されるのか？
+
+
+======================================================================
+[2026-01-13 07:15:51 UTC]
+Author: .voarex (725508970151936052)
+Original:
+I'm curious who it was now. Lol
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+이제 누구였는지 궁금하네요. Lol
+
+- 🇺🇸 EN → 🇯🇵 JP
+誰だったのか気になる。笑
+
+
+======================================================================
+[2026-01-13 07:03:41 UTC]
+Author: platina_muller (279670866135220225)
+Original:
+He's famous for being cool-headed.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그는 냉철하기로 유명합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+彼は冷静なことで有名だ。
+
+
+======================================================================
+[2026-01-13 06:54:19 UTC]
+Author: delsrun (198616878011252736)
+Original:
+Hm?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+응?
+
+- 🇺🇸 EN → 🇯🇵 JP
+ん？
+
+
+======================================================================
+[2026-01-13 06:53:14 UTC]
+Author: platina_muller (279670866135220225)
+Original:
+After all, the person I shot was someone who was so politically astute that they were vying for the top spot within SKT.<:kewldoge:832399996027928596>
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+결국 제가 촬영한 사람은 SKT 내에서 1위 자리를 놓고 경쟁할 정도로 정치적으로 영리한 사람이었습니다.<:kewldoge:832399996027928596>
+
+- 🇺🇸 EN → 🇯🇵 JP
+結局、私が撃ったのは、SKTの中でトップの座を争うほど政治的に鋭敏な人物だった<:kewldoge:832399996027928596>。
+
+
+======================================================================
+[2026-01-13 06:50:28 UTC]
+Author: delsrun (198616878011252736)
+Original:
+Indeed.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그렇습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+確かにそうだ。
+
+
+======================================================================
+[2026-01-13 06:46:55 UTC]
+Author: .voarex (725508970151936052)
+Original:
+It allowed me the time to explain to the new member that was neglected to be told what an NAP is and how that works. So we truly appreciate the kindness.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+덕분에 NAP가 무엇인지, 어떻게 운영되는지 잘 모르는 신입 회원에게 설명할 수 있는 시간을 가질 수 있었습니다. 친절함에 진심으로 감사드립니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+そのおかげで、NAPとは何か、その仕組みはどうなっているのか、説明を怠っていた新メンバーに説明する時間ができた。だから、その親切には本当に感謝している。
+
+
+======================================================================
+[2026-01-13 06:44:01 UTC]
+Author: delsrun (198616878011252736)
+Original:
+Regardless, the fact that SKT chose to deal with it with grace over gunfire shows that they are capable of staying cool under surprise circumstances such as those.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그럼에도 불구하고 SKT가 총격전 대신 침착하게 대처한 것은 이런 돌발 상황에서도 침착함을 유지할 수 있다는 것을 보여줍니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+ともあれ、SKTが銃撃戦よりも潔く対処することを選んだのは、あのような不意打ちの状況でも冷静でいられる能力があることを示している。
+
+
+======================================================================
+[2026-01-13 06:42:46 UTC]
+Author: .voarex (725508970151936052)
+Original:
+I think the best thing is for people who recruit new players to just really hound in who is NAP and just prepare for those situations ahead of time.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+가장 좋은 방법은 신규 플레이어를 모집하는 사람들이 NAP가 누구인지 제대로 파악하고 이러한 상황에 미리 대비하는 것이라고 생각합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+一番いいのは、新しい選手を採用する人が、誰がNAPなのかを徹底的に追及し、前もってそういう状況に備えておくことだと思う。
+
+
+======================================================================
+[2026-01-13 06:42:30 UTC]
+Author: dugprime (176848053410463745)
+Original:
+Its not your problem to handle when our members are bad. U just send them back to Port 😀
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+회원의 상태가 나쁠 때는 여러분이 처리할 문제가 아닙니다. 그냥 항구로 돌려보내면 됩니다 😀.
+
+- 🇺🇸 EN → 🇯🇵 JP
+我々のメンバーが悪さをしても、それを処理するのはあなた方の問題ではない。港に送り返すだけだ。
+
+
+======================================================================
+[2026-01-13 06:42:11 UTC]
+Author: delsrun (198616878011252736)
+Original:
+Lol, as long as it doesn't turn into a dumpster fire I'm for it.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+쓰레기통에 불이 나지만 않는다면 전 찬성입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+笑）ゴミ屋敷にならない限りは賛成だよ。
+
+
+======================================================================
+[2026-01-13 06:41:37 UTC]
+Author: .voarex (725508970151936052)
+Original:
+I think sinking them is appropriate. Conflict resolution is best, but sometimes you can't get to that mid-fight. We'd rather have us sunk than you.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+가라앉히는 것이 적절하다고 생각합니다. 갈등을 해결하는 것이 최선이지만 때로는 싸움 도중에 해결할 수 없을 때도 있죠. 차라리 우리가 침몰하는 게 낫죠.
+
+- 🇺🇸 EN → 🇯🇵 JP
+沈めるのが適切だと思う。紛争解決はベストだが、試合中に解決できないこともある。私たちはむしろ、あなたたちよりも私たちを沈めてほしい。
+
+
+======================================================================
+[2026-01-13 06:40:01 UTC]
+Author: dugprime (176848053410463745)
+Original:
+I say sink them if they shoot and let us tell them why they got dumpstered 😀
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+쏘면 가라앉히고 왜 버려졌는지 알려주자고 했어요 😀.
+
+- 🇺🇸 EN → 🇯🇵 JP
+撃ってきたら沈めて、なぜ捨てられたのかを教えてやろう。
+
+
+======================================================================
+[2026-01-13 06:39:13 UTC]
+Author: .voarex (725508970151936052)
+Original:
+Thanks for being so patient and understanding! We would never stir trouble intentionally. We value our allies and our place in helping.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+인내심을 갖고 이해해 주셔서 감사합니다! 저희는 결코 고의로 문제를 일으키지 않습니다. 저희는 동맹과 도움을 주는 우리의 위치를 소중히 여깁니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+辛抱強く、理解してくれてありがとう！私たちは決して故意にトラブルを起こしたりしません。私たちは同盟国や自分たちを助ける場所を大切にしています。
+
+
+======================================================================
+[2026-01-13 06:38:17 UTC]
+Author: delsrun (198616878011252736)
+Original:
+Exactly, these things happen. This was handled swiftly with cool heads. No need to let a newbie doing what they think is right cause divides or an overreaction. I'm glad that it was resolved without further issue.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+바로 이런 일이 일어납니다. 이 문제는 냉철한 머리로 신속하게 처리되었습니다. 옳다고 생각하는 일을 하는 초보자가 분열이나 과잉 반응을 일으킬 필요는 없습니다. 더 이상의 문제 없이 해결되어 다행입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+その通りだ。これは冷静に迅速に処理された。自分が正しいと思うことをやっている初心者に、分裂や過剰反応を起こさせる必要はない。これ以上問題を大きくすることなく解決してよかった。
+
+
+======================================================================
+[2026-01-13 06:32:47 UTC]
+Author: platina_muller (279670866135220225)
+Original:
+As factions grow larger, it's common for newcomers to stir up trouble by claiming "my friend was attacked, so I retaliated," leading to chaos. This happens in other games too. And the leadership ends up scratching their heads—it's practically a seasonal tradition now.
+This recent incident is a good example of how calm and wise individuals swiftly resolved the situation through discussion.😀
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+진영이 커지면 신규 가입자가 "친구가 공격당해서 보복했다"고 주장하며 문제를 일으켜 혼란을 야기하는 경우가 종종 있습니다. 다른 게임에서도 이런 일이 벌어집니다. 그리고 리더십은 결국 머리를 긁적입니다. 이제는 거의 시즌 전통이 되어 버렸습니다.
+이번 사건은 침착하고 현명한 사람들이 토론을 통해 상황을 신속하게 해결한 좋은 예입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+派閥が大きくなると、新参者が「友達が攻撃されたから報復した」とトラブルをあおり、混乱を招くのはよくあることだ。他のゲームでもよくあることだ。そして指導者たちは頭を悩ませることになる。
+今回の事件は、冷静で賢明な個人が話し合いによって迅速に事態を解決した良い例である😀。
+
+
+======================================================================
+[2026-01-12 17:50:59 UTC]
+Author: josephares (79736186242863104)
+Original:
+https://tenor.com/view/shrek-meme-funny-gif-15847690455777189602
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://tenor.com/view/shrek-meme-funny-gif-15847690455777189602
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://tenor.com/view/shrek-meme-funny-gif-15847690455777189602
+
+
+======================================================================
+[2026-01-12 16:43:35 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Lmao you guys really didn’t vassalize a port with a skeleton crew
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+해골 승무원으로 항구를 속국으로 만든 건 아니죠?
+
+- 🇺🇸 EN → 🇯🇵 JP
+笑 あなたたちは、本当にスケルトン・クルーで港を臣従させたわけではないのですね。
+
+
+======================================================================
+[2026-01-12 12:02:13 UTC]
+Author: ensomighty (282390615042293760)
+Original:
+infight
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+인피트
+
+- 🇺🇸 EN → 🇯🇵 JP
+インファイト
+
+
+======================================================================
+[2026-01-12 12:02:10 UTC]
+Author: ensomighty (282390615042293760)
+Original:
+Tortuga
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+토르투가
+
+- 🇺🇸 EN → 🇯🇵 JP
+トルトゥーガ
+
+
+======================================================================
+[2026-01-12 10:42:37 UTC]
+Author: menkiw. (359352327607549953)
+Original:
+라구나블랑코 6시 요새입니다.
+
+Translations:
+- 🇰🇷 KO → 🇺🇸 EN
+Fort Laguna Blanco at 6 o'clock.
+
+- 🇰🇷 KO → 🇯🇵 JP
+ラグナブランコ6時の要塞です。
+
+
+======================================================================
+[2026-01-12 10:41:55 UTC]
+Author: menkiw. (359352327607549953)
+Original:
+같이 요새 공격할 사람있나요?
+
+Translations:
+- 🇰🇷 KO → 🇺🇸 EN
+Anyone want to attack the fortress with me?
+
+- 🇰🇷 KO → 🇯🇵 JP
+一緒に要塞を攻める人いますか？
+
+
+======================================================================
+[2026-01-12 06:27:54 UTC]
+Author: focopang (329597905063247873)
+Original:
+해적의 왕
+
+Translations:
+- 🇰🇷 KO → 🇺🇸 EN
+King of the Pirates
+
+- 🇰🇷 KO → 🇯🇵 JP
+海賊王
+
+
+======================================================================
+[2026-01-12 06:27:20 UTC]
+Author: .voarex (725508970151936052)
+Original:
+https://cdn.discordapp.com/attachments/1447790257084043338/1460157271563698186/image.png?ex=6965e4ed&is=6964936d&hm=aecaf65a3cb8dabbf3ccf8fca301edfe1dacebd8fedee30e4588140e03026602&
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://cdn.discordapp.com/attachments/1447790257084043338/1460157271563698186/image.png?ex=6965e4ed&is=6964936d&hm=aecaf65a3cb8dabbf3ccf8fca301edfe1dacebd8fedee30e4588140e03026602&
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://cdn.discordapp.com/attachments/1447790257084043338/1460157271563698186/image.png?ex=6965e4ed&is=6964936d&hm=aecaf65a3cb8dabbf3ccf8fca301edfe1dacebd8fedee30e4588140e03026602&
+
+
+======================================================================
+[2026-01-12 06:27:15 UTC]
+Author: .voarex (725508970151936052)
+Original:
+GJ ERBODY!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+GJ ERBODY!
+
+- 🇺🇸 EN → 🇯🇵 JP
+GJ・エルボディ
+
+
+======================================================================
+[2026-01-12 04:49:49 UTC]
+Author: trdtyuki (1022300007136776252)
+Original:
+https://www.twitch.tv/preachentaco preacher is streaming if you guys want to watch the fight at nevis
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+https://www.twitch.tv/preachentaco 네비스에서 싸움을보고 싶다면 설교자가 스트리밍 중입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+https://www.twitch.tv/preachentaco ネビスの試合を見たければ、プリーチャーがストリーミング配信している。
+
+
+======================================================================
+[2026-01-12 01:51:09 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+this is really amazing to see friends
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+친구들을 만나니 정말 놀랍습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+友達を見るのは本当に素晴らしいことだ。
+
+
+======================================================================
+[2026-01-11 21:36:03 UTC]
+Author: macfearless (307621827319169026)
+Original:
+Also, my announcement was very much meant to be "PRV does not intend to defend" - but after all, you're fuckin pirates so go kill some bastards if you want - you know where they'll be!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+또한, 제 발표는 "PRV는 방어할 생각이 없다"는 뜻이었지만, 어쨌든 너희는 해적이니 가서 해적 놈들을 죽이고 싶으면 어디 있는지 알잖아!
+
+- 🇺🇸 EN → 🇯🇵 JP
+それに、僕の発表は "PRVは防衛するつもりはない "という意味合いが強かったんだ。でも結局のところ、君たちは海賊なんだから、殺したければ野郎どもを殺しに行けばいい！
+
+
+======================================================================
+[2026-01-11 21:14:46 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+i know i was just warning people.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+사람들에게 경고한 것뿐입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+みんなに警告しただけだよ。
+
+
+======================================================================
+[2026-01-11 21:14:24 UTC]
+Author: tols89 (231200003073376256)
+Original:
+Wherever we go, they will follow. At least now they’re attacking a beehave
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+우리가 가는 곳이면 어디든 따라갈 것입니다. 적어도 지금은 벌집을 공격하고 있습니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+私たちがどこへ行こうとも、彼らはついてくる。少なくとも今、彼らは蜂の巣を攻撃している
+
+
+======================================================================
+[2026-01-11 19:36:29 UTC]
+Author: khendonkalmire (254047782975963137)
+Original:
+tort is pretty unhealthy atm
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+불법 행위는 매우 건강에 해로운 ATM입니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+不法行為はかなり不健全だ
+
+
+======================================================================
+[2026-01-11 03:41:57 UTC]
+Author: beck19 (184685547418157056)
+Original:
+Okay, so this channel will translate for everyone regardless of language, but it will get cluttered heavily by bot translation so we should mainly use our language specific channels.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+이 채널은 언어에 관계없이 모든 사람을 위해 번역되지만 봇 번역으로 인해 복잡해지므로 언어별 채널을 주로 사용해야 합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+さて、このチャンネルは言語に関係なくすべての人のために翻訳しますが、ボット翻訳によって大きく乱雑になるので、主に言語固有のチャンネルを使うべきです。
+
+
+======================================================================
+[2026-01-11 03:38:36 UTC]
+Author: beck19 (184685547418157056)
+Original:
+What does this do?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+이 기능은 무엇을 하나요?
+
+- 🇺🇸 EN → 🇯🇵 JP
+これは何をするものなのか？
+

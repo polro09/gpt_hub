@@ -1,0 +1,61 @@
+
+======================================================================
+[2026-01-11 06:52:32 UTC]
+Author: menkiw. (359352327607549953)
+Original:
+우와
+
+Translations:
+- 🇰🇷 KO → 🇺🇸 EN
+Wow
+
+
+======================================================================
+[2026-01-11 03:35:36 UTC]
+Author: rokafcamsaecamsae (394123758513684481)
+Original:
+양방향 번역 되는듯
+
+Translations:
+- 🇰🇷 KO → 🇺🇸 EN
+As if translating in both directions
+
+
+======================================================================
+[2026-01-11 03:35:22 UTC]
+Author: focopang (329597905063247873)
+Original:
+영어로만 번역해주나봐요
+
+Translations:
+- 🇰🇷 KO → 🇺🇸 EN
+It only translates to English
+
+
+======================================================================
+[2026-01-11 03:29:58 UTC]
+Author: beck19 (184685547418157056)
+Original:
+Going to reverse this so JP/KR is translated in the EN channel
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+이를 반대로 하여 JP/KR이 EN 채널에서 번역되도록 합니다.
+
+- 🇺🇸 EN → 🇯🇵 JP
+JP/KRがENチャンネルで翻訳されるように、これを逆にするつもりだ
+
+
+======================================================================
+[2026-01-11 03:29:21 UTC]
+Author: beck19 (184685547418157056)
+Original:
+Test
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+테스트
+
+- 🇺🇸 EN → 🇯🇵 JP
+テスト
+
