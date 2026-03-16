@@ -443,3 +443,7 @@ class ResourceRequestCog(commands.Cog):
 
 async def setup(bot: commands.Bot):
     await bot.add_cog(ResourceRequestCog(bot))
+
+
+async def register_persistent_views(bot: commands.Bot):
+    bot.add_view(ResourceRequestView())

@@ -1,6 +1,6 @@
 import asyncio
 import logging
-from typing import Optional
+from typing import Optional, Any
 
 import discord
 
@@ -10,7 +10,7 @@ log = logging.getLogger("SDT-BOT.safeedit")
 class SafeMessageEditor:
     def __init__(self, delay: float = 2.0):
         self.delay = delay
-        self._pending: dict[int, dict] = {}
+        self._pending: dict[int, dict[str, Any]] = {}
         self._tasks: dict[int, asyncio.Task] = {}
         self._locks: dict[int, asyncio.Lock] = {}
 
@@ -31,7 +31,7 @@ class SafeMessageEditor:
         attachments=None,
         suppress: Optional[bool] = None,
         delete_after: Optional[float] = None,
-    ):
+    ) -> None:
         self._pending[message.id] = {
             "message": message,
             "content": content,
@@ -48,7 +48,7 @@ class SafeMessageEditor:
 
         self._tasks[message.id] = asyncio.create_task(self._flush_later(message.id))
 
-    async def _flush_later(self, message_id: int):
+    async def _flush_later(self, message_id: int) -> None:
         try:
             await asyncio.sleep(self.delay)
             data = self._pending.pop(message_id, None)

@@ -1,5 +1,247 @@
 
 ======================================================================
+[2026-03-12 06:39:22 UTC]
+Author: manbogi_ (707973507140812931)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+White Flag
+
+Original Cleaned:
+White Flag
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+흰색 깃발
+
+
+======================================================================
+[2026-03-12 06:27:11 UTC]
+Author: geomeongsaeg (179931718554353664)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+KaiRong ㄷㄷㄷㄷㄷ
+
+Original Cleaned:
+KaiRong ㄷㄷㄷㄷㄷ
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+카이롱 ㄷㄷㄷㄷㄷ
+
+
+======================================================================
+[2026-03-12 06:05:28 UTC]
+Author: tairong (164075614372888576)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+cyka
+
+Original Cleaned:
+cyka
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+cyka
+
+
+======================================================================
+[2026-03-12 06:01:40 UTC]
+Author: tairong (164075614372888576)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+그때 originale도 있었거든요 ?
+
+Original Cleaned:
+그때 originale도 있었거든요 ?
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+그때 오리지널도 있었거든요 ?
+
+
+======================================================================
+[2026-03-12 05:59:48 UTC]
+Author: tairong (164075614372888576)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+CB is famous as 쌀먹
+
+Original Cleaned:
+CB is famous as 쌀먹
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+CB는 쌀밥으로 유명합니다
+
+
+======================================================================
+[2026-03-12 05:55:27 UTC]
+Author: woong2705 (1015118311916314674)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+yougam
+
+Original Cleaned:
+yougam
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+유감
+
+
+======================================================================
+[2026-03-12 04:25:00 UTC]
+Author: woong2705 (1015118311916314674)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+@everyone 항구전 1명
+
+Original Cleaned:
+@everyone 항구전 1명
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+모두의 항구전 1명
+
+
+======================================================================
+[2026-03-12 04:23:12 UTC]
+Author: r_shasha (638927161675481118)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+<@782118134924050463> come
+
+Original Cleaned:
+come
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+come
+
+
+======================================================================
+[2026-03-12 04:21:09 UTC]
+Author: r_shasha (638927161675481118)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+@everyone 
+https://wosb-battle-planner.web.app/b/jrwGcJiDBxr9M5GzSdG0
+pb로스터 작성
+
+Original Cleaned:
+@everyone pb로스터 작성
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+모두가 PB로스터 작성
+
+
+======================================================================
+[2026-03-11 23:44:48 UTC]
+Author: ashxd_au (154835267939860480)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+Welcome grouchy
+
+Original Cleaned:
+Welcome grouchy
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+투덜이 환영
+
+
+======================================================================
+[2026-03-11 21:38:10 UTC]
+Author: r_shasha (638927161675481118)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+<@160837639916879872> wlecome
+
+Original Cleaned:
+wlecome
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+wlecome
+
+
+======================================================================
+[2026-03-11 13:27:44 UTC]
+Author: ashxd_au (154835267939860480)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+They will be my new #1 favourite to kill along with Mr Tockley
+
+Original Cleaned:
+They will be my new #1 favourite to kill along with Mr Tockley
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+토클리 씨와 함께 제가 가장 좋아하는 새로운 킬러가 될 것입니다.
+
+
+======================================================================
+[2026-03-11 13:27:31 UTC]
+Author: ashxd_au (154835267939860480)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+OCE another Australian guild so sad
+
+Original Cleaned:
+OCE another Australian guild so sad
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+OCE 또 다른 호주 길드가 너무 슬퍼요
+
+
+======================================================================
+[2026-03-11 13:26:35 UTC]
+Author: ashxd_au (154835267939860480)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+I lost some life travelling around the map collecting all those from ports
+
+Original Cleaned:
+I lost some life travelling around the map collecting all those from ports
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+항구의 모든 것을 수집하느라 맵을 돌아다니다 목숨을 잃었습니다.
+
+
+======================================================================
+[2026-03-11 13:24:49 UTC]
+Author: ashxd_au (154835267939860480)
+Source Channel: 1475790565110054953
+Relay Channel: 1475790565110054953
+Original Raw:
+In fort for someone Urakan
+
+Original Cleaned:
+In fort for someone Urakan
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+누군가를 위한 요새에서 우라칸
+
+
+======================================================================
 [2026-03-11 11:07:41 UTC]
 Author: ad_origina1 (257097077782216704)
 Original:

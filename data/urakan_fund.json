@@ -1,0 +1,35 @@
+{
+  "928983859222159390": {
+    "anchor": {
+      "channel_id": 1470760864796905493,
+      "message_id": 1470760895981424813
+    },
+    "ui": {
+      "page": 0
+    },
+    "totals": {
+      "blueprint_frag": 2301,
+      "escudo": 2101
+    },
+    "donors": {
+      "257097077782216704": {
+        "name": "Gaslighting",
+        "blueprint_frag": 1,
+        "escudo": 1,
+        "last_at": "2026-02-10 21:42:51"
+      },
+      "329597905063247873": {
+        "name": "Lakia",
+        "blueprint_frag": 2000,
+        "escudo": 1000,
+        "last_at": "2026-02-10 21:57:18"
+      },
+      "396311168123142144": {
+        "name": "Krishna",
+        "blueprint_frag": 300,
+        "escudo": 1100,
+        "last_at": "2026-02-13 16:23:37"
+      }
+    }
+  }
+}

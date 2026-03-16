@@ -15,9 +15,6 @@
 # - Opinion 반영 시 ephemeral message edit 금지:
 #   항상 state.message_id(안건 원본 메시지)를 fetch 후 edit (404 Unknown Message 해결)
 #
-# ✅ main.py 필수
-# from cogs.agenda import AgendaVoteView
-# self.add_view(AgendaVoteView())
 
 import json
 import pathlib
@@ -692,3 +689,7 @@ class AgendaCog(commands.Cog):
 
 async def setup(bot: commands.Bot):
     await bot.add_cog(AgendaCog(bot))
+
+
+async def register_persistent_views(bot: commands.Bot):
+    bot.add_view(AgendaVoteView())

@@ -1,5 +1,86 @@
 
 ======================================================================
+[2026-03-12 03:40:55 UTC]
+Author: rejuvyn (238873724491661314)
+Source Channel: 1470252127526850600
+Relay Channel: 1470252127526850600
+Original Raw:
+Thank you for the advice!
+
+Original Cleaned:
+Thank you for the advice!
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+조언해 주셔서 감사합니다!
+
+
+======================================================================
+[2026-03-12 03:30:39 UTC]
+Author: tairong (164075614372888576)
+Source Channel: 1470252127526850600
+Relay Channel: 1470252127526850600
+Original Raw:
+hurcan 이외의 전투함들을 빠르게 boarding 하거나 침몰시킬거면colossus가 제격이고, 그 위의 함그베서 서로의 선원 수를 깎아내리거나 kiting등을 할 때는 inrog가 나아
+
+Original Cleaned:
+hurcan 이외의 전투함들을 빠르게 boarding 하거나 침몰시킬거면colossus가 제격이고, 그 위의 함그베서 서로의 선원 수를 깎아내리거나 kiting등을 할 때는 inrog가 나아
+
+Translations:
+- 🇰🇷 KO → 🇺🇸 EN
+If you want to quickly board or sink ships other than hurcan, colossus is the way to go, and inrog is better if you want to be on top of them, kiting, etc.
+
+
+======================================================================
+[2026-03-12 03:29:38 UTC]
+Author: tairong (164075614372888576)
+Source Channel: 1470252127526850600
+Relay Channel: 1470252127526850600
+Original Raw:
+각각 장단점이 있긴한데.
+colossus는 주로 boarding  battle까지 겸하는 배에 주로 쓰이고,  inrog는 어느 라인 배틀 및 대치전 단계 등 상황에서나 무난하게 쓰여, 단점은 탄착군의 기복이 심하기 때문에 조준 정렬 관련 선원이 필요하거나 침착하게 1 broadside를 순차적인게 아닌 한번에 쏘는걸 추천해
+
+Original Cleaned:
+각각 장단점이 있긴한데. colossus는 주로 boarding battle까지 겸하는 배에 주로 쓰이고, inrog는 어느 라인 배틀 및 대치전 단계 등 상황에서나 무난하게 쓰여, 단점은 탄착군의 기복이 심하기 때문에 조준 정렬 관련 선원이 필요하거나 침착하게 1 broadside를 순차적인게 아닌 한번에 쏘는걸 추천해
+
+Translations:
+- 🇰🇷 KO → 🇺🇸 EN
+Each has its pros and cons. colossus is mainly used for ships that also serve as boarding battles, inrog is fine for any line battle and confrontation phase, and the disadvantage is that the shot force is up and down, so you need a sailor who knows how to align the aim, or it is recommended to calmly shoot 1 broadside at once instead of sequentially.
+
+
+======================================================================
+[2026-03-12 03:23:50 UTC]
+Author: r_shasha (638927161675481118)
+Source Channel: 1470252127526850600
+Relay Channel: 1470252127526850600
+Original Raw:
+스타일에 따라다릅니다 콜로서스 쓰는 사람이 있고, 인로그 쓰는 사람이 있습니다
+
+Original Cleaned:
+스타일에 따라다릅니다 콜로서스 쓰는 사람이 있고, 인로그 쓰는 사람이 있습니다
+
+Translations:
+- 🇰🇷 KO → 🇺🇸 EN
+It depends on your style: some people use Colossus, others use Inlog
+
+
+======================================================================
+[2026-03-12 03:22:01 UTC]
+Author: rejuvyn (238873724491661314)
+Source Channel: 1470252127526850600
+Relay Channel: 1470252127526850600
+Original Raw:
+Question:  What guns do you recommend for Huracan?  ATK is trying to get a 2nd Huracan right now, and we are almost there.
+
+Original Cleaned:
+Question: What guns do you recommend for Huracan? ATK is trying to get a 2nd Huracan right now, and we are almost there.
+
+Translations:
+- 🇺🇸 EN → 🇰🇷 KO
+질문: 후라칸에 어떤 총기를 추천하시나요? ATK는 현재 두 번째 후라칸을 확보하기 위해 노력하고 있으며, 거의 완료 단계에 있습니다.
+
+
+======================================================================
 [2026-03-10 23:35:22 UTC]
 Author: rejuvyn (238873724491661314)
 Original:
